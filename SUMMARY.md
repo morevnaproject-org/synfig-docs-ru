@@ -1,5 +1,7 @@
 # Table of contents
 
+## Подготовка к работе
+
 * [Установка](README.md)
 
 ## Основные принципы
@@ -10,14 +12,19 @@
 * [Холст](osnovnye-principy/kholst.md)
 * [Режим анимации](osnovnye-principy/rezhim-animacii.md)
 * [Фиксаторы](osnovnye-principy/fiksatory.md)
-* [Ключевые кадры](osnovnye-principy/klyuchevye-kadry.md)
 
-## Импорт
+## Работа с растровыми изображениями
 
-* [Импорт изображений](import/import-izobrazhenii.md)
-* [Импорт секвенций кадров](import/import-sekvencii-kadrov.md)
-* [Импорт SVG](import/import-svg.md)
-* [Векторизация изображений](import/vektorizaciya-izobrazhenii.md)
+* [Импорт изображений](rabota-s-rastrovymi-izobrazheniyami/import-izobrazhenii.md)
+* [Анимация методом "Перекладка"](rabota-s-rastrovymi-izobrazheniyami/animaciya-metodom-perekladka.md)
+* [Импорт секвенций кадров](rabota-s-rastrovymi-izobrazheniyami/import-sekvencii-kadrov.md)
+* [Инструмент Ножницы](rabota-s-rastrovymi-izobrazheniyami/instrument-nozhnicy.md)
+
+## Работа с векторной графикой
+
+* [Создание фигур](rabota-s-vektornoi-grafikoi/sozdanie-figur.md)
+* [Импорт SVG](rabota-s-vektornoi-grafikoi/import-svg.md)
+* [Векторизация изображений](rabota-s-vektornoi-grafikoi/vektorizaciya-izobrazhenii.md)
 
 ## Экспорт
 
@@ -30,6 +37,30 @@
 
 * [Фаска](sloi/faska.md)
 * [Тень](sloi/ten.md)
+* [Фильтрующая группа](sloi/filtruyushaya-gruppa.md)
+
+## Инструменты анимации
+
+* [Интерполяция](instrumenty-animacii/interpolyaciya.md)
+* [Статические параметры](instrumenty-animacii/staticheskie-parametry.md)
+* [Ключевые кадры](instrumenty-animacii/klyuchevye-kadry.md)
+* [Графики](instrumenty-animacii/grafiki.md)
+* [Калька](instrumenty-animacii/kalka.md)
+* [Анимация вдоль кривой](instrumenty-animacii/animaciya-vdol-krivoi.md)
+* [Циклическая анимация](instrumenty-animacii/ciklicheskaya-animaciya.md)
+* [Слой-переключатель](instrumenty-animacii/sloi-pereklyuchatel.md)
+* [Липсинх](instrumenty-animacii/lipsinkh.md)
+
+## Звук
+
+* [Импорт звуковых файлов](zvuk/import-zvukovykh-failov.md)
+* [Использование Jack](zvuk/ispolzovanie-jack.md)
+
+## Связывание данных
+
+* [Связывание параметров](svyazyvanie-dannykh/svyazyvanie-parametrov.md)
+* [Вложенные холсты](svyazyvanie-dannykh/vlozhennye-kholsty.md)
+* [Связывание файлов](svyazyvanie-dannykh/svyazyvanie-failov.md)
 
 ## Конвертеры
 
@@ -37,10 +68,6 @@
 * [Линейный](konvertery/lineinyi.md)
 * [Петля времени](konvertery/petlya-vremeni.md)
 * [Синус](konvertery/sinus.md)
-
-## Векторные инструменты
-
-* [Создание фигур](vektornye-instrumenty/sozdanie-figur.md)
 
 ## Скелетная анимация
 
@@ -52,9 +79,3 @@
 ## Плагины
 
 * [Установка плагинов](plaginy/ustanovka-plaginov.md)
-
-## Связывание данных
-
-* [Связывание параметров](svyazyvanie-dannykh/svyazyvanie-parametrov.md)
-* [Вложенные холсты](svyazyvanie-dannykh/vlozhennye-kholsty.md)
-* [Связывание файлов](svyazyvanie-dannykh/svyazyvanie-failov.md)
