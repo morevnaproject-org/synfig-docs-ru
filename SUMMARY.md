@@ -28,6 +28,7 @@
 
 ## Экспорт
 
+* [Предварительный просмотр](eksport/predvaritelnyi-prosmotr.md)
 * [Экспорт видео](eksport/eksport-video.md)
 * [Экспорт изображений](eksport/eksport-izobrazhenii.md)
 * [Экспорт Gif-анимации](eksport/eksport-gif-animacii.md)
