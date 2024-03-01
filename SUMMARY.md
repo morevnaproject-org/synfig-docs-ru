@@ -1,8 +1,14 @@
 # Table of contents
 
+* [Введение](README.md)
+
 ## Подготовка к работе
 
-* [Установка](README.md)
+* [Системные требования](podgotovka-k-rabote/sistemnye-trebovaniya.md)
+* [Установка версии для Windows](podgotovka-k-rabote/ustanovka-versii-dlya-windows.md)
+* [Установка portable-версии для Windows](podgotovka-k-rabote/ustanovka-portable-versii-dlya-windows.md)
+* [Установка версии для Linux](podgotovka-k-rabote/ustanovka-versii-dlya-linux.md)
+* [Установка версии для MacOS](podgotovka-k-rabote/ustanovka-versii-dlya-macos.md)
 
 ## Основные принципы
 
