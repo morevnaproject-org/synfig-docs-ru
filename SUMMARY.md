@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Введение](README.md)
+* [😇 Введение](README.md)
 
 ## Подготовка к работе
 
@@ -8,16 +8,21 @@
 * [Установка версии для Windows](podgotovka-k-rabote/ustanovka-versii-dlya-windows.md)
 * [Установка portable-версии для Windows](podgotovka-k-rabote/ustanovka-portable-versii-dlya-windows.md)
 * [Установка версии для Linux](podgotovka-k-rabote/ustanovka-versii-dlya-linux.md)
-* [Установка версии для MacOS](podgotovka-k-rabote/ustanovka-versii-dlya-macos.md)
+* [Установка версии для macOS](podgotovka-k-rabote/ustanovka-versii-dlya-macos.md)
 
 ## Основные принципы
 
 * [Интерфейс](osnovnye-principy/interfeis.md)
 * [Слои](osnovnye-principy/sloi.md)
+* [Параметры слоя](osnovnye-principy/parametry-sloya.md)
 * [Группы](osnovnye-principy/gruppy.md)
+* [Смешивание слоёв](osnovnye-principy/smeshivanie-sloyov.md)
+* [Фильтрующие слои](osnovnye-principy/filtruyushie-sloi.md)
 * [Холст](osnovnye-principy/kholst.md)
 * [Режим анимации](osnovnye-principy/rezhim-animacii.md)
 * [Фиксаторы](osnovnye-principy/fiksatory.md)
+* [Ключевые кадры](osnovnye-principy/klyuchevye-kadry.md)
+* [Инструменты](osnovnye-principy/instrumenty.md)
 
 ## Работа с растровыми изображениями
 
@@ -40,11 +45,11 @@
 * [Экспорт Gif-анимации](eksport/eksport-gif-animacii.md)
 * [Экспорт web-анимации (Lottie)](eksport/eksport-web-animacii-lottie.md)
 
-## Слои
+## Перечень слоёв
 
-* [Фаска](sloi/faska.md)
-* [Тень](sloi/ten.md)
-* [Фильтрующая группа](sloi/filtruyushaya-gruppa.md)
+* [Фаска](perechen-sloyov/faska.md)
+* [Тень](perechen-sloyov/ten.md)
+* [Фильтрующая группа](perechen-sloyov/filtruyushaya-gruppa.md)
 
 ## Инструменты анимации
 
