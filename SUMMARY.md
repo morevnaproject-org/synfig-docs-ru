@@ -53,7 +53,6 @@
 
 ## Инструменты анимации
 
-* [Интерполяция](instrumenty-animacii/interpolyaciya.md)
 * [Статические параметры](instrumenty-animacii/staticheskie-parametry.md)
 * [Ключевые кадры](instrumenty-animacii/klyuchevye-kadry.md)
 * [Графики](instrumenty-animacii/grafiki.md)
@@ -61,12 +60,8 @@
 * [Анимация вдоль кривой](instrumenty-animacii/animaciya-vdol-krivoi.md)
 * [Циклическая анимация](instrumenty-animacii/ciklicheskaya-animaciya.md)
 * [Слой-переключатель](instrumenty-animacii/sloi-pereklyuchatel.md)
+* [Импорт звуковых файлов](instrumenty-animacii/import-zvukovykh-failov.md)
 * [Липсинх](instrumenty-animacii/lipsinkh.md)
-
-## Звук
-
-* [Импорт звуковых файлов](zvuk/import-zvukovykh-failov.md)
-* [Использование Jack](zvuk/ispolzovanie-jack.md)
 
 ## Связывание данных
 
