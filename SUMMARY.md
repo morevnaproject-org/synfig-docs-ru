@@ -61,7 +61,7 @@
 * [Циклическая анимация](instrumenty-animacii/ciklicheskaya-animaciya.md)
 * [Слой-переключатель](instrumenty-animacii/sloi-pereklyuchatel.md)
 * [Импорт звуковых файлов](instrumenty-animacii/import-zvukovykh-failov.md)
-* [Липсинх](instrumenty-animacii/lipsinkh.md)
+* [Липсинк](instrumenty-animacii/lipsink.md)
 
 ## Связывание данных
 
