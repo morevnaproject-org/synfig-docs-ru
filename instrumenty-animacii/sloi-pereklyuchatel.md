@@ -1,31 +1,44 @@
 # Слой-переключатель
 
-**Слой-переключатель** - это специальный тип слоя, предназначенный для группировки множества других слоев. Особенность слоя-переключателя заключается в том, что он одновременно отображает только один из вложенных слоев.
+**Слой-переключатель** - это специальный тип слоя, предназначенный для группировки множества других слоев. Особенность слоя-переключателя заключается в том, что он одновременно отображает только один из вложенных слоев (рис. 1).
 
-<figure><img src="https://lh7-us.googleusercontent.com/CDbJK34tfOnV013uS5-QFk2DfQY-I9sdBW3E4nV7sJVySHD4h1NnvQH1So7dSna0h5x40Dn8v72-QwJHwI6GcjX8RJbmYRn35zLytfop4KHAdzePxskC3sqAjSq6V6F_UH6A0MWV_2PI_GvGuL5xqXs" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2024-04-17_13-14_1.png" alt=""><figcaption><p>Рис. 1 Слой-переключатель</p></figcaption></figure>
 
-У этой группы есть специальный параметр «Имя активного слоя» - он указывает какой именно слой отображается на рабочей области.
+Чтобы поместить слои в слой-переключатель, нужно выделить все необходимые слои на панели слоёв, нажать правой кнопкой мыши на любом из них и из появившегося окна выбрать "сгруппировать слои в переключатель" (рис. 1.1).
 
-гиф
+<figure><img src="../.gitbook/assets/howtoswitch.png" alt=""><figcaption><p>Рис. 1.1  Группировка слоёв в слой-переключатель</p></figcaption></figure>
 
-<figure><img src="https://lh7-us.googleusercontent.com/0ge3yjNYELpyRb4RfaHXLlOiCTXq5WtOakbYa2ZVEaeBhNmBtgX9-Kc2QMtWuL7Uc4gw2CwxdYPbMmGvT1VReOle68Zqvn_T0D3DHg-qHkXEHr4sjOLoA6T6SO_EmgaDEc5EyXL91tu8QwVVNDdsMPg" alt=""><figcaption></figcaption></figure>
+Также можно создать переключатель с помощью кнопки "создать слой" внизу панели слоёв. Нажимаем на крест, из появившегося меню выбираем "другое" и "переключатель". Далее перемещаем необходимые слои в переключатель как в обычную группу.
 
-Если мы будем изменять этот параметр в режиме анимации, то у нас будут появляться фиксаторы и слои будут переключаться. (ДОБАВИТЬ ЕЩЕ ГИФ)
+<figure><img src="../.gitbook/assets/switcher7.gif" alt=""><figcaption><p>Рис. 1.2 Группировка слоёв в слой-переключатель</p></figcaption></figure>
 
-<figure><img src="https://lh7-us.googleusercontent.com/i4nzlF75vqr1P-7qd3AhupRnFmA_Z3dyV8lAnBU2LvDH7toeY99ju0-1AQU0CqD39Eiq2n3vUH3S4YxVZPZkIys7Lnt2FFfDZdhejhJqsHB6K7gpRyqZ-OAiWEpM8GIloQieWgYVRBcJsfgMSuVghCg" alt=""><figcaption></figcaption></figure>
+У этой группы есть специальный параметр «Имя активного слоя» - он указывает какой именно слой отображается на рабочей области (рис. 2).
+
+<figure><img src="../.gitbook/assets/switcher.gif" alt=""><figcaption><p>Рис.  2 Переключение слоёв</p></figcaption></figure>
+
+Если мы будем изменять этот параметр в режиме анимации, то у нас будут появляться фиксаторы и слои будут переключаться (рис.  3).
+
+<figure><img src="../.gitbook/assets/switcher2.gif" alt=""><figcaption><p>Рис.  3 Анимирование переключения слоёв</p></figcaption></figure>
 
 ### Применение
 
 Слои-переключатели применяются для управления видимостью взаимоисключающих элементов анимации или сцены. Варианты использования:
 
-* Переключение между различными частями персонажа (разные выражения лица, варианты позиций рук, ног и др.);
+* Переключение между различными частями персонажа (разные выражения лица, варианты позиций рук, ног и др.) (рис.  4);
 
-гиф
+<figure><img src="../.gitbook/assets/AIMrSGuo6Tk.jpg" alt=""><figcaption><p>Рис.  4 Разворот персонажа</p></figcaption></figure>
 
-* Липсинк (переключение между фонемами - разными позициями рта);
+<figure><img src="../.gitbook/assets/switcher3.gif" alt=""><figcaption><p>Рис.  4.1 Анимированый разворот персонажа с помощью слоя-переключателя</p></figcaption></figure>
 
-гиф
+* Липсинк (переключение между фонемами - разными позициями рта) (рис.  5);
 
-* Использование последовательности кадров (покадровая анимация, png-секвенции)
+<figure><img src="../.gitbook/assets/switcher4.gif" alt=""><figcaption><p>Рис.  5 Липсинк с помощью слоя-переключателя</p></figcaption></figure>
 
-гиф
+* Использование последовательности кадров (покадровая анимация, png-секвенции). При импорте в synfig, последовательность кадров автоматически сохраняется в слой-переключатель (рис.  6).
+
+<figure><img src="../.gitbook/assets/importseq.png" alt=""><figcaption><p>Рис.  6 Ипортирование последовательности</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/importseq2.png" alt=""><figcaption><p>Рис.  6.1 Ипортирование последовательности</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/switcher5.gif" alt=""><figcaption><p>Рис.  6.2 Ипортирование последовательности</p></figcaption></figure>
+

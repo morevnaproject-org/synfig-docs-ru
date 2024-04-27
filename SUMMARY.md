@@ -47,6 +47,10 @@
 
 ## Перечень слоёв
 
+* [Размывание](perechen-sloyov/razmyvanie.md)
+* [Размывание движением](perechen-sloyov/razmyvanie-dvizheniem.md)
+* [Радиальное размывание](perechen-sloyov/radialnoe-razmyvanie.md)
+* [Деформация по кривой](perechen-sloyov/deformaciya-po-krivoi.md)
 * [Фаска](perechen-sloyov/faska.md)
 * [Тень](perechen-sloyov/ten.md)
 * [Фильтрующая группа](perechen-sloyov/filtruyushaya-gruppa.md)
