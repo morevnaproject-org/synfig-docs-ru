@@ -11,7 +11,7 @@
 5. Панель параметров слоя
 6. Шкала кадров
 
-<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption><p><em>Рис. 1 Интерфейс Synfig Studio</em> </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1) (1).png" alt=""><figcaption><p><em>Рис. 1 Интерфейс Synfig Studio</em> </p></figcaption></figure>
 
 {% hint style="info" %}
 Если ваш интерфейс выглядит иначе, возможно, что кто-то другой уже использовал программу и изменил настройки. Чтобы восстановить исходный вид интерфейса, перейдите в меню “Окно”, затем выберите “Рабочая область”, а далее - “По умолчанию”.

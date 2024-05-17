@@ -1,6 +1,6 @@
 # Table of contents
 
-* [😇 Введение](README.md)
+* [Введение](README.md)
 
 ## Подготовка к работе
 
@@ -15,10 +15,9 @@
 * [Интерфейс](osnovnye-principy/interfeis.md)
 * [Слои](osnovnye-principy/sloi.md)
 * [Параметры слоя](osnovnye-principy/parametry-sloya.md)
-* [Группы](osnovnye-principy/gruppy.md)
+* [Группирование слоев](osnovnye-principy/gruppy.md)
 * [Смешивание слоёв](osnovnye-principy/smeshivanie-sloyov.md)
-* [Фильтрующие слои](osnovnye-principy/filtruyushie-sloi.md)
-* [Холст](osnovnye-principy/kholst.md)
+* [Параметры Холста](osnovnye-principy/kholst.md)
 * [Режим анимации](osnovnye-principy/rezhim-animacii.md)
 * [Фиксаторы](osnovnye-principy/fiksatory.md)
 * [Ключевые кадры](osnovnye-principy/klyuchevye-kadry.md)
@@ -34,8 +33,8 @@
 ## Работа с векторной графикой
 
 * [Создание фигур](rabota-s-vektornoi-grafikoi/sozdanie-figur.md)
-* [Импорт SVG](rabota-s-vektornoi-grafikoi/import-svg.md)
-* [Векторизация изображений](rabota-s-vektornoi-grafikoi/vektorizaciya-izobrazhenii.md)
+* [Импорт SVG](rabota-s-vektornoi-grafikoi/vektorizaciya-izobrazhenii.md)
+* [Векторизация изображения](rabota-s-vektornoi-grafikoi/import-svg.md)
 
 ## Экспорт
 
@@ -52,9 +51,52 @@
 * [Радиальное размывание](perechen-sloyov/radialnoe-razmyvanie.md)
 * [Деформация по кривой](perechen-sloyov/deformaciya-po-krivoi.md)
 * [Искажение шумом](perechen-sloyov/iskazhenie-shumom.md)
+* [Деформирующий скелета](perechen-sloyov/deformiruyushii-skeleta.md)
+* [Сферизация](perechen-sloyov/sferizaciya.md)
+* [Растяжение](perechen-sloyov/rastyazhenie.md)
+* [Вихрь](perechen-sloyov/vikhr.md)
+* [Искажение](perechen-sloyov/iskazhenie.md)
+* [Порог](perechen-sloyov/porog.md)
+* [Цветокоррекция](perechen-sloyov/cvetokorrekciya.md)
+* [Полутон 2](perechen-sloyov/poluton-2.md)
+* [Полутон 3](perechen-sloyov/poluton-3.md)
+* [Ключ светимости](perechen-sloyov/klyuch-svetimosti.md)
+* [Жюлиа](perechen-sloyov/zhyulia.md)
+* [Мандельброт](perechen-sloyov/mandelbrot.md)
+* [Сплошная заливка](perechen-sloyov/sploshnaya-zalivka.md)
+* [Расширенный контур](perechen-sloyov/rasshirennyi-kontur.md)
+* [Шахматная доска](perechen-sloyov/shakhmatnaya-doska.md)
+* [Окружность](perechen-sloyov/okruzhnost.md)
+* [Контур](perechen-sloyov/kontur.md)
+* [Многоугольник](perechen-sloyov/mnogougolnik.md)
+* [Прямоугольник](perechen-sloyov/pryamougolnik.md)
+* [Область](perechen-sloyov/oblast.md)
+* [Звезда](perechen-sloyov/zvezda.md)
+* [Конически градиент](perechen-sloyov/konicheski-gradient.md)
+* [Искривлённый градиент](perechen-sloyov/iskrivlyonnyi-gradient.md)
+* [Линейный градиент](perechen-sloyov/lineinyi-gradient.md)
+* [Градиентный шум](perechen-sloyov/gradientnyi-shum.md)
+* [Радиальный градиент](perechen-sloyov/radialnyi-gradient.md)
+* [Спиральный градиент](perechen-sloyov/spiralnyi-gradient.md)
+* [Дублировать](perechen-sloyov/dublirovat.md)
+* [Группирующий слой](perechen-sloyov/gruppiruyushii-sloi.md)
+* [Группа-переключатель](perechen-sloyov/gruppa-pereklyuchatel.md)
+* [Группа фильтров](perechen-sloyov/gruppa-filtrov.md)
+* [Импорт изображения](perechen-sloyov/import-izobrazheniya.md)
+* [Растения](perechen-sloyov/rasteniya.md)
+* [Скелет](perechen-sloyov/skelet.md)
+* [Звук](perechen-sloyov/zvuk.md)
+* [Сглаживание](perechen-sloyov/sglazhivanie.md)
+* [Текст](perechen-sloyov/tekst.md)
+* [Узор Исключающего ИЛИ](perechen-sloyov/uzor-isklyuchayushego-ili.md)
 * [Фаска](perechen-sloyov/faska.md)
 * [Тень](perechen-sloyov/ten.md)
-* [Фильтрующая группа](perechen-sloyov/filtruyushaya-gruppa.md)
+* [Свободное время](perechen-sloyov/svobodnoe-vremya.md)
+* [Стробоскоп](perechen-sloyov/stroboskop.md)
+* [Петля времени](perechen-sloyov/petlya-vremeni.md)
+* [Вращение](perechen-sloyov/vrashenie.md)
+* [Перемещение](perechen-sloyov/peremeshenie.md)
+* [Масштаб](perechen-sloyov/filtruyushaya-gruppa.md)
 
 ## Инструменты анимации
 
@@ -86,7 +128,7 @@
 * [Создание скелета](skeletnaya-animaciya/sozdanie-skeleta.md)
 * [Привязка групп и изображений](skeletnaya-animaciya/privyazka-grupp-i-izobrazhenii.md)
 * [Привязка векторных слоёв](skeletnaya-animaciya/privyazka-vektornykh-sloyov.md)
-* [Деформирующий скелет](skeletnaya-animaciya/deformiruyushii-skelet.md)
+* [Использование деформирующего скелета](skeletnaya-animaciya/deformiruyushii-skelet.md)
 
 ## Плагины
 

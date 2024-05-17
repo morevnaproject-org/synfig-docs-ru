@@ -1,7 +1,5 @@
 # Фиксаторы
 
-## **Фиксаторы**&#x20;
-
 <img src="https://lh7-us.googleusercontent.com/wKQKyOMsnDNdB-ioo_xKKYVnBMoScs36FiayludC5UezLgE_66u7WbGjChg1iTgShr3OLJuaHNxqm4XOm65Ymkjq1NTUkqxAuNwW9RN62gdLFR8Ib0Y-61rBhhMavSh3_5CWw9vSZBXaNXlNl7upLWE" alt="" data-size="line">**Фиксаторы** — это графические элементы, отображаемые на шкале кадров. Они автоматически создаются при изменении значений параметров объекта (слоя) в режиме анимации. Для каждого параметра создается отдельный фиксатор (рис.  1).
 
 <figure><img src="../.gitbook/assets/2024-04-03_16-29.png" alt=""><figcaption><p>Рис. 1 Графическое отображение фиксаторов</p></figcaption></figure>

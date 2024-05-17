@@ -36,7 +36,7 @@
 
 <img src="../.gitbook/assets/delete_layer (1).png" alt="" data-size="line">- Удалить слой
 
-<img src="../.gitbook/assets/tool_cutout_icon (1).png" alt="" data-size="line">- Вырезать слой
+<img src="../.gitbook/assets/tool_cutout_icon (1) (1).png" alt="" data-size="line">- Вырезать слой
 
 <img src="../.gitbook/assets/copy_layer.png" alt="" data-size="line">- Скопировать слой
 
