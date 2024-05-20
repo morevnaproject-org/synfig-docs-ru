@@ -8,15 +8,15 @@
 * Вращение - устанавливает число оборотов эффекта вращения. Влияет на интенсивность вихря  в зависимости от угла поворота. Положительное чилсло закручивает объект против часовой стрелки, отрицательное - по часовой.
 * Искажать внутри - если включено, то вихрь закручивается внутри установленного радиуса.
 
-<figure><img src="../.gitbook/assets/in (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/in (1).gif" alt=""><figcaption><p>Вихрь внутри</p></figcaption></figure>
 
 * Искажать снаружи - если включено, то вихрь закручивается снаружи установленного радиуса.
 
-<figure><img src="../.gitbook/assets/out (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/out (1).gif" alt=""><figcaption><p>Вихрь снаружи</p></figcaption></figure>
 
 * Искажение внутри и снаружи могут быть включены одновременно.
 
-<figure><img src="../.gitbook/assets/inandout (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/inandout (1).gif" alt=""><figcaption><p>Вихрь внутри и снаружи</p></figcaption></figure>
 
 Чтобы повторить вышепоказанные примеры, выставите следующие настройки:
 

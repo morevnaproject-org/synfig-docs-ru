@@ -51,7 +51,7 @@
 * [Радиальное размывание](perechen-sloyov/radialnoe-razmyvanie.md)
 * [Деформация по кривой](perechen-sloyov/deformaciya-po-krivoi.md)
 * [Искажение шумом](perechen-sloyov/iskazhenie-shumom.md)
-* [Деформирующий скелета](perechen-sloyov/deformiruyushii-skeleta.md)
+* [Деформирующий скелет](perechen-sloyov/deformiruyushii-skelet.md)
 * [Сферизация](perechen-sloyov/sferizaciya.md)
 * [Растяжение](perechen-sloyov/rastyazhenie.md)
 * [Вихрь](perechen-sloyov/vikhr.md)

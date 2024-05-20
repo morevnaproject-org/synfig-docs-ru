@@ -1,8 +1,8 @@
-# Холст
+# Параметры Холста
 
 Для того чтобы изменить параметры холста, нужно выбрать из верхнего меню “Холст” - “Свойства…”
 
-<figure><img src="https://lh7-us.googleusercontent.com/mdJGNsrYig4xiQvu89LtJQuKZ7wSJ1LzUiIFRp34dmi0WV0MpRyQFkOqX55II0zvO2t8j9f6SuBC6JZznnAnWdjnifKwGIjJNQl19OCDfjcBt4hztN1EGLI9BgGhOF04gz7XuDz73XOe3j479VBU7Xw" alt=""><figcaption><p>Рис. 1 Окно "Свойства холста"</p></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/mdJGNsrYig4xiQvu89LtJQuKZ7wSJ1LzUiIFRp34dmi0WV0MpRyQFkOqX55II0zvO2t8j9f6SuBC6JZznnAnWdjnifKwGIjJNQl19OCDfjcBt4hztN1EGLI9BgGhOF04gz7XuDz73XOe3j479VBU7Xw" alt=""><figcaption><p>Окно "Свойства холста"</p></figcaption></figure>
 
 Перед вами откроется диалоговое окно “Свойства”. Здесь можно Переименовывать рабочий файл и дать ему краткое описание.
 
@@ -32,7 +32,7 @@
 
 На вкладке «Прочее» снимите галочки со всех пунктов «Блокировки и связи»:
 
-<figure><img src="https://lh7-us.googleusercontent.com/dNktkyDyxkJc_s5Xn8clRfx1VIxd1yTBRhSEuqmsxAIYHlAse2YKzzGMxcz1yXdQqB3RPOPob8Dn7GOR2oPseB5TOVtIupZm3G1lFC7_EfF3F7AAgh-WrPJlu5cjatcZSomD9G7q7H5ZKSEMx8Pl5ms" alt=""><figcaption><p>Рис. 2 Снятие голочек со всех пунктов "Блокировки связи"</p></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/dNktkyDyxkJc_s5Xn8clRfx1VIxd1yTBRhSEuqmsxAIYHlAse2YKzzGMxcz1yXdQqB3RPOPob8Dn7GOR2oPseB5TOVtIupZm3G1lFC7_EfF3F7AAgh-WrPJlu5cjatcZSomD9G7q7H5ZKSEMx8Pl5ms" alt=""><figcaption><p>Снятие голочек со всех пунктов "Блокировки связи"</p></figcaption></figure>
 
 Затем, отредактируйте изображение ширину и высоту во вкладке “Изображение”. Это изменит размер холста, растягивая его содержимое.
 
@@ -46,13 +46,11 @@
 
 На вкладке «Прочее» в разделе «Блокировки и связи» отметьте только «Соотношение сторон пикселей»:
 
-<figure><img src="https://lh7-us.googleusercontent.com/D4O33OL2EQY8FF90D6T7W-RQ0TFlb_KocopRbBrraPiORFIpHcW5ih0JWQduiaR-Ygv45sb17So6HKFueQEvjha42CB3U8rJnJiBuWeuO7oLtRrpG9gOlFsKrQSYXwcTTAcsz_0n_LxOxkaworri9NM" alt=""><figcaption><p>Рис.3 Галочка на "Соотношение сторон пикселей"</p></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/D4O33OL2EQY8FF90D6T7W-RQ0TFlb_KocopRbBrraPiORFIpHcW5ih0JWQduiaR-Ygv45sb17So6HKFueQEvjha42CB3U8rJnJiBuWeuO7oLtRrpG9gOlFsKrQSYXwcTTAcsz_0n_LxOxkaworri9NM" alt=""><figcaption><p>Галочка на "Соотношение сторон пикселей"</p></figcaption></figure>
 
 Затем отредактируйте изображение «Ширина» и «Высота» на вкладке “Изображение”. Это расширит холст, сохранив его содержимое в том же размере, но добавив дополнительное пространство сверху/снизу и слева/справа.
 
-Вкладка "Время"\
-
-
+## Вкладка "Время"
 
 На вкладке "Время" вы можете установить:
 
@@ -63,7 +61,7 @@
 * Время конца анимации
 * Длительность анимации&#x20;
 
-<figure><img src="https://lh7-us.googleusercontent.com/6lAeCF9fkqeRIoZNR2WYywwn-4-XcCoXUv4cA4iLVUVLFJEPFbyJXBgivktsFtFTJAaMYn3-gLNafTWymL-eOPurdumNShuDU1hQusDFtRGEyAZ3yHey2MNJxDQRcaq6aAe4Iw3rpMTA4_c9CvazSag" alt=""><figcaption><p>Рис. 4 Вкладка "Время"</p></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/6lAeCF9fkqeRIoZNR2WYywwn-4-XcCoXUv4cA4iLVUVLFJEPFbyJXBgivktsFtFTJAaMYn3-gLNafTWymL-eOPurdumNShuDU1hQusDFtRGEyAZ3yHey2MNJxDQRcaq6aAe4Iw3rpMTA4_c9CvazSag" alt=""><figcaption><p>Вкладка "Время"</p></figcaption></figure>
 
 На вкладке "Прочее" вы можете установить:
 
@@ -81,8 +79,5 @@
 
 * Точка фокусировки X
 * Точка фокусировки Y
-
-\
-
 
 На вкладке «Прочее» снимите галочки со всех пунктов «Блокировки и связи»:

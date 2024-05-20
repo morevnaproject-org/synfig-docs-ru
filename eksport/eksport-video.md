@@ -6,9 +6,7 @@
 
 После чего откроется диалог "параметры визуализации".
 
-<figure><img src="https://lh7-us.googleusercontent.com/f3hWNIzpQEYjXYtbRX2ij8ZsDImPRIlMdPiiI1b1b30OvcXub11QY4I4FMOAtgPjcUeXPW3-npUpgyiQNw24SVum1sGtKyLN71XyjuLfYgFVwQUFaaKcPZoGRGD2TBWVdSjj-F0-9cdcvz8jir-MxT4" alt=""><figcaption><p>Рис. 1 Окно "Параметры визуализации"</p></figcaption></figure>
-
-
+<figure><img src="https://lh7-us.googleusercontent.com/f3hWNIzpQEYjXYtbRX2ij8ZsDImPRIlMdPiiI1b1b30OvcXub11QY4I4FMOAtgPjcUeXPW3-npUpgyiQNw24SVum1sGtKyLN71XyjuLfYgFVwQUFaaKcPZoGRGD2TBWVdSjj-F0-9cdcvz8jir-MxT4" alt=""><figcaption><p>Окно "Параметры визуализации"</p></figcaption></figure>
 
 **Рендеринг в avi**
 
@@ -22,7 +20,7 @@
 
 Ниже вы можете задать размер изображения. А на вкладке "Время" можно указать диапазон кадров который вы хотите отрендерить.
 
-<figure><img src="../.gitbook/assets/60.png" alt=""><figcaption><p>Рис. 2 Вкладка "Время"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/60.png" alt=""><figcaption><p>Вкладка "Время"</p></figcaption></figure>
 
 Щелкните "Визуализация" и не закрывайте программу пока не появится надпись: "Файл успешно визуализирован", а в панале "Инфо" не загрузится полоса 100%. И если вы все сделали правильно, то в назначенной папке появится ваш файл.
 

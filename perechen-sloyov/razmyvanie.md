@@ -30,23 +30,23 @@
 
 * **Квадратичное размытие:** Создает размытие прямоугольной формы, похоже на Гауссово размытие.
 
-<figure><img src="../.gitbook/assets/square.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/square.gif" alt=""><figcaption><p><strong>Квадратичное размытие</strong></p></figcaption></figure>
 
 * **Быстрое Гауссово размытие:** Обеспечивает баланс между качеством и скоростью.
 
-<figure><img src="../.gitbook/assets/fastgaus.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fastgaus.gif" alt=""><figcaption><p><strong>Быстрое Гауссово размытие:</strong></p></figcaption></figure>
 
 * **Перекрестное размытие:** Создает размытие в виде пересекающихся линий.
 
-<figure><img src="../.gitbook/assets/cross.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cross.gif" alt=""><figcaption><p><strong>Перекрестное размытие</strong></p></figcaption></figure>
 
 * **Дисковое размытие:** Создает размытие круглой формы.
 
-<figure><img src="../.gitbook/assets/disk.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/disk.gif" alt=""><figcaption><p><strong>Дисковое размытие</strong></p></figcaption></figure>
 
 * **Гауссово размытие:** Обеспечивает более плавное размытие по сравнению с быстрым вариантом, однако занимает намного больше времени рендера.
 
-<figure><img src="../.gitbook/assets/gaus.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gaus.gif" alt=""><figcaption><p><strong>Гауссово размытие</strong></p></figcaption></figure>
 
 {% hint style="info" %}
 Для демонстрации размывания был анимирован параметр "размер". Его значение изменялось от 0px, 0px до 200px, 200px c 0 по 120 кадр:

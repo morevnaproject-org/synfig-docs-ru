@@ -4,7 +4,7 @@
 \
 
 
-<figure><img src="https://lh7-us.googleusercontent.com/Tm-ifjMvriOr9SULY6RBATr482ll_7OQ06nuByzAK5rk8MDxsusO0Xu5CtJkZ-u-oQWPfS1rHksgRsJ_KPA74iFBCQkob5uMLY6OuHOR8W_8SmYcW5YblhbSIFLNP73M2rvAwz7rgLfhcm5IICvMyqI" alt="" width="375"><figcaption><p>Рис. 1 Панель инструментов</p></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/Tm-ifjMvriOr9SULY6RBATr482ll_7OQ06nuByzAK5rk8MDxsusO0Xu5CtJkZ-u-oQWPfS1rHksgRsJ_KPA74iFBCQkob5uMLY6OuHOR8W_8SmYcW5YblhbSIFLNP73M2rvAwz7rgLfhcm5IICvMyqI" alt="" width="375"><figcaption><p>Панель инструментов</p></figcaption></figure>
 
 На ней есть базовый набор фигур: **круг, прямоугольник, звезда и многогоугольник**. Все кроме последнего создаются просто: выбираем нужный инструмент, кликаем на рабочую область и удерживая левую кнопку мыши растягиваем фигуру до нужного нам размера.\
 Инструмент многоугольник в свою же очередь создает неограничесное количество вершин, просто кликая по рабочей области в то место, где вы хотите поставить вершину. Чтобы завершить фигуру, вам нужно замкнуть первую и последнюю точки или же кликнуть дважды левой кнопкой мыши на рабочую область, тогда фигура автоматически замкнётся.\

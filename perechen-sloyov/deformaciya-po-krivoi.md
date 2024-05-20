@@ -6,12 +6,12 @@
 
 На рисунке ниже предствалено графическое отображение данного слоя. Под цифрой 1 - прямая с вершинами, которая отвечает за размер и расположение объекта, на который она влияет. Под цифрой 2 - кривая Безье, с помощью которой можно изгибать объект.
 
-<figure><img src="../.gitbook/assets/2024-04-27_15-31.png" alt=""><figcaption><p>Рис. 1 Графичкское отображение слоя "деформация по кривой"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2024-04-27_15-31.png" alt=""><figcaption><p>Графичкское отображение слоя "деформация по кривой"</p></figcaption></figure>
 
 Параметры слоя "Деформация по кривой"
 
-<figure><img src="../.gitbook/assets/2024-04-27_14-55.png" alt=""><figcaption><p>Рис. 2 Параметры слоя "Деформация по кривой"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2024-04-27_14-55.png" alt=""><figcaption><p>Параметры слоя "Деформация по кривой"</p></figcaption></figure>
 
 Данный вид слоя хорошо работает с текстовыми слоями.
 
-<figure><img src="../.gitbook/assets/text (3).gif" alt=""><figcaption><p>Рис. 3 Пример применения слоя "Деформация по кривой" с текстом</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/text (3).gif" alt=""><figcaption><p>Пример применения слоя "Деформация по кривой" с текстом</p></figcaption></figure>
