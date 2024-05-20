@@ -88,7 +88,6 @@
 * [Звук](perechen-sloyov/zvuk.md)
 * [Сглаживание](perechen-sloyov/sglazhivanie.md)
 * [Текст](perechen-sloyov/tekst.md)
-* [Узор Исключающего ИЛИ](perechen-sloyov/uzor-isklyuchayushego-ili.md)
 * [Фаска](perechen-sloyov/faska.md)
 * [Тень](perechen-sloyov/ten.md)
 * [Свободное время](perechen-sloyov/svobodnoe-vremya.md)
