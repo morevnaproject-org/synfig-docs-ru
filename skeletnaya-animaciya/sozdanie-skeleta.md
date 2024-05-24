@@ -8,9 +8,6 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/xbKS5khoLl33YfxcjJuHP9oUGDc5rSg97AdhDJrdZXGpksPUrahLM6kCgaWz6xKg1tokDKzx5AKON7cJFrz1j2bgtr83y276Lacgs6OuKrya9SM0VMboiv8pzeuw3iwo6GIJJwdUhpKhsp7MzbZXbG4" alt="" width="375"><figcaption><p>Рис 1. Создание слоя</p></figcaption></figure>
 
-\
-
-
 <figure><img src="https://lh7-us.googleusercontent.com/VY6Zc2UDY9CBIPQQK1ztpsnpg-mg2DQR97LjHUe_IYAf3SPGcL1LEBW4s6iFUp63qetWvDLrSywQyGwsHfHwmjIYTdCBOt9Na_jLpzClE5_cbTt86BZokXMSCMi1D2rWPs3g5H3X6pG09zoX6ZqTKI4" alt=""><figcaption><p>Рис. 2 Создание слоя скелет</p></figcaption></figure>
 
 На панеле слоёв появится слой скелета, в котором уже есть одна кость. На рабочей области она выглядит как линия с тремя разными точками.&#x20;

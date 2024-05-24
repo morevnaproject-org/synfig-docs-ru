@@ -2,12 +2,30 @@
 
 Звезда - это геометрический объект, который создается путем заполнения области, полученной в результате соединения точек двух концентрических окружностей прямыми линиями. Количество точек, на которые разделены окружности, определяет количество вершин звезды. Точки над окружностями равномерно распределены по обеим окружностям.
 
+<figure><img src="https://lh7-us.googleusercontent.com/tGrTiVQeTDqgv4fn9lTcXkMoVougVhOswzz0Rp0taN6yoJbPvk978RDTknFOUYUpshZm_T6a1HgaKzQbfk7qZ11LPvTvB7P_hFsB2VvBybHX3ctpFTZD3_Khm6sRwWR9cOfAt3UcyBYjH8TOaJDbjko" alt=""><figcaption></figcaption></figure>
+
 ### **Создание слоя "Звезда"**
 
 Существует несколько способов создать "Звезда":
 
 * С помощью [инструментов создания объектов](../osnovnye-principy/instrumenty.md#instrumenty-sozdaniya-obektov)
 * На панели слоёв с помощью кнопки "создать слой" вызовите контекстное меню, выберите "геометрия" - "Звезда";
+
+#### Перемещение и редактирование слоя <a href="#docs-internal-guid-778dec26-7fff-b8b7-9a6f-b688e85acbbc" id="docs-internal-guid-778dec26-7fff-b8b7-9a6f-b688e85acbbc"></a>
+
+У фигуры звезды есть четыре точки, с помощью которых можно вносить изменения в фигуру, а именно менять ее наклон, менять размер внешних и внутренних вершин, перемещать по рабочей области.
+
+#### Внешний радиус
+
+Определяет радиус окружности, на которой расположены вершины звезды.
+
+#### Внутренний радиус
+
+Определяет радиус окружности, на которой расположены впадины звезды.
+
+#### Угол
+
+Это угол поворота первого пика звезды. Его значение по умолчанию - 90 градусов.
 
 ### Параметры звездных слоев <a href="#docs-internal-guid-0dc75d8e-7fff-f75d-ff9a-2caf3c5b3197" id="docs-internal-guid-0dc75d8e-7fff-f75d-ff9a-2caf3c5b3197"></a>
 
@@ -30,3 +48,40 @@
 | <img src="https://lh7-us.googleusercontent.com/7l6pE2zGGMtPa_G4HDWdHbj7CaCtBpPXa2HgABBkOv5vg2zKtV27RR9u0pPvlhtxbXlv_S3UunNIPDvfWibUbX1ZoA1H4WmGhS-6z-QLEduNm1GXGfCOV3Jg8ibhm7Hw85bUe48T0PzzaDL2lgGhg40" alt="Type_integer_icon.png" data-size="line"> Точки                        | 5                                                                                                                                                                                                                         | целое число  |
 | <img src="https://lh7-us.googleusercontent.com/ey6P__xUZ0NGPQMU1I8GXMGFoPOK0KPTFjjz1hbEnQli8gyfkvDnDy9yhFlcaglDAxEpyL3MdPcGnXqQoa9ULReGuoD3e2DowIeI4J4-Cx-5tM1EtImUJKcgSxfY04Mn6jAMFQt588P6831TWgCy4P4" alt="Type_bool_icon.png" data-size="line"> Равносторонний многоугольник    | ![p\_checkbox\_off.png](https://lh7-us.googleusercontent.com/zHCDFEYAlXecpuVLCWT4VPyCMKiCZHXzCglfOXwRYwXdIc\_g5bOCtdku6moD0EbAjqwE3Y1c2loD4py2bcfzl1k6CI0Pt4wR1tA2JFYgFQJoDCQZSMP9welM3LrI79bukKkAwVjunn878ChdIa9zQbE)    | bool         |
 
+Параметры звездообразных слоев такие же, как у большинства фигуроподобных объектов, но у них есть специфические параметры для своих собственных свойств.
+
+**Параметры “Точки”**
+
+С его помощью можно менять количество вершин, выполняемых в кругах, и, следовательно, количество точек и пиков в звезде.
+
+<figure><img src="https://lh7-us.googleusercontent.com/6Ff7XdlUFni5rFLqxZmC14TSpxjJjd7CW8RzNAGASLQlv27r69RmdIdUbOqqT64hvCpEd8yTVTXhOAL10JjlftyTBZu4R4k5mT-pdrLob9meLHZZTTcf_AbCtTIQcCempoCjUvVRf1zjGmKcfAIJvak" alt=""><figcaption></figcaption></figure>
+
+**Сумасшедшие радиусы**
+
+Значение Outer Radius не должно быть больше Inner Radius. Оно изменяет только ориентацию звезды:
+
+| Внутренний радиус = 40; Внешний радиус = 60                                                                                                                                                        | Внутренний радиус = 60; Внешний радиус = 40                                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://lh7-us.googleusercontent.com/vlzocsLoPR9YTY0xh71bpUv3y8f1hFmFQqcQovwaNG10CmsahZtpo2IjCz\_KI-36T9RYBZqTXxqUvktxArvfl1inog0qsqNqzlelEi9H1SIlKiuwWlucnoCfphLtfCJFoCsXm89wN03HY4DXCnI3K3o) | ![](https://lh7-us.googleusercontent.com/k5Tlgs\_vHLQIE1kiFqv6QZTtWecYRrlXVxH4R6a1lXhOwfejA1xiid55HYFBEy1ml4WGZ8p6rmKBMAgX4\_ccjMzR2qhO8u0x8LQqIXWIR4AhBmCfA4w243ohe3vfhb9cF6EmmLrqRk08yDtS-IU3VTg) |
+
+Вы также можете играть с отрицательными значениями:
+
+| Внутренний радиус = -40; Внешний радиус = 60                                                                                                                                                      | Внутренний радиус = 40; Внешний радиус = -60                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://lh7-us.googleusercontent.com/7DxaPxjyzkmdzvK40HeAGnH9ASQ3OXl5ONRVNtuaJ8y5Vg28-pRLsNTYbRT3z7AnJLNt5z7QC2x9JVdCb4KLQ6jwpaHoW4ySPKP749taXyeL2ngHGF84aQOvjJjfrW8xE-fZAIWrCVF7E1rz4Xz8Nd8) | ![](https://lh7-us.googleusercontent.com/89blCnB84zmQOF4O1jon9fSQpz0IYeF\_gmvDQ9lH-gYP4b8mAqyk9-YPtBQN\_tfD5A\_zXYwP998oUZfe\_XGlhuWm2Q8ulUk9GwiQLxshYDGS\_wMyY\_5d7KwYb9ssGub642OOEU45o30m1xWSdxfBqSU) |
+
+**Способы намотки**
+
+Вы даже можете поиграть с парметром "Обработка взаимопересечений" и отрицательными значениями, чтобы получить некоторые эффекты:
+
+| Внутренний радиус = 40; Внешний радиус = -60; обработка взаимопересечений = четный / нечетный                                                                                                          | Внутренний радиус = -40; Внешний радиус = 60; обработка взаимопересечений = четный / нечетный                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://lh7-us.googleusercontent.com/DdjCU86\_QoXszASV50uLtFIDZuhKG-hgdVDEF5WR33IbE\_yCQCSYaz5-ZMHee3HsVahW51nKQO\_dox-33Y0DOgU-UVSdwXcW497H9\_0GFnjR7mfyt-ANBFRZLID6a7j4Y\_nZzmRloaplHcjrpQGBjOM) | ![](https://lh7-us.googleusercontent.com/XociWEsQWfhdzMTDdRXCFXVsZl7zhsucgcymHxSm5jLEOLiczVI1UU7D2I6KZGRH72xBVz9wK6ezPTMfwRl5bOtNTYJJdaWqIaNcO03D\_VBD3XgejU8gIvX32nLXiXyvRXrb\_0j0swQ7svBrn86PgSE) |
+
+**Правильные равносторонний многоугольники**
+
+Также вы можете [связать](https://synfig.readthedocs.io/en/latest/main\_concepts/linking.html#linking) оба радиуса, чтобы создать равносторонний правильный многоугольник. Для этого, вам следует поставить галочку напротив парамера "Равносторонний многоугольник"
+
+<figure><img src="https://lh7-us.googleusercontent.com/Ku87gmYiKYwKCnMvc0vVtcsOTw51CPiTb_fMf3oXE4-XQBaC3Eh3C-_8QCchIZ0HysoifqLidcZj6k9Kl1OFJEKpl9CandVZT0GpzL2f94YzJYVyZxsA_FH-4J6sopUBtLyMsb20X9NkUCB_SCXjxXQ" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://lh7-us.googleusercontent.com/Fwf6tWgY2G_TKVo3hjGpYKbv9VLtjl0ksMiRWMBLuh0dd_poWeDqmPTmidMpzf4Rq6wQQbl_GE20UMRvI8rLAhZlah9N1qQxPs3_lbJHrr6s3F9h2-3brSED3gFnVmuLKZg7WIRAa99XYXlkb1PrO-c" alt=""><figcaption></figcaption></figure>

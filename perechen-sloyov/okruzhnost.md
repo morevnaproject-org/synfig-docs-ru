@@ -1,5 +1,11 @@
 # Окружность
 
+<div align="left">
+
+<figure><img src="../.gitbook/assets/layer_geometry_circle_icon (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 Окружность - это круглый объект, ограниченный замкнутой линией. В отличие от области, у окружности существует только две управляющие вершины: радиус и центр.
 
 <figure><img src="../.gitbook/assets/2024-05-17_13-29.png" alt=""><figcaption></figcaption></figure>

@@ -7,11 +7,9 @@
 <figure><img src="https://lh7-us.googleusercontent.com/kwwasbTlhynNn4uUfdQ0qjbwoj4PhHchxce0Zg5dvG1WS5NfigZtyQ8fvpB23iAudppdDXGVADur_YO7rZ6oPEZWwX86PZaU4kWVMvng0KOC2mhVIHRg9dS2YILxehZ0C9WQdS_KnB3RmOV57Wc0q8Q" alt=""><figcaption><p>Рис. 1 Привязывание к костям</p></figcaption></figure>
 
 {% hint style="info" %}
-Если вы случайно привяжете какую-то часть не к той кости, то просто привяжите её к другой, - она отвяжется от предыдущей автоматически.
+Если вы случайно привяжете какую-то часть не к той кости, то просто привяжите её к другой, - она отвяжется от предыдущей автоматически.\
+
 {% endhint %}
-
-\
-
 
 **Перемещение частей после привязки**
 

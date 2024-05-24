@@ -2,13 +2,11 @@
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/layer_other_plant_icon.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-**О слое "Растение"**
-
-Слой растения позволяет создавать рисунок растительности.
+Слой растения позволяет создавать векторный рисунок растительности.
 
 &#x20;**Параметры слоя Растение следующие:**
 

@@ -14,4 +14,6 @@
 | [![Type string icon.png](https://wiki.synfig.org/images/thumb/6/63/Type\_string\_icon.png/16px-Type\_string\_icon.png)](https://wiki.synfig.org/File:Type\_string\_icon.png) Имя    | skeleton           | string |
 | [![Type list icon.png](https://wiki.synfig.org/images/thumb/b/b6/Type\_list\_icon.png/16px-Type\_list\_icon.png)](https://wiki.synfig.org/File:Type\_list\_icon.png) Кости          | list (Static List) | list   |
 
+{% hint style="info" %}
 _Побробнее о работе данного слоя смотрите статью "Создание слкелета"  в разделе "Скелетная анимация"._
+{% endhint %}
