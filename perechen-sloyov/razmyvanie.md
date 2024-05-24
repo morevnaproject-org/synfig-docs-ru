@@ -22,7 +22,7 @@
 
 Данный параметр является составным значением из двух действительных чисел: x и y. Каждое из них определяет размер размытия по соответствующей оси (x - горизонтальная, y - вертикальная).
 
-<figure><img src="../.gitbook/assets/2 (2).png" alt=""><figcaption><p>Размывание по оси Y</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (2) (1).png" alt=""><figcaption><p>Размывание по оси Y</p></figcaption></figure>
 
 ### Тип размытия
 

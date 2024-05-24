@@ -37,11 +37,11 @@
 
 
 
-| Тип        | Отображение                                                                               |
-| ---------- | ----------------------------------------------------------------------------------------- |
-| Резкий     | <p></p><p><img src="../.gitbook/assets/1 (2).png" alt="" data-size="original"></p><p></p> |
-| Скругление | <p></p><p><img src="../.gitbook/assets/2 (1).png" alt="" data-size="original"></p>        |
-| Фаска      | <p></p><p><img src="../.gitbook/assets/3 (1).png" alt="" data-size="original"></p>        |
+| Тип        | Отображение                                                                                   |
+| ---------- | --------------------------------------------------------------------------------------------- |
+| Резкий     | <p></p><p><img src="../.gitbook/assets/1 (2) (1).png" alt="" data-size="original"></p><p></p> |
+| Скругление | <p></p><p><img src="../.gitbook/assets/2 (1) (1).png" alt="" data-size="original"></p>        |
+| Фаска      | <p></p><p><img src="../.gitbook/assets/3 (1) (1).png" alt="" data-size="original"></p>        |
 
 3\) Плавность - определяет плавность перехода между точками ширины, где 0 - это линейная, а 1 - плавная.
 
@@ -63,15 +63,15 @@
 В таблице ниже представлен пример отображения типов интерполяции для точки ширины. На примере интерполяция меняется только у одной точки (слева).
 {% endhint %}
 
-| Тип интерполяции                  | Отображение                                                                    |
-| --------------------------------- | ------------------------------------------------------------------------------ |
-| Интерполяция                      | <img src="../.gitbook/assets/1.png" alt="" data-size="original">               |
-| Закругленная остановка            | <p></p><p><img src="../.gitbook/assets/2.png" alt="" data-size="original"></p> |
-| Квадратная остановка              | <p></p><p><img src="../.gitbook/assets/3.png" alt="" data-size="original"></p> |
-| Заострённая остановка             | <p></p><p><img src="../.gitbook/assets/4.png" alt="" data-size="original"></p> |
-| Плоская остановка                 | <p></p><p><img src="../.gitbook/assets/5.png" alt="" data-size="original"></p> |
-| Внутренняя закруглённая остановка | <p></p><p><img src="../.gitbook/assets/6.png" alt="" data-size="original"></p> |
-| Незаострённая остановка           | <p></p><p><img src="../.gitbook/assets/7.png" alt="" data-size="original"></p> |
+| Тип интерполяции                  | Отображение                                                                        |
+| --------------------------------- | ---------------------------------------------------------------------------------- |
+| Интерполяция                      | <img src="../.gitbook/assets/1 (2).png" alt="" data-size="original">               |
+| Закругленная остановка            | <p></p><p><img src="../.gitbook/assets/2 (2).png" alt="" data-size="original"></p> |
+| Квадратная остановка              | <p></p><p><img src="../.gitbook/assets/3 (2).png" alt="" data-size="original"></p> |
+| Заострённая остановка             | <p></p><p><img src="../.gitbook/assets/4 (2).png" alt="" data-size="original"></p> |
+| Плоская остановка                 | <p></p><p><img src="../.gitbook/assets/5 (2).png" alt="" data-size="original"></p> |
+| Внутренняя закруглённая остановка | <p></p><p><img src="../.gitbook/assets/6 (1).png" alt="" data-size="original"></p> |
+| Незаострённая остановка           | <p></p><p><img src="../.gitbook/assets/7.png" alt="" data-size="original"></p>     |
 
 
 

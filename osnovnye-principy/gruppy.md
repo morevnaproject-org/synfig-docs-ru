@@ -12,7 +12,7 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/APWpGZVy5YFx0Bw5tKdEyFlk3SevGS5a85xxILS7O5qosMrIZSXkMFA5Yhdw7qEgUDPaQpSqapXJJj0xUv-0g9mc3iLGyrgoDgMTyckQjOXktxgb_QLX8tL849UPbJGqO30YG9Njngn0YLAdPaK-3EM" alt=""><figcaption></figcaption></figure>
 
-Параметр “Преобразование” является составным параметром, он содержит смещение, угол поворота, угол перекоса и значение масштаба для группы.&#x20;
+Параметр “Преобразование” является составным параметром, он содержит смещение, угол поворота, угол перекоса и значение масштаба для группы.
 
 “Преобразование” Параметр уже [преобразуется](https://synfig.readthedocs.io/en/latest/converters/composite.html#converter-composite) при создании [группового слоя](https://synfig.readthedocs.io/en/latest/layers/group.html#layer-group) и, таким образом, напрямую предоставляет подпараметры параметров смещения, поворота, перекоса и масштабирования.
 
@@ -20,7 +20,7 @@
 
 **Виды групп**
 
-<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p>       <img src="https://lh7-us.googleusercontent.com/Lok5w0eS9n4QrrC3jc6euMMW3rIC5TZNNdVYuF4yZ4WLatzx-1T85pJLWGIBojPeLKN7-kRqOalLLdgV1o_157X9THz7WmrgYXH4q0uk2Zjg88usWyByX1koKVKFH1heyr2uQqs1OclmLV9lCXiWV-Y" alt="" data-size="original">        </p><p>                 <strong>Группа</strong></p></td><td></td><td></td></tr><tr><td><p>        <img src="https://lh7-us.googleusercontent.com/tAnKI-OpVc2EDZSa3TexqbGJdTC0BA67PeiVid4xcTs6GNCClcIANPMzSp4cUlx7sw5hcH7n0hSWrr1iztxINLU0TB_jYzGWKxQghA_pmO8t9EDWtfO96T9wkEgqZcvoIoX5HZNJZAmbEvgJS8ZbK8Y" alt="">   </p><p> <strong>Группа переключатель</strong></p></td><td></td><td></td></tr><tr><td><p>        <img src="https://lh7-us.googleusercontent.com/PcUiIsRDtAeby024SjTZAqIFDrIxz3FlY96znpDh2Yvk0GZc0t5XA6TFsKjdFx6aXUtc4haZB-sbZdxelO1CBNVtqqOWNHjLV1_7nh3kNSCf--m8ZP8U6OothNbRurqDR1KXcZ4LPcwBX0rrgGhEnAA" alt="">              </p><p>      <strong>Группа фильтров</strong></p></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><img src="https://lh7-us.googleusercontent.com/Lok5w0eS9n4QrrC3jc6euMMW3rIC5TZNNdVYuF4yZ4WLatzx-1T85pJLWGIBojPeLKN7-kRqOalLLdgV1o_157X9THz7WmrgYXH4q0uk2Zjg88usWyByX1koKVKFH1heyr2uQqs1OclmLV9lCXiWV-Y" alt="" data-size="original"></p><p><strong>Группа</strong></p></td><td></td><td></td></tr><tr><td><p><img src="https://lh7-us.googleusercontent.com/tAnKI-OpVc2EDZSa3TexqbGJdTC0BA67PeiVid4xcTs6GNCClcIANPMzSp4cUlx7sw5hcH7n0hSWrr1iztxINLU0TB_jYzGWKxQghA_pmO8t9EDWtfO96T9wkEgqZcvoIoX5HZNJZAmbEvgJS8ZbK8Y" alt="" data-size="original"></p><p><strong>Группа переключатель</strong></p></td><td></td><td></td></tr><tr><td><p><img src="https://lh7-us.googleusercontent.com/PcUiIsRDtAeby024SjTZAqIFDrIxz3FlY96znpDh2Yvk0GZc0t5XA6TFsKjdFx6aXUtc4haZB-sbZdxelO1CBNVtqqOWNHjLV1_7nh3kNSCf--m8ZP8U6OothNbRurqDR1KXcZ4LPcwBX0rrgGhEnAA" alt="" data-size="original"></p><p><strong>Группа фильтров</strong></p></td><td></td><td></td></tr></tbody></table>
 
 Подробнее смотрите о "Группе-переключателе" в разделе "Слой-переключатель". Подробнее о "Группе фильров" смотрите в разделе "Группа фильтров"
 
@@ -46,19 +46,19 @@
 
 <figure><img src="../.gitbook/assets/1.gif" alt=""><figcaption><p>Перемещение группы объектов</p></figcaption></figure>
 
-<img src="../.gitbook/assets/3 (1) (1).png" alt="" data-size="line">  - желтые точки, расположенные в диагонально противоположных углах, позволяют сжимать и растягивать предмет по горизонтали и вертикали соответственно. Также через эти точки можно отражать объект, если перенести их на противоположную от них сторону.
+<img src="../.gitbook/assets/3 (1) (1) (1).png" alt="" data-size="line"> - желтые точки, расположенные в диагонально противоположных углах, позволяют сжимать и растягивать предмет по горизонтали и вертикали соответственно. Также через эти точки можно отражать объект, если перенести их на противоположную от них сторону.
 
 <figure><img src="../.gitbook/assets/7.gif" alt=""><figcaption><p>Растягивание и сжимание объекта</p></figcaption></figure>
 
-<img src="../.gitbook/assets/5 (1) (1).png" alt="" data-size="line"> -  синяя точка позволяет вращать предмет вокруг зелёной точки без изменения размера объекта.
+<img src="../.gitbook/assets/5 (1) (1) (1).png" alt="" data-size="line"> - синяя точка позволяет вращать предмет вокруг зелёной точки без изменения размера объекта.
 
 <figure><img src="../.gitbook/assets/2.gif" alt=""><figcaption><p>Поворот объекта</p></figcaption></figure>
 
-<img src="../.gitbook/assets/2 (1) (1) (1).png" alt="" data-size="line"> - коричневая точка позволяет увеличивать или уменьшать размер обектов без потери их пропорций. Увеличение производится относительно зелёной точки.
+<img src="../.gitbook/assets/2 (1) (1) (1) (1).png" alt="" data-size="line"> - коричневая точка позволяет увеличивать или уменьшать размер обектов без потери их пропорций. Увеличение производится относительно зелёной точки.
 
 <figure><img src="../.gitbook/assets/3.gif" alt=""><figcaption><p>Масштабирование объекта</p></figcaption></figure>
 
-<img src="../.gitbook/assets/6 (1).png" alt="" data-size="line"> - красная точка позволяет делать наклон/скос объекту.
+<img src="../.gitbook/assets/6 (1) (1).png" alt="" data-size="line"> - красная точка позволяет делать наклон/скос объекту.
 
 <figure><img src="../.gitbook/assets/5.gif" alt=""><figcaption><p>Наклон объекта</p></figcaption></figure>
 
@@ -68,9 +68,9 @@
 
 **Контрольные точки слоев у группы**
 
-Каждая контрольная точка имеет свою функцию и отличается по цвету.&#x20;
+Каждая контрольная точка имеет свою функцию и отличается по цвету.
 
-<img src="https://lh7-us.googleusercontent.com/2zPwZ-IBjfFpc3Fk15GGqt0Z86-ODh4ht15XLxtV0YUML7BVD70bB_F-TWZBJlPyoRC4sXmvg2VpEXtGrtDNgwnnABIOA_R9u-4tzxbI_GiD5_ISdsgbR35XdNqO9O7e7cJMSfIsg1bk7hoxEN-BQdo" alt="" data-size="line">-эта точка позиции, которая отвечает за расположение объекта на рабочей области. По сути, это центр объекта вокруг которого происходят изменения.&#x20;
+<img src="https://lh7-us.googleusercontent.com/2zPwZ-IBjfFpc3Fk15GGqt0Z86-ODh4ht15XLxtV0YUML7BVD70bB_F-TWZBJlPyoRC4sXmvg2VpEXtGrtDNgwnnABIOA_R9u-4tzxbI_GiD5_ISdsgbR35XdNqO9O7e7cJMSfIsg1bk7hoxEN-BQdo" alt="" data-size="line">-эта точка позиции, которая отвечает за расположение объекта на рабочей области. По сути, это центр объекта вокруг которого происходят изменения.
 
 <figure><img src="https://lh7-us.googleusercontent.com/tmPCiXPGUhDWAI-YjzEDZqlmvbNpAnC4Tn4436M-TxcIDi5HCf5JuoHQBFHutGLrqgNDGUI_IupGUQjkOh8xEWNhwMcxXBwV-Y6dW4DM3eNdxW0aJ60XJfZp0mjkt3SR-NE46I-fZ4ecRaw6P4DbKSQ" alt=""><figcaption></figcaption></figure>
 
@@ -94,7 +94,7 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/8wlEMsDcoTGepKnY_nKChZvPeC3Gg92K1P3oHZJHfLfaDNCxpKEI1FqfB-3UXYqWHzwflJuet1L07BLqCQd1sI2nElDBRKG9T7GvoKi5gZfcVmHXLkTvRkvero4FZeFJ3s2qGvxZdOxCjE_ZZtNoRaY" alt=""><figcaption></figcaption></figure>
 
-Пример&#x20;
+Пример
 
 Мы создали круг, но его можно только тянуть за две точки, это менять радиус и перемещать, но мы хотим этот круг превратить в овал или ещё как-нибудь его видоизменить, для этого мы просто нажимаем на Группу слой. Теперь у нашего круга появилось больше возможностей такие как: точки позиции, вершины, касательные и углов
 
@@ -109,17 +109,17 @@
 * Перетаскивание
 * Копировать/вставить
 
-**Перетаскивание**&#x20;
+**Перетаскивание**
 
 При этом способе вы щелкаете на объект и с помощью ЛКМ удерживаете, и уже перетаскиваете в группу.
 
 **Копировать/вставить**
 
-При этом способе мы используем сочетание клавиш “CTRL+C” - копировать и “CTRL+V”  - вставить, нажимая на сам объект который хотим скопировать и на саму группу в которой мы уже вставляем.
+При этом способе мы используем сочетание клавиш “CTRL+C” - копировать и “CTRL+V” - вставить, нажимая на сам объект который хотим скопировать и на саму группу в которой мы уже вставляем.
 
 **Удаление слоя**
 
-![](https://lh7-us.googleusercontent.com/jnRFzCnSceLYZHXXM48ObbQ9mbqBDZugiEkDd0QKLrqPlnSX9u23U7ay3jLjg3I5lx7RBKlqtP-Vd2Zq6MovQFEPU4-3qqqXXyiUos5hQCwBscwx40jPyscG2e2oDuq29ECq4rw7KcJKO9Z5r9Qaecc) -  Для того чтобы удалить слой из группы, нужно выделить слой и нажать на иконку мусорного бака в нижней панели слоев
+![](https://lh7-us.googleusercontent.com/jnRFzCnSceLYZHXXM48ObbQ9mbqBDZugiEkDd0QKLrqPlnSX9u23U7ay3jLjg3I5lx7RBKlqtP-Vd2Zq6MovQFEPU4-3qqqXXyiUos5hQCwBscwx40jPyscG2e2oDuq29ECq4rw7KcJKO9Z5r9Qaecc) - Для того чтобы удалить слой из группы, нужно выделить слой и нажать на иконку мусорного бака в нижней панели слоев
 
 **Вынесение слоя за группу**
 
