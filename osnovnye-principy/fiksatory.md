@@ -20,7 +20,7 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/3NiGs3lqAqSA721hwpYdKpWdXXFBYwqUbzQJONoke4ZZqvIUnU3CakLZXpsIdJpRNC2tHf4knkEO5t4XcyntJ6TGjHhBbKMUlilBviHtC9ZZWGvAbSuqr5PQIfUZ1QD3ogD0MI4lUY0ANnOG3zAAv68" alt=""><figcaption><p>Действия с фиксаторами</p></figcaption></figure>
 
-В самом верху меню находятся команды, которые позволяют связывать значение фиксатора с другими параметрами (или другими фиксаторами). Подробнее об этом можно прочитать в разделе “Связывание параметров”
+В самом верху меню находятся команды, которые позволяют связывать значение фиксатора с другими параметрами (или другими фиксаторами). Подробнее об этом можно прочитать в разделе [“Связывание параметров”.](../svyazyvanie-dannykh/svyazyvanie-parametrov.md)
 
 ## Интерполяция
 
