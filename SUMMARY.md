@@ -104,7 +104,7 @@
 * [Ключевые кадры](instrumenty-animacii/klyuchevye-kadry.md)
 * [Графики](instrumenty-animacii/grafiki.md)
 * [Калька](instrumenty-animacii/kalka.md)
-* [Петля времени](instrumenty-animacii/petlya-vremeni.md)
+* [Петля времени](konvertery/petlya-vremeni.md)
 * [Анимация вдоль кривой](instrumenty-animacii/animaciya-vdol-krivoi.md)
 * [Слой-переключатель](instrumenty-animacii/sloi-pereklyuchatel.md)
 * [Импорт звуковых файлов](instrumenty-animacii/import-zvukovykh-failov.md)

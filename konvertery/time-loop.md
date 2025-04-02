@@ -9,7 +9,7 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/gaqcY6YzwlSBCHAEhyFnZ3OiTzmywaheBPG62UZTNPlmHDTEFNjYUWb2XOUaCQHX0IeQeTwaqWeeEaRlBYcTe5Zwlm9pAIkCXqvk6UxykbkjOkJ3gsV8IjoHJaBP-sQfxZmwipUzz1JDt2Fq_wg43bQ" alt=""><figcaption></figcaption></figure>
 
-Он работает аналогично [Слоя Петлю Времени ](https://wiki.synfig.org/Time\_Loop\_Layer)но влияет только один параметр.
+Он работает аналогично [Слоя Петлю Времени ](https://wiki.synfig.org/Time_Loop_Layer)но влияет только один параметр.
 
 Для любого целого значения n из "Локальное время + abs (продолжительность) \* n" в "Локальное время + abs (продолжительность) \* (n + 1)" результирующее значение параметра такое же, как у параметра "Ссылка" изменить параметр с "Время связывания" на "Время связывания + длительность".
 

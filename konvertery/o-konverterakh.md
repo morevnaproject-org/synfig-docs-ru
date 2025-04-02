@@ -11,7 +11,7 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/dAT9Zo3IzIeITySKZ9vTH_keBzGHQcEYGL-ZEYcQv_mLuOBDEvjqXyDUKPZwwwCXOTAUQK2JM3H5tsVUkwBOSFkJERUiMrAWlgsaEo9ChsgwKMXI_rPKY3N8x1xVrxZRhu3uc9VVdj-gIWJdHM3tmRc" alt=""><figcaption></figcaption></figure>
 
-Вы можете ознакомиться с руководством по [Parabolic Shot](https://wiki.synfig.org/Parabolic\_Shot), чтобы узнать, как в реальной жизни использовать функцию преобразования.
+Вы можете ознакомиться с руководством по [Parabolic Shot](https://wiki.synfig.org/Parabolic_Shot), чтобы узнать, как в реальной жизни использовать функцию преобразования.
 
 {% hint style="info" %}
 **Преобразование анимированных значений**
