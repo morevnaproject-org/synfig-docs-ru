@@ -28,6 +28,6 @@ Synfig Studio - это бесплатная программа для 2D-ани�
 
 <figure><img src=".gitbook/assets/test3.gif" alt=""><figcaption><p>Пример моушн-дизайна в Synfig Studio</p></figcaption></figure>
 
-{% embed url="https://www.youtube.com/watch?v=mQ3hMp3p1WM" %}
-Примеры моушн дизайна в Synfig Studio
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fe9XVEXa2X3Uhr8yAecH3%2Fuploads%2F3yMtc7VHr6vCnJtTMTo2%2F0%20to%20100%20Animations%20Progress%20in%20Synfig%20Studio.mp4?alt=media&token=62e1b4e0-b910-4028-9630-bd0c00cb8a7f" %}
+Примеры моушн-дизайна в Synfig Studio
 {% endembed %}

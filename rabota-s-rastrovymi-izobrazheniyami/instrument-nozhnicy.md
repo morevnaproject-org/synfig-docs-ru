@@ -1,10 +1,6 @@
 # Инструмент Ножницы
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/tool_cutout_icon.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/tool_cutout_icon.png" alt=""><figcaption></figcaption></figure></div>
 
 Инструмент позволяющий разрезать любые слои. Будь это слой-фильтр или простой объект. Он расположен на параметрах с другими инструментами.
 
@@ -27,4 +23,4 @@
 <figure><img src="https://lh7-us.googleusercontent.com/WS1-cHmKrQDThM4GXGuTGS_hcfIrzVJA8qB2xGl1jn2SJ6WE34AqLiFKoNpdQBV6cVUJbAlWo5VsytBL2JqGScHMLYRhM_rfJmUb5doOwhtiQTBdBP19hrKHSC7V220e34iRdIABH-CmdkQR2QcXT9E" alt=""><figcaption></figcaption></figure>
 
 Через панель “Параметры” можно менять параметры у слоя-маски, такие как непрозрачность, метод наложения, растушевка и.т.д. Кликнув дважды на значения параметра.\
-_Подробную информацию смотрите в разделе "Инструменты"._
+&#xNAN;_&#x41F;одробную информацию смотрите в разделе "Инструменты"._
