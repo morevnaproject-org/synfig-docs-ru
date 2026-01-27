@@ -18,8 +18,7 @@
 
 <figure><img src="../.gitbook/assets/skrin_006.png" alt=""><figcaption><p>Окошко с текущим кадром</p></figcaption></figure>
 
-Текущий кадр на шкале кадров визуально выделяется желтым бегунком.\
-
+Текущий кадр на шкале кадров визуально выделяется желтым бегунком.<br>
 
 <figure><img src="../.gitbook/assets/skrin_004.png" alt=""><figcaption><p>Визуальное отображение кадра на шкале кадров</p></figcaption></figure>
 

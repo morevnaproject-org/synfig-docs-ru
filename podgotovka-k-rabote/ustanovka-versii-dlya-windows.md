@@ -37,8 +37,8 @@
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXckTJYD6uF9UUYtDwVNC3y8sElAdn4Iw-_lnV7WDSgAJUUoYankqfx9s9Y4N3tFifPku5Tmh1n2BoMMYOCA2gyzxgixK1RLzjNSGusVSjZeth5EvynCfzzGmsfYPjyYedoyrK-Ndw?key=FoDxXNc_QigqWC4DcTMGjln5" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-ВНИМАНИЕ: Убедитесь, что в выбранном пути используются **только** буквы латинского алфавита! При наличии в пути к этой папке букв других языков (например, русского) программа не запустится корректно после установки.
+{% hint style="danger" %}
+Убедитесь, что в выбранном пути используются **только** буквы латинского алфавита! При наличии в пути к этой папке букв других языков (например, русского) программа не запустится корректно после установки.
 {% endhint %}
 
 Перейдите к следующему шагу нажав **Install** и дождитесь завершения копирования файлов.

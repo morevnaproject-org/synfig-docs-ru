@@ -19,8 +19,7 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/53BgxbN5LbqzlXxgI1G5uAjYcYPSepSbYGz_wihLpJCll5i-RJkc3WXVpjqQyB_lRpZFMlBpdbCEWpUsJgd3s6r6s7VsdiW-wQ44AEmdrWpB9ISZexM8h8WBxWpAEsUEesAVTwVba3ZQy6e603XBPk4" alt=""><figcaption><p>Внешний вид ключевых кадров</p></figcaption></figure>
 
-Отображение ключевых кадров на временной шкале могут представать в трех видах: “Обычный”, “Выбранный”, “Неактивный”.\
-
+Отображение ключевых кадров на временной шкале могут представать в трех видах: “Обычный”, “Выбранный”, “Неактивный”.<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/lksBelgCEPkbnGCkyWWhhpFR0IuSeJ80LaYCwHINeKgzixU1nLpjpYC-6bJkFqJjIZTrkf5KLM3Q-p8ufNHG3p3JX4gP5vdSjEompdYWxEH_T4eTdrrUwwGij8qjqYvPomXK_MeSSGwQNhra2RudFRc" alt="" width="563"><figcaption><p>Обычный, выбранный, неактивный</p></figcaption></figure>
 
@@ -74,8 +73,7 @@
 
 ### **Свойства ключевого кадра**
 
-Чтобы вызвать окно со свойствами ключевого кадра, нажмите ПКМ на ключевой кадр и из всплывшего списка выберите “Свойства ключевого кадра”.\
-
+Чтобы вызвать окно со свойствами ключевого кадра, нажмите ПКМ на ключевой кадр и из всплывшего списка выберите “Свойства ключевого кадра”.<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/HSJMfO7Ds0VtYbQ27TxsHxip9wbXQaqOcN8s6MIC7_LeZ3Q_dDegk8Vg0TZWBjjFgKbyuBNyIo2NM8ZYzk0ysmCGFsRAVu6eDEqdXmK0jbVEh9tT338NrgErFYFIGYhNbqcSoUqO9vY3ZhVhwmVQDWg" alt=""><figcaption><p>Окно параметров ключевого кадра</p></figcaption></figure>
 

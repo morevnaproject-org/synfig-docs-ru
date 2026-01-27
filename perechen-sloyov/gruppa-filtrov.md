@@ -1,6 +1,6 @@
 # Группа фильтров
 
-![](https://lh7-us.googleusercontent.com/S167f4VJSr3zUVh90WgH-6zYXxRuc8Tea\_\_0rL2Mq7xcnuoR3l\_07ZZ8NOTDcpATQdK8rmfSBBpYqVlkTly0DnZuLZK2vw4\_pnaCmhyymDXE2sWQI9WpFYP0h1o-xICLt9MHakPslCLA\_mYP7vkUgVo)
+![](https://lh7-us.googleusercontent.com/S167f4VJSr3zUVh90WgH-6zYXxRuc8Tea__0rL2Mq7xcnuoR3l_07ZZ8NOTDcpATQdK8rmfSBBpYqVlkTly0DnZuLZK2vw4_pnaCmhyymDXE2sWQI9WpFYP0h1o-xICLt9MHakPslCLA_mYP7vkUgVo)
 
 Группы фильтров действуют точно так же, как обычные группы, за единственным исключением – они не ограничивают область действия слоев. Это означает, что если вы поместите несколько слоев фильтра в группу фильтров, то они будут смешаны вместе и применены как единый фильтр к нижележащим слоям.
 
@@ -52,8 +52,7 @@
 
 Зачем это нужно? Так как если мы будем создавать объекты под Группой фильтра, то он будет его видоизменять, в нашем случаем нам это не надо
 
-Выглядит это таким образом: \
-
+Выглядит это таким образом: <br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/oa6owtwXLT1lfiFxeAWxUDMA-5KE2DONoZJxhRV7gHrQStePWZ3sJAbddCi6BUHqLlN0Pi0QgfqjRMZCQZ2QLLBGXvLkaxcCmvX7-9eZXzJ3e8f8yCaZSBpSiPnipmIdZwD5P_qeKPOsg9L-M-tlWpo" alt=""><figcaption></figcaption></figure>
 

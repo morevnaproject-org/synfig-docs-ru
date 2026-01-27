@@ -7,8 +7,7 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/Ld3-yDwmFB8Fqr5hWc0s5P9-tBLAJGveSPc91RWo_9RmEwmhUtGf4-XIgwO9nwl9-zPWf66iUy6bo0VJLK0Aeo9Zx85kmMl_GravfZ7DpfcBuY6WCBRyaRj7I9YoznIM0h4JWKJspqU-avFShBKAbPc" alt=""><figcaption><p>Рис. 1 Привязка к костям</p></figcaption></figure>
 
-\
-
+<br>
 
 Привязать к скелету: Для этого вам следует включить точки “Ширены” (подробнее смотрите про точки вершин в разделе “Параметры слоя”, “Контрольные точки”). После растяните радиусы точек ширены, так, чтобы была захвачены все точки векторных слоёв, далее нажав сочетание клавиш Ctrl+A (выдклить всё) выделяться все точки, затем щелкните ПКМ по скелету и выберите “Привязать к скелету”.
 

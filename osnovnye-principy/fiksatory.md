@@ -83,8 +83,7 @@ TCB-интерполяция (Tension, Continuity, Bias) – это тип ин�
 * "Отклонение"
 * "Временное натяжение"
 
-Чтобы открыть окно с возможностью редактирования этих параметров, вам следует щелкнуть правой кнопкой мыши по фиксатору ТСВ, затем из списка выбрать “Правка”.\
-
+Чтобы открыть окно с возможностью редактирования этих параметров, вам следует щелкнуть правой кнопкой мыши по фиксатору ТСВ, затем из списка выбрать “Правка”.<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/VlXQPUIoxmuN4BlpGtSAyo8uR1_qhrd9gVNF9ReGNbx_to3X3qgF507VxoT4eKsUqatDuXQTe7JSbIKTrxRzIlIx76Jtt6JKN8iwm2wA0dZahoVoyeus2ml6D-xByHZs5UU7n_CvlO_2ilJSsUEpraA" alt=""><figcaption><p>Настройки интерполяции "TCB"</p></figcaption></figure>
 

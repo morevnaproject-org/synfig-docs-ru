@@ -21,8 +21,7 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/PEpQzkn1eyRMiatjcE0I6gveR08-NZQ-8q32HuVPuqUQwWwQiSsAmqodcjqqUaH_9cAWLQxKAAkp1Or52dNezz8mnEuDIJx5yhd1HSPRpV53HRt7IA1SVC-ILc_j_GaaEPSBckYszbl4KQab1_LQd30" alt=""><figcaption></figcaption></figure>
 
-Отображение ключевых кадров на временной шкале могут представать в трех видах: “Обычный”, “Выбранный”, “Неактивный”.\
-
+Отображение ключевых кадров на временной шкале могут представать в трех видах: “Обычный”, “Выбранный”, “Неактивный”.<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/fRMfE5GrD2dqyCxXMjCEZ3HWSnOy4XkHuA9tDj-xnPybkVkPlxWX4bQ1GLvjhZRL-70f6qAUMD914DExA8ofBOky8W2CLfcn3JlUxCYDm_vmdrHL7-CskeTgsbwwdFEZUa-EVv5FtsTdHe5YVQETxY8" alt=""><figcaption></figcaption></figure>
 
@@ -80,4 +79,4 @@
 ![](https://lh7-us.googleusercontent.com/qJU6mk1z01ybNuVKSUYYza40elPRT8VeKhLU3NlaK7rFPau9YMIH7CkBAA-hnGCjqSNxKDqO-0vXGRcuvRC-OAw8HOcdXkmPXOwtm-n4KpBt5pPVwXSCB893ODpQ1jlgMhnk2NspzdDNE7DQkCOUSbM)
 
 \
-\
+<br>
