@@ -27,7 +27,7 @@
 ## Работа с растровыми изображениями
 
 * [Импорт изображений](rabota-s-rastrovymi-izobrazheniyami/import-izobrazhenii.md)
-* [Анимация методом "Перекладка"](rabota-s-rastrovymi-izobrazheniyami/animaciya-metodom-perekladka.md)
+* [Анимация методом «Перекладка»](rabota-s-rastrovymi-izobrazheniyami/animaciya-metodom-perekladka.md)
 * [Импорт секвенций кадров](rabota-s-rastrovymi-izobrazheniyami/import-sekvencii-kadrov.md)
 * [Инструмент Ножницы](rabota-s-rastrovymi-izobrazheniyami/instrument-nozhnicy.md)
 

@@ -1,9 +1,9 @@
 # Фильтрующие слои
 
-В Synfig Studio слои могут не только отображать какую-то графическую информацию на экране, но и выступать как фильтры. Поэтому все типы слоёв можно разделить на два вида - графические и фильтрующие.
+В Synfig Studio слои могут не только отображать графическую информацию на экране, но и выполнять роль фильтров. Поэтому все типы слоёв можно разделить на две категории: **графические** и **фильтрующие**.
 
 {% hint style="info" %}
-К фильтрующим слоям относятся слои, что расположены в списках: "Размывание", "Искажение", "Фильтры" и "Стилизация".
+К фильтрующим слоям относятся слои, что расположены в списках: **Размывание**, **Искажение**, **Фильтры** и **Стилизация**.
 {% endhint %}
 
 Фильтрующий слой не создает какой-либо графический элемент на рабочей области, а вместо этого применяет эффект к уже существующим.
@@ -16,7 +16,7 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/gIXPyvObMZbdeGc6snvZSeWfh_Dnau5hRL-aU6OoWdYJXH75qG5pnq1v402PyWsN4ICMCcEUIKxxnPMGnt0Rw-pQqESCAfZAxzbX2bY5bGw3wEfbhbThSucbaEHdGQ2WKl_ITCj5UIm8fvH-TihKKSU" alt=""><figcaption></figcaption></figure>
 
-На примере ниже фильтр “Размывание” действует на все окружности, что находятся под ним.
+На примере ниже фильтр **Размывание** действует на все окружности, что находятся под ним.
 
 <figure><img src="https://lh7-us.googleusercontent.com/DtcyW9rWvufBxgdzI8TPvQMzPYpqyk5s4u7n8pjYRq_Xt6V5u-aWSqGEUL5QOFlgC5KzjlfEXXk1wie9Gx9e915mXs0k7Hsxxi8PBgtPz0ctXlk1dRljUxUJabUMIVeMjo1AjK_UHSF508sso-0vH1M" alt=""><figcaption></figcaption></figure>
 
