@@ -1,15 +1,15 @@
 # Цветокоррекция
 
-[![Layer filter colorcorrect icon.png](https://wiki.synfig.org/images/thumb/f/ff/Layer\_filter\_colorcorrect\_icon.png/64px-Layer\_filter\_colorcorrect\_icon.png)](https://wiki.synfig.org/File:Layer\_filter\_colorcorrect\_icon.png)
+[![Layer filter colorcorrect icon.png](https://wiki.synfig.org/images/thumb/f/ff/Layer_filter_colorcorrect_icon.png/64px-Layer_filter_colorcorrect_icon.png)](https://wiki.synfig.org/File:Layer_filter_colorcorrect_icon.png)
 
-Слой, который позволяет редактировать яркость, контраст, коррекция экспозиции и  коррекция гаммы.
+**Слой цветокоррекции** — позволяет редактировать яркость, контраст, коррекцию экспозиции и коррекцию гаммы.
 
-Параметры Цветокоррекции в которые вы можете вносить измениения:
+**Параметры цветокоррекции**, в которые вы можете вносить изменения:
 
-| Имя                                                                                                                                                                                       | Значение | Тип   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----- |
-| [![Type angle icon.png](https://wiki.synfig.org/images/thumb/e/eb/Type\_angle\_icon.png/16px-Type\_angle\_icon.png)](https://wiki.synfig.org/File:Type\_angle\_icon.png) Коррекция тона   | 0.00°    | angle |
-| [![Type real icon.png](https://wiki.synfig.org/images/thumb/f/fd/Type\_real\_icon.png/16px-Type\_real\_icon.png)](https://wiki.synfig.org/File:Type\_real\_icon.png) Яркость              | 0.000000 | real  |
-| [![Type real icon.png](https://wiki.synfig.org/images/thumb/f/fd/Type\_real\_icon.png/16px-Type\_real\_icon.png)](https://wiki.synfig.org/File:Type\_real\_icon.png) Констраст            | 1.000000 | real  |
-| [![Type real icon.png](https://wiki.synfig.org/images/thumb/f/fd/Type\_real\_icon.png/16px-Type\_real\_icon.png)](https://wiki.synfig.org/File:Type\_real\_icon.png) Коррекция экспозиции | 0.000000 | real  |
-| [![Type real icon.png](https://wiki.synfig.org/images/thumb/f/fd/Type\_real\_icon.png/16px-Type\_real\_icon.png)](https://wiki.synfig.org/File:Type\_real\_icon.png) Коррекция гаммы      | 1.000000 | real  |
+| Имя                                                                                                                                                                                 | Значение | Тип   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----- |
+| [![Type angle icon.png](https://wiki.synfig.org/images/thumb/e/eb/Type_angle_icon.png/16px-Type_angle_icon.png)](https://wiki.synfig.org/File:Type_angle_icon.png) Коррекция тона   | 0.00°    | angle |
+| [![Type real icon.png](https://wiki.synfig.org/images/thumb/f/fd/Type_real_icon.png/16px-Type_real_icon.png)](https://wiki.synfig.org/File:Type_real_icon.png) Яркость              | 0.000000 | real  |
+| [![Type real icon.png](https://wiki.synfig.org/images/thumb/f/fd/Type_real_icon.png/16px-Type_real_icon.png)](https://wiki.synfig.org/File:Type_real_icon.png) Констраст            | 1.000000 | real  |
+| [![Type real icon.png](https://wiki.synfig.org/images/thumb/f/fd/Type_real_icon.png/16px-Type_real_icon.png)](https://wiki.synfig.org/File:Type_real_icon.png) Коррекция экспозиции | 0.000000 | real  |
+| [![Type real icon.png](https://wiki.synfig.org/images/thumb/f/fd/Type_real_icon.png/16px-Type_real_icon.png)](https://wiki.synfig.org/File:Type_real_icon.png) Коррекция гаммы      | 1.000000 | real  |
