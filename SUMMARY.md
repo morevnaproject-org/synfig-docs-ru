@@ -77,7 +77,7 @@
 * [Прямоугольник](perechen-sloyov/pryamougolnik.md)
 * [Область](perechen-sloyov/oblast.md)
 * [Звезда](perechen-sloyov/zvezda.md)
-* [Конически градиент](perechen-sloyov/konicheski-gradient.md)
+* [Конический градиент](perechen-sloyov/konicheski-gradient.md)
 * [Искривлённый градиент](perechen-sloyov/iskrivlyonnyi-gradient.md)
 * [Линейный градиент](perechen-sloyov/lineinyi-gradient.md)
 * [Градиентный шум](perechen-sloyov/gradientnyi-shum.md)
