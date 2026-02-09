@@ -2,17 +2,25 @@
 
 ![](https://lh7-us.googleusercontent.com/S167f4VJSr3zUVh90WgH-6zYXxRuc8Tea__0rL2Mq7xcnuoR3l_07ZZ8NOTDcpATQdK8rmfSBBpYqVlkTly0DnZuLZK2vw4_pnaCmhyymDXE2sWQI9WpFYP0h1o-xICLt9MHakPslCLA_mYP7vkUgVo)
 
-Группы фильтров действуют точно так же, как обычные группы, за единственным исключением – они не ограничивают область действия слоев. Это означает, что если вы поместите несколько слоев фильтра в группу фильтров, то они будут смешаны вместе и применены как единый фильтр к нижележащим слоям.
+**Группы фильтров** действуют почти так же, как обычные группы, за одним исключением — они **не ограничивают область действия слоёв**.\
+Это означает, что если поместить несколько фильтрующих слоёв в группу фильтров, они будут **смешаны между собой и применены как единый фильтр** ко всем нижележащим слоям.
 
-Для чего это полезно? Во-первых, если у вас есть комбинация фильтров, вы можете быстро включать и отключать их все вместе одним щелчком мыши.
+#### Зачем это нужно?
 
-Еще одним преимуществом является то, что с Группа фильтр вы можете лучше контролировать, в какой момент будет происходить смешивание. Кроме того, вы можете использовать смешивание для слоев, у которых его не должно быть (например, для переводов, растяжек и т.д.). Это позволяет вам легко создавать эффекты, такие как зеркальные отражения и сложные тени.
+* **Быстрое управление эффектами**\
+  Если у вас есть набор фильтров, их можно включать и отключать одновременно — одним щелчком мыши.
+* **Контроль момента смешивания**\
+  Группа фильтров позволяет точнее управлять тем, _на каком этапе_ происходит смешивание эффектов.
+* **Смешивание для «несмешиваемых» слоёв**\
+  С её помощью можно применять режимы смешивания к слоям, которые обычно этого не поддерживают (например, _перемещение, растяжение и другие трансформации_).
+
+Это позволяет вам легко создавать эффекты, такие как зеркальные отражения и сложные тени.
 
 Чтобы было более понятно как работает эта группа-фильтр, распишем это на примере с отражением солнца над водой
 
 **Пример**
 
-Для начала нам нужно создать Солнце и положить его в “Групповой слой”
+Для начала нам нужно создать Солнце и положить его в «Групповой слой»
 
 В данный момент это выглядит так:
 
@@ -20,7 +28,8 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/TchHlv9EAueGhUn_b54kKffBiOhWWo9048PFrt4rSEAmsDKjqDQbe5oQ1lQPfdLT_xGcD-tEi30knEnMH9ylRXZbZIarb7EL8a9wDFzoNRzoTfKhbZE-Ie6uyXPbqDyZPPlXWTj_ECR_eG-hUhY-5_A" alt=""><figcaption></figcaption></figure>
 
-После чего добавляем Группу-фильтр кликаем на неё и переходим в параметры группы слева, по стандарту там будет Метод смешивания - Прямой, а нам нужно Совмещение
+После этого добавьте **Группу фильтров**, щёлкните по ней и перейдите к её параметрам на панели слева.\
+По умолчанию параметр **«Метод смешивания»** установлен в значение **«Прямой»**, его необходимо изменить на **«Совмещение»**.
 
 <figure><img src="https://lh7-us.googleusercontent.com/cYavzogY4w5H3tXbjhhFWxIDOA0zG0NYn211_-fWSXzw5AL_mqWtKur62miql7dBUYueJTm2GoRs-GEQoAAVcEVLuqxdGapiO3Uysee2q40FIqy5KChru967tI4JPBcBPtRGhIQ-Ny79SF4icU5RNQw" alt=""><figcaption></figcaption></figure>
 
@@ -30,15 +39,15 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/ivB31xV82F04VxSsclKDtJPuJQmPRpeiV2P44ALe7wBJwR5EudEKv9nTGjZ0SU3DFnouBeo6lQnqk29NXqLJ_CFZOPypSBuwB2zut82DJ0CrVGxHbeVRtrmlEDB0iPP_0X-6tzPOf-q6acI3P-hC9-s" alt=""><figcaption></figcaption></figure>
 
-И уже в самой группе создаем “Растяжение”.&#x20;
+И уже в самой группе создаем «Растяжение».&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/eJ_z3tE0f27C7XmpQK4EAtdmttrZBLoZVBXg0ZO0vhsEUJ__svwxvSiCGs5o46CDih3Ay3aYnI9B-kGvQjJbBLoXud2641Q_Bot5ubzxUYQca1oI1MuqADKgONWHazZ1jupv0jT6gbraNMxfTrHhCLw" alt=""><figcaption></figcaption></figure>
 
-Далее с помощью этой функции редактируем наше Солнце тянув за контрольные точки. Здесь мы можем редактировать только “Величину” и “Центр”
+Далее с помощью этой функции редактируем наше Солнце тянув за контрольные точки. Здесь мы можем редактировать только «**Величину**» и «**Центр**».
 
 <figure><img src="https://lh7-us.googleusercontent.com/RDweZJady7F-4quNYAdnwIhszqOBv9KjRwTR7CoGu7z3W-9Z3o1R6LTuRs6rIcXfhpSmHfU5yUF25tlKVS2vHhZUenpzNwpMmfTOvn2ABO6FCFGYaNYVPqbY7-Ag1FSeNF9Ql_UlmYAegEjSHTEIHbk" alt=""><figcaption></figcaption></figure>
 
-Отредактировав наше “Растяжение” мы получаем второе Солнце как отражение
+Отредактировав наше «**Растяжение**» мы получаем второе Солнце как отражение
 
 <figure><img src="https://lh7-us.googleusercontent.com/IVIavH6LHMgjk3Kz5C9zVePGRm52cq_VhtUC3UFbXDgFd6cYu0XY4fV_ouSJhBzQeXFfQwcCCfppwBnYvjC0KINFPKQVypgveJU2OnEc_-dBmWgL-WUhJl3oZZeGgPaiIYwPKkG_ednWURR2m4_ZmSA" alt=""><figcaption></figcaption></figure>
 
@@ -48,9 +57,9 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/CheYzw7I2rVNH4UnmfH2Uu9xSZ7kv5_xWJ2pALHkKeJIr5fwS1ZhA2hJR8kGLjGATFtox-ygeq-_-bTLVbl9nG0aPc2UwCRmFZKDAqjxtFQgJAH2V9Ky5-r8HIkv_9ibM0U4R6ieJCRmg9RZLRHN1L4" alt=""><figcaption></figcaption></figure>
 
-Теперь уже можем добавить небо и воду  над которым солнце будет двигаться. Но перед этим нужно сгруппировать в Группу  “Группу фильтр” и “солнце”.
+Теперь уже можем добавить небо и воду  над которым солнце будет двигаться. Но перед этим нужно сгруппировать в **Группу** «Группу фильтр» и «солнце».
 
-Зачем это нужно? Так как если мы будем создавать объекты под Группой фильтра, то он будет его видоизменять, в нашем случаем нам это не надо
+Зачем это нужно? Так как если мы будем создавать объекты под **Группой фильтра**, то он будет его видоизменять, в нашем случаем нам это не надо
 
 Выглядит это таким образом: <br>
 
@@ -71,12 +80,12 @@
 <figure><img src="https://lh7-us.googleusercontent.com/7koFZe_-KRUncoelYU_GcKz7irtanWiVGSHdjbvFZW5_n8rihkpNCfazTY1oKWTTx6-4CIFcHLRtE2EgrFJW-_4z0BS1FbHmXZqROyy4lK6_CC1relk-QdrOEkY7iVkvcHKWaK5xqPZFllj3AZ_Z508" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-&#x20;Вода и небо приняли то же свойство что и солнце, т.к они были под Группой фильтра
+&#x20;Вода и небо приняли то же свойство что и солнце, т.к они были под **Группой фильтра**
 {% endhint %}
 
-И финальное завершение - это изменение Непрозрачности у Группы фильтра.
+И финальное завершение — это изменение **Непрозрачности** у **Группы фильтра**.
 
-С 1 на 0,5.
+С `1` на `0,5`.
 
 <figure><img src="https://lh7-us.googleusercontent.com/cxD9NLbucU4eX84BENm8S6sgK0-3NNRkrpDyijDjXAPWkCKVhzXJuZ6weTkXv6A5NEsPFp5GAm6q4dD4nvtBfgMhvXpVtz8HONiVJJRBMvoPqbxCCszi-gtcf_k25VKOlInqZ4VHBI3kK56YEIW-nFg" alt=""><figcaption></figcaption></figure>
 

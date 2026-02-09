@@ -10,11 +10,11 @@
 
 <figure><img src="../.gitbook/assets/2024-05-20_13-35.png" alt=""><figcaption></figcaption></figure>
 
-На панели слоёв с помощью кнопки «Cоздать слой» вызовите контекстное меню, выберите «Градиенты» - «Спиральный градиент»;
+На панели слоёв с помощью кнопки «Создать слой» вызовите контекстное меню, выберите «Градиенты» → «Спиральный градиент»;
 
 <figure><img src="../.gitbook/assets/spiral.png.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
-### Параметры слоя “Спиральный градиент” <a href="#docs-internal-guid-ca95d97f-7fff-bd7e-c9c1-be5460e56a92" id="docs-internal-guid-ca95d97f-7fff-bd7e-c9c1-be5460e56a92"></a>
+### Параметры слоя «Спиральный градиент» <a href="#docs-internal-guid-ca95d97f-7fff-bd7e-c9c1-be5460e56a92" id="docs-internal-guid-ca95d97f-7fff-bd7e-c9c1-be5460e56a92"></a>
 
 | <img src="https://lh7-us.googleusercontent.com/etrAlwP11Up6DCEeqqjv5dxt4yGji3XTt_X2fClYSK-FoJkD0Xt58OXQ7u5NZxJKkbTAlqFQsRYeWNjTOQECugPQV2KpE7Mr7KJ2VEeFzluR88fP_PuqmL0Z3uzdKb6JzGiRlQXgPBpHo_6M2SW0pGA" alt="Type_real_icon.png" data-size="line"> Глубина Z           | 0,000000                                                                                                                                                                                                              | реальный     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |

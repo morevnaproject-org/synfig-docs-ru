@@ -2,7 +2,7 @@
 
 <img src="../.gitbook/assets/layer_other_skeleton_icon.png" alt="" data-size="original">
 
-Скелет - это слой который помогает управлять более сложными объектами с помощью костей.
+Скелет — это слой который помогает управлять более сложными объектами с помощью **костей**.
 
 **Параметры слоя Скелета:**<br>
 
@@ -14,5 +14,5 @@
 | [![Type list icon.png](https://wiki.synfig.org/images/thumb/b/b6/Type_list_icon.png/16px-Type_list_icon.png)](https://wiki.synfig.org/File:Type_list_icon.png) Кости          | list (Static List) | list   |
 
 {% hint style="info" %}
-_Побробнее о работе данного слоя смотрите статью "Создание слкелета"  в разделе "Скелетная анимация"._
+Подробнее о работе данного слоя смотрите статью «_Создание скелета_»  в разделе «_Скелетная анимация_»_._
 {% endhint %}
