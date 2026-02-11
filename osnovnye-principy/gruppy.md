@@ -1,6 +1,6 @@
 # Группирование слоев
 
-Группа - это специальный слой, который может содержать другие слои.
+Группа — это специальный слой, который может содержать другие слои.
 
 {% hint style="info" %}
 В Synfig Studio мы можем сгруппировать несколько слоёв и работать с ними как с одним объектов.
@@ -16,7 +16,7 @@
 
 **Преобразование** параметр уже [преобразуется](https://synfig.readthedocs.io/en/latest/converters/composite.html#converter-composite) при создании [группового слоя](https://synfig.readthedocs.io/en/latest/layers/group.html#layer-group) и, таким образом, напрямую предоставляет подпараметры параметров **смещения**, **поворота**, **перекоса** и **масштабирования**.
 
-Точно также как у слоя изображения, у группы есть точки за которые мы можем изменять её положение размер и прочее. Более подробно про контрольные точки можно посмотреть в разделе: **Параметры на рабочей области** - **Контрольные точки, их цвета и типы**.
+Точно также как у слоя изображения, у группы есть точки за которые мы можем изменять её положение размер и прочее. Более подробно про контрольные точки можно посмотреть в разделе: **Параметры на рабочей области** → **Контрольные точки, их цвета и типы**.
 
 **Виды групп**
 
@@ -42,27 +42,27 @@
 
 <figure><img src="../.gitbook/assets/pasted image3 0.png" alt=""><figcaption><p>Точки вершин</p></figcaption></figure>
 
-<img src="../.gitbook/assets/1 (5).png" alt="" data-size="line"> - зелёная точка является ключевой опорной точкой для группы объектов или изображения. Все операции по изменению масштаба, повороту и наклону группы или изображения происходят относительно этой точки. Также она отвечает за перемещение объекта.
+<img src="../.gitbook/assets/1 (5).png" alt="" data-size="line"> — зелёная точка является ключевой опорной точкой для группы объектов или изображения. Все операции по изменению масштаба, повороту и наклону группы или изображения происходят относительно этой точки. Также она отвечает за перемещение объекта.
 
 <figure><img src="../.gitbook/assets/1.gif" alt=""><figcaption><p>Перемещение группы объектов</p></figcaption></figure>
 
-<img src="../.gitbook/assets/3 (1) (1) (1).png" alt="" data-size="line"> - желтые точки, расположенные в диагонально противоположных углах, позволяют сжимать и растягивать предмет по горизонтали и вертикали соответственно. Также через эти точки можно отражать объект, если перенести их на противоположную от них сторону.
+<img src="../.gitbook/assets/3 (1) (1) (1).png" alt="" data-size="line"> — желтые точки, расположенные в диагонально противоположных углах, позволяют сжимать и растягивать предмет по горизонтали и вертикали соответственно. Также через эти точки можно отражать объект, если перенести их на противоположную от них сторону.
 
 <figure><img src="../.gitbook/assets/7.gif" alt=""><figcaption><p>Растягивание и сжимание объекта</p></figcaption></figure>
 
-<img src="../.gitbook/assets/5 (1) (1) (1).png" alt="" data-size="line"> - синяя точка позволяет вращать предмет вокруг зелёной точки без изменения размера объекта.
+<img src="../.gitbook/assets/5 (1) (1) (1).png" alt="" data-size="line"> — синяя точка позволяет вращать предмет вокруг зелёной точки без изменения размера объекта.
 
 <figure><img src="../.gitbook/assets/2.gif" alt=""><figcaption><p>Поворот объекта</p></figcaption></figure>
 
-<img src="../.gitbook/assets/2 (1) (1) (1) (1).png" alt="" data-size="line"> - коричневая точка позволяет увеличивать или уменьшать размер обектов без потери их пропорций. Увеличение производится относительно зелёной точки.
+<img src="../.gitbook/assets/2 (1) (1) (1) (1).png" alt="" data-size="line"> — коричневая точка позволяет увеличивать или уменьшать размер обектов без потери их пропорций. Увеличение производится относительно зелёной точки.
 
 <figure><img src="../.gitbook/assets/3.gif" alt=""><figcaption><p>Масштабирование объекта</p></figcaption></figure>
 
-<img src="../.gitbook/assets/6 (1) (1).png" alt="" data-size="line"> - красная точка позволяет делать наклон/скос объекту.
+<img src="../.gitbook/assets/6 (1) (1).png" alt="" data-size="line"> — красная точка позволяет делать наклон/скос объекту.
 
 <figure><img src="../.gitbook/assets/5.gif" alt=""><figcaption><p>Наклон объекта</p></figcaption></figure>
 
-<img src="../.gitbook/assets/7 (1).png" alt="" data-size="line"> - прозрачная серая точка позволяет без влияния на объект сместить зелёную точку, а соответсвенно и все остальные точки вершин. Используется для точного позиционирования центра объекта.
+<img src="../.gitbook/assets/7 (1).png" alt="" data-size="line"> — прозрачная серая точка позволяет без влияния на объект сместить зелёную точку, а соответственно и все остальные точки вершин. Используется для точного позиционирования центра объекта.
 
 <figure><img src="../.gitbook/assets/6.gif" alt=""><figcaption><p>Перемещение центра объекта</p></figcaption></figure>
 
@@ -70,31 +70,31 @@
 
 Каждая контрольная точка имеет свою функцию и отличается по цвету.
 
-<img src="https://lh7-us.googleusercontent.com/2zPwZ-IBjfFpc3Fk15GGqt0Z86-ODh4ht15XLxtV0YUML7BVD70bB_F-TWZBJlPyoRC4sXmvg2VpEXtGrtDNgwnnABIOA_R9u-4tzxbI_GiD5_ISdsgbR35XdNqO9O7e7cJMSfIsg1bk7hoxEN-BQdo" alt="" data-size="line">-эта точка позиции, которая отвечает за расположение объекта на рабочей области. По сути, это центр объекта вокруг которого происходят изменения.
+<img src="https://lh7-us.googleusercontent.com/2zPwZ-IBjfFpc3Fk15GGqt0Z86-ODh4ht15XLxtV0YUML7BVD70bB_F-TWZBJlPyoRC4sXmvg2VpEXtGrtDNgwnnABIOA_R9u-4tzxbI_GiD5_ISdsgbR35XdNqO9O7e7cJMSfIsg1bk7hoxEN-BQdo" alt="" data-size="line"> — это точка позиции, которая отвечает за расположение объекта на рабочей области. По сути, это центр объекта вокруг которого происходят изменения.
 
 <figure><img src="https://lh7-us.googleusercontent.com/tmPCiXPGUhDWAI-YjzEDZqlmvbNpAnC4Tn4436M-TxcIDi5HCf5JuoHQBFHutGLrqgNDGUI_IupGUQjkOh8xEWNhwMcxXBwV-Y6dW4DM3eNdxW0aJ60XJfZp0mjkt3SR-NE46I-fZ4ecRaw6P4DbKSQ" alt=""><figcaption></figcaption></figure>
 
-<img src="https://lh7-us.googleusercontent.com/0G-niGSPOhI7SaKWPk2P1E2PzP6H-EEf_v-XqCvi6v7S4Fk23QjvOX2doaZaQJoyWva_7nRGJ4XXhfnW-BaXvVfm4oLsNiiR4xVTVvMiIHfHVuOhxRLUKpov8L0VoeIE8FmunwWnXZl9wOtXNP4UavM" alt="" data-size="line">- эта точка вершин, которая отвечает за расположение вершин на рабочей области. С помощью этой точки можно менять размеры и форму объекта.
+<img src="https://lh7-us.googleusercontent.com/0G-niGSPOhI7SaKWPk2P1E2PzP6H-EEf_v-XqCvi6v7S4Fk23QjvOX2doaZaQJoyWva_7nRGJ4XXhfnW-BaXvVfm4oLsNiiR4xVTVvMiIHfHVuOhxRLUKpov8L0VoeIE8FmunwWnXZl9wOtXNP4UavM" alt="" data-size="line"> — эта точка вершин, которая отвечает за расположение вершин на рабочей области. С помощью этой точки можно менять размеры и форму объекта.
 
 <figure><img src="https://lh7-us.googleusercontent.com/ksKog1AkJhd9I8qeDDFZyygBo3DUXEODpQp7qgxKP86CfoDfXnXTZVbgTVvLRCK-HT7h4n9Qh34uztTyey_vsBDkaB6lUw0Dmzz69X3mvDSFVpstinp6LWiP1VvCgvQytRafLA4i1DGc98P63PSVdZY" alt=""><figcaption></figcaption></figure>
 
-<img src="https://lh7-us.googleusercontent.com/syyBU59nn0Xu8Hu4Z8c_u6LtfY6tSarLN61XM7GgH_WMTCWvAH6RYQstcLHaayNHOVbPn3rZpLkShBuDQl1ESn6uS-sz4pYdA-wqIlyD2e4sVrYxVNki0tmxuCprXqc5oYD69JUXVq4C4OIhRs9r1D8" alt="" data-size="line">- эта точка отвечает за касательные, с ее помощью можно менять стороны объектов.
+<img src="https://lh7-us.googleusercontent.com/syyBU59nn0Xu8Hu4Z8c_u6LtfY6tSarLN61XM7GgH_WMTCWvAH6RYQstcLHaayNHOVbPn3rZpLkShBuDQl1ESn6uS-sz4pYdA-wqIlyD2e4sVrYxVNki0tmxuCprXqc5oYD69JUXVq4C4OIhRs9r1D8" alt="" data-size="line"> — эта точка отвечает за касательные, с ее помощью можно менять стороны объектов.
 
 <figure><img src="https://lh7-us.googleusercontent.com/sKLr2VN3vvpaLzPL2JDwg7rDPvgCS-KAhwwLf8e3ikVBckxREZMOcT4BIaRpljLonD0rHTK2pI02h50vr9ywBsoSBqtj1VJUhz3QdLWxuMoXoW-ijCI2aRT1EUXzDQKWlNp4DMxgk1-SV8w6IiU9cDk" alt=""><figcaption></figcaption></figure>
 
-<img src="https://lh7-us.googleusercontent.com/459Tnxtx40pIEcwFWJKepHFdO8ux_pRBLaC5NU4B6tEEGpZUITQrtk7Tpnh2eEEpnunaHOJuWFNGE-wu8b5lcOAT70RpDe88KyPTyShqyJ8o1mr777dPnyNzNhrDPFrxqaBvd1ioeazJJYdD52tGkdU" alt="" data-size="line">- эта точка углов. С ее помощью мы можем менять наклон объекта и вращать его вокруг центральной точки.
+<img src="https://lh7-us.googleusercontent.com/459Tnxtx40pIEcwFWJKepHFdO8ux_pRBLaC5NU4B6tEEGpZUITQrtk7Tpnh2eEEpnunaHOJuWFNGE-wu8b5lcOAT70RpDe88KyPTyShqyJ8o1mr777dPnyNzNhrDPFrxqaBvd1ioeazJJYdD52tGkdU" alt="" data-size="line"> — эта точка углов. С ее помощью мы можем менять наклон объекта и вращать его вокруг центральной точки.
 
 <figure><img src="https://lh7-us.googleusercontent.com/BrA6JI5zDQm4wewgYEZ7waEzRaHpn2GN2HigMxV1p5LOX3uqXxpfz9g8v-ew2bHZSnQiRqVqIT09T9TE6AhwUq-5XONyA03vdD-iAvmIQIbpkdhw-BNjm4wpHL0pClBrxOmoZLfqJsVUnvlVDCIu_YU" alt=""><figcaption></figcaption></figure>
 
-<img src="https://lh7-us.googleusercontent.com/9uTvsJNhO71OmBeGfgJVER78-Jvk4bet7ss6Zw1ffFZ_VQxMw0Kn85AiKLDU_2N0vWgssFd9wWHyPIvlqye-5OW3tbvdM120wCxQxpjf4CiEqniWfKfQRokyGArIYG2ITjU7AX0m7-kYWq5fL_V5n1E" alt="" data-size="line">- эта точка перемещает зелёную точку, а именно центр объекта.
+<img src="https://lh7-us.googleusercontent.com/9uTvsJNhO71OmBeGfgJVER78-Jvk4bet7ss6Zw1ffFZ_VQxMw0Kn85AiKLDU_2N0vWgssFd9wWHyPIvlqye-5OW3tbvdM120wCxQxpjf4CiEqniWfKfQRokyGArIYG2ITjU7AX0m7-kYWq5fL_V5n1E" alt="" data-size="line"> — эта точка перемещает зелёную точку, а именно центр объекта.
 
 <figure><img src="https://lh7-us.googleusercontent.com/DuubLPtPNcOu6j-Ne9hLGALu9xTSRcUCOSdZppktaYk21S4ZxGEYGhhAsIhKiLPMXenz023Mm6vmaObFVFwJ8LgxE_R_Uvm4Hwaniu-ZzKEa9NY6ocULotkgKDrwO_D0NTil4iINV9D2z3BkShHk9_4" alt=""><figcaption></figcaption></figure>
 
-<img src="https://lh7-us.googleusercontent.com/5vCiGgKsdCcmg7hVBQTSC0qzlHycZf-xVMHiv06EHss1Zcg0k60u0Axc-Ka2NryvBS-Og8tZx15-cuC1xdPk413jEDvLVNMK1TSLLRARBbQg2bRN1U5N1tGo9RzIinLdTYDTtQb4KetsNieKQDgMUy0" alt="" data-size="line">- эта точка позволяет делать скос объекту.
+<img src="https://lh7-us.googleusercontent.com/5vCiGgKsdCcmg7hVBQTSC0qzlHycZf-xVMHiv06EHss1Zcg0k60u0Axc-Ka2NryvBS-Og8tZx15-cuC1xdPk413jEDvLVNMK1TSLLRARBbQg2bRN1U5N1tGo9RzIinLdTYDTtQb4KetsNieKQDgMUy0" alt="" data-size="line"> — эта точка позволяет делать скос объекту.
 
 <figure><img src="https://lh7-us.googleusercontent.com/8wlEMsDcoTGepKnY_nKChZvPeC3Gg92K1P3oHZJHfLfaDNCxpKEI1FqfB-3UXYqWHzwflJuet1L07BLqCQd1sI2nElDBRKG9T7GvoKi5gZfcVmHXLkTvRkvero4FZeFJ3s2qGvxZdOxCjE_ZZtNoRaY" alt=""><figcaption></figcaption></figure>
 
-Пример
+**Пример**
 
 Мы создали круг, но его можно только тянуть за две точки, это менять радиус и перемещать, но мы хотим этот круг превратить в овал или ещё как-нибудь его видоизменить, для этого мы просто нажимаем на Группу слой. Теперь у нашего круга появилось больше возможностей такие как: точки позиции, вершины, касательные и углов
 
@@ -111,15 +111,23 @@
 
 **Перетаскивание**
 
-При этом способе вы щелкаете на объект и с помощью ЛКМ удерживаете, и уже перетаскиваете в группу.
+При использовании этого способа выберите объект, щёлкнув по нему левой кнопкой мыши (**ЛКМ**), затем удерживайте кнопку и перетащите объект в нужную группу.
+
+После отпускания кнопки объект будет добавлен в выбранную группу.
 
 **Копировать/вставить**
 
-При этом способе мы используем сочетание клавиш “CTRL+C” - копировать и “CTRL+V” - вставить, нажимая на сам объект который хотим скопировать и на саму группу в которой мы уже вставляем.
+При использовании этого способа применяются стандартные сочетания клавиш:
+
+* **Ctrl + C** — копировать
+* **Ctrl + V** — вставить
+
+Чтобы скопировать объект, щёлкните по нему и нажмите **Ctrl + C**.\
+Затем перейдите в группу или проект, куда нужно вставить объект, щёлкните по нужной группе и нажмите **Ctrl + V**.
 
 **Удаление слоя**
 
-![](https://lh7-us.googleusercontent.com/jnRFzCnSceLYZHXXM48ObbQ9mbqBDZugiEkDd0QKLrqPlnSX9u23U7ay3jLjg3I5lx7RBKlqtP-Vd2Zq6MovQFEPU4-3qqqXXyiUos5hQCwBscwx40jPyscG2e2oDuq29ECq4rw7KcJKO9Z5r9Qaecc) - Для того чтобы удалить слой из группы, нужно выделить слой и нажать на иконку мусорного бака в нижней панели слоев
+![](https://lh7-us.googleusercontent.com/jnRFzCnSceLYZHXXM48ObbQ9mbqBDZugiEkDd0QKLrqPlnSX9u23U7ay3jLjg3I5lx7RBKlqtP-Vd2Zq6MovQFEPU4-3qqqXXyiUos5hQCwBscwx40jPyscG2e2oDuq29ECq4rw7KcJKO9Z5r9Qaecc) — Для того чтобы удалить слой из группы, нужно выделить слой и нажать на иконку мусорного бака в нижней панели слоев
 
 **Вынесение слоя за группу**
 

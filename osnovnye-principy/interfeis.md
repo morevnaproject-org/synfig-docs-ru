@@ -48,19 +48,19 @@
 
 ## **Рабочая область**
 
-Область с клеточками в центре - это рабочая область. Здесь вы создаете элементы/слои и управляете ими. Серые клеточки в этой области обозначают прозрачность. В данный момент они показывают, что наша рабочая область абсолютно пуста.
+Область с клеточками в центре — это рабочая область. Здесь вы создаете элементы/слои и управляете ими. Серые клеточки в этой области обозначают прозрачность. В данный момент они показывают, что наша рабочая область абсолютно пуста.
 
 Сверху над рабочей областью находится панель с кнопками. Первая группа кнопок позволяет создавать, открывать и сохранять документ(ы).
 
-<img src="../.gitbook/assets/action_doc_new_icon (4).png" alt="" data-size="line">  - Создать новый документ
+<img src="../.gitbook/assets/action_doc_new_icon (4).png" alt="" data-size="line"> — Создать новый документ
 
-<img src="../.gitbook/assets/action_doc_open_icon (1).png" alt="" data-size="line"> - Открыть существующий документ
+<img src="../.gitbook/assets/action_doc_open_icon (1).png" alt="" data-size="line"> — Открыть существующий документ
 
-<img src="../.gitbook/assets/action_doc_save_icon.png" alt="" data-size="line"> - Сохранить документ
+<img src="../.gitbook/assets/action_doc_save_icon.png" alt="" data-size="line"> — Сохранить документ
 
-<img src="../.gitbook/assets/action_doc_saveas_icon.png" alt="" data-size="line"> - Сохранить открытый файл под другим именем
+<img src="../.gitbook/assets/action_doc_saveas_icon.png" alt="" data-size="line"> — Сохранить открытый файл под другим именем
 
-<img src="../.gitbook/assets/action_doc_saveall_icon.png" alt="" data-size="line"> - Сохранить все открытые документы
+<img src="../.gitbook/assets/action_doc_saveall_icon.png" alt="" data-size="line"> — Сохранить все открытые документы
 
 {% hint style="info" %}
 Когда мы создаем или открываем документ, то в верхней части рабочей области для него появляется отдельная вкладка. Это позволяет работать с несколькими документами одновременно и легко переключаться между ними
@@ -70,15 +70,15 @@
 
 Далее идут кнопки отвечающие за отмену или повторение последнего действия.
 
-<img src="../.gitbook/assets/action_doc_undo_icon.png" alt="" data-size="line"> - Отменить предыдущее действие
+<img src="../.gitbook/assets/action_doc_undo_icon.png" alt="" data-size="line"> — Отменить предыдущее действие
 
-<img src="../.gitbook/assets/action_doc_redo_icon.png" alt="" data-size="line"> - Повторить отмененное ранее действие
+<img src="../.gitbook/assets/action_doc_redo_icon.png" alt="" data-size="line"> — Повторить отмененное ранее действие
 
 Следующие две кнопки позволяют экспортировать вашу анимацию в файл и выполнить предпросмотр анимации без сохранения в файл.&#x20;
 
-<img src="../.gitbook/assets/render_options_icon.png" alt="" data-size="line"> - Открыть диалог параметров визуализации
+<img src="../.gitbook/assets/render_options_icon.png" alt="" data-size="line"> — Открыть диалог параметров визуализации
 
-<img src="../.gitbook/assets/preview_options_icon.png" alt="" data-size="line"> - Открыть диалог параметров предпросмотра
+<img src="../.gitbook/assets/preview_options_icon.png" alt="" data-size="line"> — Открыть диалог параметров предпросмотра
 
 {% hint style="info" %}
 Подробную информацию об этих функциях смотрите в разделе "Экспорт".
@@ -94,9 +94,9 @@
 
 Далее идут две кнопки которые позволяют включать и выключать отображение сетки и прилипание к ней.&#x20;
 
-<img src="../.gitbook/assets/show_grid_icon.png" alt="" data-size="line"> - Показывать сетку
+<img src="../.gitbook/assets/show_grid_icon.png" alt="" data-size="line"> — Показывать сетку
 
-<img src="../.gitbook/assets/snap_grid_icon.png" alt="" data-size="line"> - Прилипание к сетке
+<img src="../.gitbook/assets/snap_grid_icon.png" alt="" data-size="line"> — Прилипание к сетке
 
 Следом расположен выпадающий список, который позволяет переключить режим отрисовки элементов на рабочей области:
 

@@ -12,13 +12,13 @@
 
 Наиболее часто используемые типы слоёв:
 
-<img src="../.gitbook/assets/layer_geometry_outline_icon (1).png" alt="" data-size="line">- **Контур**;
+<img src="../.gitbook/assets/layer_geometry_outline_icon (1).png" alt="" data-size="line"> — **Контур**;
 
-<img src="../.gitbook/assets/layer_geometry_region_icon.png" alt="" data-size="line">- **Область**;
+<img src="../.gitbook/assets/layer_geometry_region_icon.png" alt="" data-size="line"> — **Область**;
 
-<img src="../.gitbook/assets/layer_geometry_circle_icon.png" alt="" data-size="line">**- Окружность;**
+<img src="../.gitbook/assets/layer_geometry_circle_icon.png" alt="" data-size="line"> — **Окружность;**
 
-<img src="../.gitbook/assets/layer_other_group_icon.png" alt="" data-size="line">- **Группа**;
+<img src="../.gitbook/assets/layer_other_group_icon.png" alt="" data-size="line"> — **Группа.**
 
 {% hint style="info" %}
 Полный список доступных типов слоёв и назначение их параметров описаны в разделе "Перечень слоёв" данного руководства.
@@ -26,9 +26,9 @@
 
 Все типы слоёв имеют три базовых параметра:
 
-* **Глубина Z** - позволяет корректировать порядок отрисовки слоев. Этот параметр задаёт смещение относительно его текущей позиции в списке слоёв. Отрицательное значение параметра смещает слой ближе к зрителю, а положительное значение смещает его дальше от зрителя. Этот параметр можно анимировать, что позволяет динамически изменять порядок слоёв в процессе анимации.
-* **Непрозрачность** - определяет степень непрозрачности слоя. Значение 0% означает полную прозрачность (слой скрыт), а значение 100% - полную непрозрачность (слой полностью виден).
-* **Метод смешивания** - определяет способ комбинирования слоя с нижележащими слоями.
+* **Глубина Z** — позволяет корректировать порядок отрисовки слоев. Этот параметр задаёт смещение относительно его текущей позиции в списке слоёв. Отрицательное значение параметра смещает слой ближе к зрителю, а положительное значение смещает его дальше от зрителя. Этот параметр можно анимировать, что позволяет динамически изменять порядок слоёв в процессе анимации.
+* **Непрозрачность** — определяет степень непрозрачности слоя. Значение 0% означает полную прозрачность (слой скрыт), а значение 100% - полную непрозрачность (слой полностью виден).
+* **Метод смешивания** — определяет способ комбинирования слоя с нижележащими слоями.
 
 <figure><img src="../.gitbook/assets/009-1.png" alt=""><figcaption><p>Панель параметров слоя <strong>Окружность</strong>. Базовые параметры.</p></figcaption></figure>
 
@@ -75,17 +75,17 @@
 
 Существует несколько типов контрольных точек, каждый из которых обладает своим назначением:
 
-<img src="../.gitbook/assets/1 (5).png" alt="" data-size="line"> - **Точка позиции**, которая отвечает за расположение объекта на рабочей области. По сути, это центр объекта относительно которого происходят изменения.&#x20;
+<img src="../.gitbook/assets/1 (5).png" alt="" data-size="line"> — **Точка позиции**, которая отвечает за расположение объекта на рабочей области. По сути, это центр объекта относительно которого происходят изменения.&#x20;
 
-<img src="../.gitbook/assets/2 (1) (1) (1) (1).png" alt="" data-size="line"> - **Точка вершин**. С помощью этой точки можно менять форму векторного объекта.
+<img src="../.gitbook/assets/2 (1) (1) (1) (1).png" alt="" data-size="line"> — **Точка вершин**. С помощью этой точки можно менять форму векторного объекта.
 
-<img src="../.gitbook/assets/3 (1) (1) (1).png" alt="" data-size="line"> - **Точка касательных**, отвечает за контроль кривизны сегмента векторного объекта.
+<img src="../.gitbook/assets/3 (1) (1) (1).png" alt="" data-size="line"> — **Точка касательных**, отвечает за контроль кривизны сегмента векторного объекта.
 
-<img src="../.gitbook/assets/4 (1) (1).png" alt="" data-size="line"> - **Точка радиуса**, с ее помощью можно менять радиус окружностей.
+<img src="../.gitbook/assets/4 (1) (1).png" alt="" data-size="line"> — **Точка радиуса**, с ее помощью можно менять радиус окружностей.
 
-<img src="../.gitbook/assets/5 (1) (1) (1).png" alt="" data-size="line"> - **Точка углов**. С ее помощью мы можем менять наклон объекта и вращать его вокруг центральной точки.
+<img src="../.gitbook/assets/5 (1) (1) (1).png" alt="" data-size="line"> — **Точка углов**. С ее помощью мы можем менять наклон объекта и вращать его вокруг центральной точки.
 
-<img src="../.gitbook/assets/8.png" alt="" data-size="line"> - **Точка ширины**. С помощью этой точки можно изменять ширину контура (кривых). Также она применяется у слоя [Деформирующий скелет](../perechen-sloyov/deformiruyushii-skelet.md).&#x20;
+<img src="../.gitbook/assets/8.png" alt="" data-size="line"> — **Точка ширины**. С помощью этой точки можно изменять ширину контура (кривых). Также она применяется у слоя [Деформирующий скелет](../perechen-sloyov/deformiruyushii-skelet.md).&#x20;
 
 ### Видимость контрольных точек на рабочей области&#x20;
 
@@ -93,17 +93,17 @@
 
 <figure><img src="../.gitbook/assets/2024-03-13_13-15 (1).png" alt=""><figcaption><p>Панель управления отображением контрольных точек</p></figcaption></figure>
 
-<img src="../.gitbook/assets/duck_position_icon.png" alt="" data-size="line">-  включить отображение точки позиции;
+<img src="../.gitbook/assets/duck_position_icon.png" alt="" data-size="line"> —  включить отображение точки позиции;
 
-<img src="../.gitbook/assets/duck_vertex_icon.png" alt="" data-size="line">-  включить отображение точек вершин;
+<img src="../.gitbook/assets/duck_vertex_icon.png" alt="" data-size="line"> — включить отображение точек вершин;
 
-<img src="../.gitbook/assets/duck_tangent_icon.png" alt="" data-size="line">-  включить отображение точек касательных;
+<img src="../.gitbook/assets/duck_tangent_icon.png" alt="" data-size="line"> — включить отображение точек касательных;
 
-<img src="../.gitbook/assets/duck_radius_icon.png" alt="" data-size="line">-  включить отображение точки радиуса;
+<img src="../.gitbook/assets/duck_radius_icon.png" alt="" data-size="line"> — включить отображение точки радиуса;
 
-<img src="../.gitbook/assets/duck_width_icon.png" alt="" data-size="line">-  включить отображение точек ширины;
+<img src="../.gitbook/assets/duck_width_icon.png" alt="" data-size="line"> — включить отображение точек ширины;
 
-<img src="../.gitbook/assets/duck_angle_icon.png" alt="" data-size="line">-  включить отображение точек углов.
+<img src="../.gitbook/assets/duck_angle_icon.png" alt="" data-size="line"> — включить отображение точек углов.
 
 ### Связывание параметров
 

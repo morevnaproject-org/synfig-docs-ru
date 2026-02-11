@@ -20,5 +20,5 @@
 <figure><img src="../.gitbook/assets/figyri (1).gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Подробную информацию об фигурах смотрите в разделе "Инструменты".
+Подробную информацию об фигурах смотрите в разделе «Инструменты».
 {% endhint %}

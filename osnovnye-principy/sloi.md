@@ -6,9 +6,9 @@
 
 <figure><img src="../.gitbook/assets/016-2 (1).png" alt=""><figcaption><p><em>Интерфейс Synfig Studio. Панель слоёв.</em></p></figcaption></figure>
 
-Слои можно создавать через кнопку **Добавить слой**, которая расположена в нижней части панели слоев. При нажатии на эту кнопку появляется меню с полным списком всех доступных типов слоёв.
+Слои можно создавать через кнопку **Добавить слой**, которая расположена в нижней части **Панели слоев**. При нажатии на эту кнопку появляется меню с полным списком всех доступных типов слоёв.
 
-<figure><img src="../.gitbook/assets/018-1.png" alt=""><figcaption><p>Панель управления слоями. Кнопка добавить слой.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/018-1.png" alt=""><figcaption><p>Панель управления слоями. Кнопка «Добавить слой».</p></figcaption></figure>
 
 Вы также можете создать новый слой, щёлкнув правой кнопкой мыши на пустом месте панели слоёв или по существующему слою и выбрав **Создать слой**.
 
@@ -16,31 +16,31 @@
 Для многих типов графических слоёв есть более удобный способ добавления  - с помощью инструментов. Подробную информацию об этом смотрите в разделе [Инструменты](instrumenty.md).
 {% endhint %}
 
-Порядок слоев в списке на панели слоёв соответствует порядку их отображения на рабочей области.  Слои, расположенные выше в списке, будут перекрывать слои, расположенные ниже.
+Порядок слоев в списке на панели слоёв соответствует порядку их отображения на рабочей области. Слои, расположенные выше в списке, будут перекрывать слои, расположенные ниже.
 
 Порядок слоёв можно менять с помощью кнопок со стрелочками, которые находятся в нижней части **Панели слоёв**.
 
 <figure><img src="../.gitbook/assets/018-2 (1).png" alt=""><figcaption><p>Панель управления слоями. Кнопки перемещения слоёв.</p></figcaption></figure>
 
-<img src="../.gitbook/assets/layerup.png" alt="" data-size="line">- Поднять слой
+<img src="../.gitbook/assets/layerup.png" alt="" data-size="line">— **Поднять слой**
 
-<img src="../.gitbook/assets/layerdown.png" alt="" data-size="line">- Опустить слой
+<img src="../.gitbook/assets/layerdown.png" alt="" data-size="line">— **Опустить слой**
 
 Рядом  на этой же панели находятся другие кнопки управления слоями:&#x20;
 
-<img src="../.gitbook/assets/duplicate_icon.png" alt="" data-size="line">- **Создать копию слоя (дублировать)**
+<img src="../.gitbook/assets/изображение (5).png" alt="" data-size="line"> — **Создать копию слоя (дублировать)**
 
-<img src="../.gitbook/assets/group_icon.png" alt="" data-size="line">- **Группировать слои**
+<img src="../.gitbook/assets/group_icon.png" alt="" data-size="line"> — **Группировать слои**
 
-<img src="../.gitbook/assets/select_all_child_layers_icon.png" alt="" data-size="line">- **Выбрать все вложенные слои**
+<img src="../.gitbook/assets/select_all_child_layers_icon.png" alt="" data-size="line"> — **Выбрать все вложенные слои**
 
-<img src="../.gitbook/assets/delete_layer (1).png" alt="" data-size="line">- **Удалить слой**
+<img src="../.gitbook/assets/delete_layer (1).png" alt="" data-size="line"> — **Удалить слой**
 
-<img src="../.gitbook/assets/tool_cutout_icon (1) (1).png" alt="" data-size="line">- **Вырезать слой**
+<img src="../.gitbook/assets/tool_cutout_icon (1) (1).png" alt="" data-size="line"> — **Вырезать слой**
 
-<img src="../.gitbook/assets/copy_layer.png" alt="" data-size="line">- **Скопировать слой**
+<img src="../.gitbook/assets/copy_layer.png" alt="" data-size="line"> — **Скопировать слой**
 
-<img src="../.gitbook/assets/paste_layer.png" alt="" data-size="line">- **Вставить слой**
+<img src="../.gitbook/assets/paste_layer.png" alt="" data-size="line"> — **Вставить слой**
 
 {% hint style="info" %}
 При создании новых слоёв или вставке слоёв из буфера обмена они всегда будут появляться над тем слоем, который у вас выделен в данный момент. Если никакой слой не выделен, то новые слои появляются в самом верху списка.
@@ -52,8 +52,8 @@
 
 В Synfig Studio существует два способа выделения объектов (слоёв):
 
-* Первый способ - щёлкнуть левой кнопкой мыши на элементе в списке панели слоёв;
-* Второй способ - щёлкнуть по элементу на рабочей области с помощью какого-либо трансформирующего инструмента - <img src="../.gitbook/assets/tool_normal_icon.png" alt="" data-size="line"><img src="../.gitbook/assets/tool_smooth_move_icon.png" alt="" data-size="line"><img src="../.gitbook/assets/tool_scale_icon.png" alt="" data-size="line"><img src="../.gitbook/assets/tool_rotate_icon.png" alt="" data-size="line"><img src="../.gitbook/assets/tool_mirror_icon.png" alt="" data-size="line">.
+* Первый способ — щёлкнуть левой кнопкой мыши на элементе в списке панели слоёв;
+* Второй способ — щёлкнуть по элементу на рабочей области с помощью какого-либо трансформирующего инструмента — <img src="../.gitbook/assets/tool_normal_icon.png" alt="" data-size="line"><img src="../.gitbook/assets/tool_smooth_move_icon.png" alt="" data-size="line"><img src="../.gitbook/assets/tool_scale_icon.png" alt="" data-size="line"><img src="../.gitbook/assets/tool_rotate_icon.png" alt="" data-size="line"><img src="../.gitbook/assets/tool_mirror_icon.png" alt="" data-size="line">.
 
 Чтобы выделить одновременно несколько слоёв используйте клавиши **Shift** или **Ctrl**:
 
@@ -84,9 +84,9 @@
 
 Редактировать параметры слоя можно одним из двух способов:&#x20;
 
-1\) Через панель параметров. Нужно щелкнуть на значении параметра чтобы отредактировать его.
+1\) Через **Панель параметров**. Нужно щелкнуть на значении параметра чтобы отредактировать его.
 
-2\) На рабочей области. Вы можете перетаскивать контрольные точки на рабочей области, при этом соответствующие параметры слоя будут меняться автоматически.
+2\) На **Рабочей области**. Вы можете перетаскивать контрольные точки на рабочей области, при этом соответствующие параметры слоя будут меняться автоматически.
 
 {% hint style="info" %}
 Подробную информацию о параметрах смотрите в разделе [Параметры слоя](parametry-sloya.md).

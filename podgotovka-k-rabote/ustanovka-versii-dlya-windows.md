@@ -2,6 +2,8 @@
 
 Чтобы установить программу на операционной системе Windows, необходимо перейти на сайт [https://synfig.ru/](https://synfig.ru/) и нажать кнопку **Загрузить**.&#x20;
 
+<a href="https://synfig.ru/stable/" class="button primary" data-icon="arrow-down-to-dotted-line">Скачать Synfig Studio</a>
+
 Далее, убедитесь что на странице загрузки активна опция **Windows (инсталлятор)** и нажмите кнопку **Скачать**.
 
 В открывшемся окне введите свою электронную почту, чтобы скачать программу и подписаться на уведомления о новых версиях. Либо нажмите на нижнюю кнопку, чтобы просто скачать инсталлятор.
@@ -24,10 +26,10 @@
 
 Далее выберите компоненты для установки:
 
-1. **FFmpeg** – этот компонент необходим для экспорта анимации в форматы видео (AVI и MP4).
-2. **Examples** – набор различных примеров, которые показывают возможности программы. Они будут установлены в папку `examples`.
-3. **Start Menu Shortcuts** – добавление ярлыка приложения в меню **Пуск**.
-4. **Desktop Icon** – добавление ярлыка приложения на рабочий стол.
+1. **FFmpeg** — этот компонент необходим для экспорта анимации в форматы видео (AVI и MP4).
+2. **Examples** — набор различных примеров, которые показывают возможности программы. Они будут установлены в папку `examples`.
+3. **Start Menu Shortcuts** — добавление ярлыка приложения в меню **Пуск**.
+4. **Desktop Icon** — добавление ярлыка приложения на рабочий стол.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc_rSynm5_NYeBhzxFZzs7W865lo7Om5pW-g7padbml0IIZUAU4VhFLL_bfD9HfJhmjAZR6--Cflmi9gv-UUtsbzTxf-laPVV6bi-1EPaMSfRxOqiyDasifjyZ7RLOYOo3XoIoQww?key=FoDxXNc_QigqWC4DcTMGjln5" alt=""><figcaption></figcaption></figure>
 

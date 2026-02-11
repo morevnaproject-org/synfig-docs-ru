@@ -83,7 +83,7 @@
 * **Действующий** — см. подробнее [Неактивный ключевой кадр](klyuchevye-kadry.md#neaktivnyi-klyuchevoi-kadr);
 * **Вход** — настройка входа [интерполяции ](fiksatory.md#interpolyaciya)для всех **фиксаторов**, что находятся на **Ключевом кадре**;
 * **Выход** — настройка выхода [интерполяции ](fiksatory.md#interpolyaciya)для всех **фиксаторов**, что находятся на **Ключевом кадре**;
-* **Натяжение** — определяет остроту прохождения кривой через фиксатор на ключевом кадре. Подробнее см. в разделе [Фиксаторы” - “Интерполяция ТСВ](fiksatory.md#interpolyaciya-tsv);
+* **Натяжение** — определяет остроту прохождения кривой через фиксатор на ключевом кадре. Подробнее см. в разделе [Фиксаторы - Интерполяция ТСВ](fiksatory.md#interpolyaciya-tsv);
 * **Отклонение** — определяет, какой из сегментов кривой до и после **Ключевого кадра** будет оказывать большее влияние на расчет касательной. Подробнее см. в разделе [Фиксаторы - Интерполяция ТСВ](fiksatory.md#interpolyaciya-tsv);
 * **Непрерывность** — определяет способ расчета касательной в фиксаторе. Подробнее см. в разделе [Фиксаторы - Интерполяция ТСВ](fiksatory.md#interpolyaciya-tsv);
 * **Временное натяжение** — позволяет управлять скоростью движения объекта. Подробнее см. в разделе [Фиксаторы - Интерполяция ТСВ](fiksatory.md#interpolyaciya-tsv).
@@ -92,4 +92,4 @@
 
 На панели «Ключевые кадры»  хранится список всех ключевых кадров. Здесь вы можете задавать имена для них, а также быстро переходить от одного **Ключевого кадра** к другому. Для этого достаточно щёлкнуть по надписи «**Перейти**»**.**
 
-<figure><img src="https://lh7-us.googleusercontent.com/HlfvKDBUEDPw-LfPDimKYC1uXuylps5xzUs9oj7sYofI1b2Uay-5rQLh01GOjOpiKB2QEFcUvUOryeaHzg0u6kkC7DU8kKhw98WnfLHuLSY4S0pt7AkXHKqq1AUYBqmA68G_VCxnAXXtAB0SoaIAXc0" alt=""><figcaption><p>Взаимодействие с панелью "Ключевые кадры"</p></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/HlfvKDBUEDPw-LfPDimKYC1uXuylps5xzUs9oj7sYofI1b2Uay-5rQLh01GOjOpiKB2QEFcUvUOryeaHzg0u6kkC7DU8kKhw98WnfLHuLSY4S0pt7AkXHKqq1AUYBqmA68G_VCxnAXXtAB0SoaIAXc0" alt=""><figcaption><p>Взаимодействие с панелью «Ключевые кадры»</p></figcaption></figure>
