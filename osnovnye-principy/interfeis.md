@@ -81,7 +81,7 @@
 <img src="../.gitbook/assets/preview_options_icon.png" alt="" data-size="line"> - Открыть диалог параметров предпросмотра
 
 {% hint style="info" %}
-Подробную информацию об этих функциях смотрите в разделе [Экспорт](/broken/pages/OkmxIbZYh6YOGacOngaq).
+Подробную информацию об этих функциях смотрите в разделе "Экспорт".
 {% endhint %}
 
 Следующие шесть кнопок управляют отображением различных типов управляющих точек на рабочей области.&#x20;
@@ -89,7 +89,7 @@
 <img src="../.gitbook/assets/duck_position_icon.png" alt="" data-size="line"><img src="../.gitbook/assets/duck_vertex_icon.png" alt="" data-size="line"><img src="../.gitbook/assets/duck_tangent_icon.png" alt="" data-size="line"><img src="../.gitbook/assets/duck_radius_icon.png" alt="" data-size="line"><img src="../.gitbook/assets/duck_width_icon.png" alt="" data-size="line"><img src="../.gitbook/assets/duck_angle_icon.png" alt="" data-size="line">
 
 {% hint style="info" %}
-Подробную информацию об этих функциях смотрите в разделе [Работа с векторной графикой](/broken/pages/GKlIEWSLkIgu1VcwkVS7).
+Подробную информацию об этих функциях смотрите в разделе "Работа с векторной графикой".
 {% endhint %}
 
 Далее идут две кнопки которые позволяют включать и выключать отображение сетки и прилипание к ней.&#x20;
