@@ -10,9 +10,9 @@
 
 | Имя                                                                                                                                                                                              | Значение | Тип  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---- |
-| [![Type bool icon.png](https://wiki.synfig.org/images/thumb/b/bc/Type_bool_icon.png/16px-Type_bool_icon.png)](https://wiki.synfig.org/File:Type_bool_icon.png) Инвертировать отрицательное число |          | bool |
-| [![Type bool icon.png](https://wiki.synfig.org/images/thumb/b/bc/Type_bool_icon.png/16px-Type_bool_icon.png)](https://wiki.synfig.org/File:Type_bool_icon.png) Потолочный зажим                  |          | bool |
-| [![Type real icon.png](https://wiki.synfig.org/images/thumb/f/fd/Type_real_icon.png/16px-Type_real_icon.png)](https://wiki.synfig.org/File:Type_real_icon.png) Потолок                           | 1.000000 | real |
-| [![Type real icon.png](https://wiki.synfig.org/images/thumb/f/fd/Type_real_icon.png/16px-Type_real_icon.png)](https://wiki.synfig.org/File:Type_real_icon.png) пол                               | 0.000000 | real |
+| [![Type bool icon.png](/assets/images/thumb/b/bc/Type_bool_icon.png/16px-Type_bool_icon.png)](/assets/images/Type_bool_icon.png) Инвертировать отрицательное число |          | bool |
+| [![Type bool icon.png](/assets/images/thumb/b/bc/Type_bool_icon.png/16px-Type_bool_icon.png)](/assets/images/Type_bool_icon.png) Потолочный зажим                  |          | bool |
+| [![Type real icon.png](/assets/images/thumb/f/fd/Type_real_icon.png/16px-Type_real_icon.png)](/assets/images/Type_real_icon.png) Потолок                           | 1.000000 | real |
+| [![Type real icon.png](/assets/images/thumb/f/fd/Type_real_icon.png/16px-Type_real_icon.png)](/assets/images/Type_real_icon.png) пол                               | 0.000000 | real |
 
 <br>
