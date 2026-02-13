@@ -1,47 +1,55 @@
 #!/bin/bash
-# fetch_and_replace.sh — скачивает все картинки из wiki.synfig.org и заменяет ссылки на локальные
 
-# Папка для скачанных изображений
-ASSETS_DIR="./assets/images"
-mkdir -p "$ASSETS_DIR"
+# Папки с Markdown файлами
+dirs=("konvertery" "perechen-sloyov")
 
-# Файл для всех найденных ссылок
-LINKS_FILE="all_synfig_links.txt"
-> "$LINKS_FILE"
+# Папка для локальных картинок
+assets_dir="./assets/images"
 
-# Ищем все ссылки wiki.synfig.org/File: в Markdown
-echo "Собираем все ссылки на wiki.synfig.org/File:..."
-grep -rho 'https://wiki.synfig.org/File:[^)]*' ./**/*.md >> "$LINKS_FILE"
-sort -u "$LINKS_FILE" -o "$LINKS_FILE"
+mkdir -p "$assets_dir"
 
-echo "Найдено $(wc -l < $LINKS_FILE) уникальных ссылок."
+echo "Ищем ссылки на wiki.synfig.org и заменяем их на локальные пути..."
 
-# Скачиваем изображения и создаем соответствие локальный путь ↔ оригинальная ссылка
-while read -r URL; do
-    FILE_NAME=$(basename "$URL")
-    LOCAL_PATH="$ASSETS_DIR/$FILE_NAME"
+for dir in "${dirs[@]}"; do
+    for file in "$dir"/*.md; do
+        # Проверяем, есть ли ссылки
+        if grep -q "wiki.synfig.org" "$file"; then
+            echo "Обрабатываем $file..."
 
-    # Пропускаем, если уже скачано
-    if [ ! -f "$LOCAL_PATH" ]; then
-        echo "Скачиваем $URL → $LOCAL_PATH"
-        wget -q -O "$LOCAL_PATH" "$URL"
-        if [ $? -ne 0 ]; then
-            echo "⚠️ Ошибка скачивания $URL"
-            continue
+            # Извлекаем все ссылки на картинки wiki.synfig.org/File:...
+            links=$(grep -oP 'https://wiki\.synfig\.org/File:[a-zA-Z0-9_\-\.]+' "$file" | sort -u)
+
+            for link in $links; do
+                # Получаем имя файла из ссылки
+                filename=$(basename "$link")
+
+                # Скачиваем картинку, если ее еще нет
+                if [ ! -f "$assets_dir/$filename" ]; then
+                    echo "Скачиваем $link -> $assets_dir/$filename"
+                    wget -q -O "$assets_dir/$filename" "$link"
+                fi
+
+                # Заменяем ссылку на локальный путь
+                sed -i "s#$link#$assets_dir/$filename#g" "$file"
+            done
+
+            # Заменяем thumb ссылки на локальные, если нужно
+            # Пример: /assets/images/64px-Layer_filter_colorcorrect_icon.png
+            thumb_links=$(grep -oP 'https://wiki\.synfig\.org/images/thumb/[a-zA-Z0-9_/.-]+' "$file" | sort -u)
+            for tlink in $thumb_links; do
+                # Преобразуем в имя файла (берем всё после последнего слеша)
+                tfilename=$(basename "$tlink")
+
+                if [ ! -f "$assets_dir/$tfilename" ]; then
+                    echo "Скачиваем $tlink -> $assets_dir/$tfilename"
+                    wget -q -O "$assets_dir/$tfilename" "$tlink"
+                fi
+
+                sed -i "s#$tlink#$assets_dir/$tfilename#g" "$file"
+            done
+
         fi
-    fi
+    done
+done
 
-    # Заменяем ссылки в Markdown на локальные
-    # Учтём варианты с ![...](URL) и [![...](URL)](...)
-    find . -name "*.md" -exec sed -i "s|$URL|$LOCAL_PATH|g" {} +
-done < "$LINKS_FILE"
-
-echo "✅ Все найденные ссылки заменены на локальные пути."
-
-# Финальная проверка: остались ли ссылки на wiki.synfig.org
-REMAINING=$(grep -rho 'wiki.synfig.org/File:' ./**/*.md | wc -l)
-if [ "$REMAINING" -eq 0 ]; then
-    echo "🎉 Все упоминания wiki.synfig.org удалены."
-else
-    echo "⚠️ Осталось $REMAINING ссылок, нужно проверить вручную."
-fi
+echo "Готово! Все ссылки на wiki.synfig.org заменены на локальные, картинки скачаны."

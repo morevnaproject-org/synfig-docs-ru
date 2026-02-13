@@ -8,8 +8,8 @@
 
 | Имя                                                                                                                                                                                 | Значение | Тип   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----- |
-| ![Type angle icon.png](/assets/images/16px-Type_angle_icon.png) Коррекция тона   | 0.00°    | angle |
-| ![Type real icon.png](/assets/images/16px-Type_real_icon.png) Яркость              | 0.000000 | real  |
-| ![Type real icon.png](/assets/images/16px-Type_real_icon.png) Констраст            | 1.000000 | real  |
-| ![Type real icon.png](/assets/images/16px-Type_real_icon.png) Коррекция экспозиции | 0.000000 | real  |
-| ![Type real icon.png](/assets/images/16px-Type_real_icon.png) Коррекция гаммы      | 1.000000 | real  |
+| ![Type angle icon.png](../.gitbook/assets/images/16px-Type_angle_icon.png) Коррекция тона   | 0.00°    | angle |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type_real_icon.png) Яркость              | 0.000000 | real  |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type_real_icon.png) Констраст            | 1.000000 | real  |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type_real_icon.png) Коррекция экспозиции | 0.000000 | real  |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type_real_icon.png) Коррекция гаммы      | 1.000000 | real  |

@@ -10,9 +10,9 @@
 
 | Имя                                                                                                                                                                                              | Значение | Тип  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---- |
-| ![Type bool icon.png](../assets/images/16px-Type_bool_icon.png) Инвертировать отрицательное число |          | bool |
-| ![Type bool icon.png](../assets/images/16px-Type_bool_icon.png) Потолочный зажим                  |          | bool |
-| ![Type real icon.png](/assets/images/16px-Type_real_icon.png) Потолок                           | 1.000000 | real |
-| ![Type real icon.png](/assets/images/16px-Type_real_icon.png) пол                               | 0.000000 | real |
+| ![Type bool icon.png](../.gitbook/assets/images/16px-Type_bool_icon.png) Инвертировать отрицательное число |          | bool |
+| ![Type bool icon.png](../.gitbook/assets/images/16px-Type_bool_icon.png) Потолочный зажим                  |          | bool |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type_real_icon.png) Потолок                           | 1.000000 | real |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type_real_icon.png) пол                               | 0.000000 | real |
 
 <br>

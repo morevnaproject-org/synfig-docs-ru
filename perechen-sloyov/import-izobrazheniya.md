@@ -10,15 +10,15 @@
 
 | Имя                                                                                                                                                                                         | Значение               | Тип     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------- |
-| ![Type real icon.png](/assets/images/16px-Type_real_icon.png) Глубина Z                    | 0.000000               | real    |
-| ![Type real icon.png](/assets/images/16px-Type_real_icon.png) Непрозрачность               | 1.000000               | real    |
-| ![Type integer icon.png](/assets/images/16px-Type_integer_icon.png) Метод смешивания | Composite              | integer |
-| ![Type vector icon.png](/assets/images/16px-Type_vector_icon.png)Левый верхний угол    | -0.500000pt,0.500000pt | vector  |
-| ![Type vector icon.png](/assets/images/16px-Type_vector_icon.png)Правый нижний угол    | 0.500000pt,-0.500000pt | vector  |
-| ![Type integer icon.png](/assets/images/16px-Type_integer_icon.png) Интерполяция     | Linear(Static)         | integer |
-| ![Type real icon.png](/assets/images/16px-Type_real_icon.png)Камма коррекция               | 1.000000               | real    |
-| ![Type string icon.png](/assets/images/16px-Type_string_icon.png) Имя файла            |                        | string  |
-| ![Type time icon.png](/assets/images/16px-Type_time_icon.png)Смещение во времени           | 0f                     | time    |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type_real_icon.png) Глубина Z                    | 0.000000               | real    |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type_real_icon.png) Непрозрачность               | 1.000000               | real    |
+| ![Type integer icon.png](../.gitbook/assets/images/16px-Type_integer_icon.png) Метод смешивания | Composite              | integer |
+| ![Type vector icon.png](../.gitbook/assets/images/16px-Type_vector_icon.png)Левый верхний угол    | -0.500000pt,0.500000pt | vector  |
+| ![Type vector icon.png](../.gitbook/assets/images/16px-Type_vector_icon.png)Правый нижний угол    | 0.500000pt,-0.500000pt | vector  |
+| ![Type integer icon.png](../.gitbook/assets/images/16px-Type_integer_icon.png) Интерполяция     | Linear(Static)         | integer |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type_real_icon.png)Камма коррекция               | 1.000000               | real    |
+| ![Type string icon.png](../.gitbook/assets/images/16px-Type_string_icon.png) Имя файла            |                        | string  |
+| ![Type time icon.png](../.gitbook/assets/images/16px-Type_time_icon.png)Смещение во времени           | 0f                     | time    |
 
 **Параметр** «**Смещение во времени**»
 

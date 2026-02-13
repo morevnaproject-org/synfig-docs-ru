@@ -12,7 +12,7 @@ for dir in "${dirs[@]}"; do
             echo "Обрабатываем $file..."
 
             # Заменяем ссылки на wiki.synfig.org/File:... на локальный путь /assets/images/...
-            # Пример: https://wiki.synfig.org/File:Layer_filter_colorcorrect_icon.png -> /assets/images/Layer_filter_colorcorrect_icon.png
+            # Пример: /assets/images/Layer_filter_colorcorrect_icon.png -> /assets/images/Layer_filter_colorcorrect_icon.png
             sed -i -E 's#https://wiki\.synfig\.org/File:([a-zA-Z0-9_\-\.]+)#/assets/images/\1#g' "$file"
 
             # Можно добавить аналогично для thumb ссылок, если нужно
