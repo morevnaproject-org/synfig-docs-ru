@@ -12,23 +12,23 @@
 
 | Имя                                                                                                                                                                                                 | Значение             | Тип           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------- |
-| ![Type real icon.png](/assets/images/16px-Type\_real\_icon.png) Глубина Z                      | 0.000000             | real          |
-| ![Type real icon.png](/assets/images/16px-Type\_real\_icon.png) Непрозрачность                 | 1.000000             | real          |
-| ![Type integer icon.png](/assets/images/16px-Type\_integer\_icon.png) Метод смешивания   | Composite            | integer       |
-| ![Type list icon.png](/assets/images/16px-Type\_list\_icon.png) Вершины                        | List                 | list (Spline) |
-| ![Type vector icon.png](/assets/images/16px-Type\_vector\_icon.png) Центр                  | 0.000000u,0.000000u  | vector        |
-| ![Type gradient icon.png](/assets/images/16px-Type\_gradient\_icon.png) Градиент       |                      | gradient      |
-| ![Type angle icon.png](/assets/images/16px-Type\_angle\_icon.png) Угол Разделения            | 10.00                | angle         |
-| ![Type vector icon.png](/assets/images/16px-Type\_vector\_icon.png) Сила тяжести           | 0.000000u,-0.100000u | vector        |
-| ![Type real icon.png](/assets/images/16px-Type\_real\_icon.png) Скорость по касательной        | 0.300000             | real          |
-| ![Type real icon.png](/assets/images/16px-Type\_real\_icon.png) Скорость по пендикуляру        | 0.000000             | real          |
-| ![Type real icon.png](/assets/images/16px-Type\_real\_icon.png) Толщина                        | 0.015000u            | real          |
-| ![Type bool icon.png](/assets/images/16px-Type\_bool\_icon.png) Толщина и Альфа                |                      | bool          |
-| ![Type bool icon.png](/assets/images/16px-Type\_bool\_icon.png) Развернуть                     |                      | bool          |
-| ![Type real icon.png](/assets/images/16px-Type\_real\_icon.png) Шаг                            | 0.010000             | real          |
-| ![Type integer icon.png](/assets/images/16px-Type\_integer\_icon.png) Начальное значение | 1299911698           | integer       |
-| ![Type integer icon.png](/assets/images/16px-Type\_integer\_icon.png) Количество делений | 5                    | integer       |
-| ![Type integer icon.png](/assets/images/16px-Type\_integer\_icon.png) Количесво побегов  | 10                   | integer       |
-| ![Type real icon.png](/assets/images/16px-Type\_real\_icon.png) Фактор случайности             | 0.200000             | real          |
-| ![Type real icon.png](/assets/images/16px-Type\_real\_icon.png) Перетаскивание                 | 0.100000             | real          |
-| ![Type bool icon.png](/assets/images/16px-Type\_bool\_icon.png) Использование ширены           |                      | bool          |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type\_real\_icon.png) Глубина Z                      | 0.000000             | real          |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type\_real\_icon.png) Непрозрачность                 | 1.000000             | real          |
+| ![Type integer icon.png](../.gitbook/assets/images/16px-Type\_integer\_icon.png) Метод смешивания   | Composite            | integer       |
+| ![Type list icon.png](../.gitbook/assets/images/16px-Type\_list\_icon.png) Вершины                        | List                 | list (Spline) |
+| ![Type vector icon.png](../.gitbook/assets/images/16px-Type\_vector\_icon.png) Центр                  | 0.000000u,0.000000u  | vector        |
+| ![Type gradient icon.png](../.gitbook/assets/images/16px-Type\_gradient\_icon.png) Градиент       |                      | gradient      |
+| ![Type angle icon.png](../.gitbook/assets/images/16px-Type\_angle\_icon.png) Угол Разделения            | 10.00                | angle         |
+| ![Type vector icon.png](../.gitbook/assets/images/16px-Type\_vector\_icon.png) Сила тяжести           | 0.000000u,-0.100000u | vector        |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type\_real\_icon.png) Скорость по касательной        | 0.300000             | real          |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type\_real\_icon.png) Скорость по пендикуляру        | 0.000000             | real          |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type\_real\_icon.png) Толщина                        | 0.015000u            | real          |
+| ![Type bool icon.png](../.gitbook/assets/images/16px-Type\_bool\_icon.png) Толщина и Альфа                |                      | bool          |
+| ![Type bool icon.png](../.gitbook/assets/images/16px-Type\_bool\_icon.png) Развернуть                     |                      | bool          |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type\_real\_icon.png) Шаг                            | 0.010000             | real          |
+| ![Type integer icon.png](../.gitbook/assets/images/16px-Type\_integer\_icon.png) Начальное значение | 1299911698           | integer       |
+| ![Type integer icon.png](../.gitbook/assets/images/16px-Type\_integer\_icon.png) Количество делений | 5                    | integer       |
+| ![Type integer icon.png](../.gitbook/assets/images/16px-Type\_integer\_icon.png) Количесво побегов  | 10                   | integer       |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type\_real\_icon.png) Фактор случайности             | 0.200000             | real          |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type\_real\_icon.png) Перетаскивание                 | 0.100000             | real          |
+| ![Type bool icon.png](../.gitbook/assets/images/16px-Type\_bool\_icon.png) Использование ширены           |                      | bool          |

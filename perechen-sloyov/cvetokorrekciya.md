@@ -1,6 +1,6 @@
 # Цветокоррекция
 
-![Layer filter colorcorrect icon.png](/assets/images/64px-Layer_filter_colorcorrect_icon.png)
+![Layer filter colorcorrect icon.png](../.gitbook/assets/images/64px-Layer_filter_colorcorrect_icon.png)
 
 **Слой цветокоррекции** — позволяет редактировать яркость, контраст, коррекцию экспозиции и коррекцию гаммы.
 
