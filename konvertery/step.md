@@ -1,6 +1,6 @@
 # Step
 
-Преобразовани"Random" можно использовать на параметры : [углы](https://wiki.synfig.org/Convert#Angle), [Цвет](https://wiki.synfig.org/Convert#Color), [целые числа](https://wiki.synfig.org/Convert#Integer), [действительные значения](https://wiki.synfig.org/Convert#Real), [времена](https://wiki.synfig.org/Convert#Time) и [векторы](https://wiki.synfig.org/Convert#Vector).
+Преобразовани"Random" можно использовать на параметры : [углы](/docs/Convert#Angle), [Цвет](/docs/Convert#Color), [целые числа](/docs/Convert#Integer), [действительные значения](/docs/Convert#Real), [времена](/docs/Convert#Time) и [векторы](/docs/Convert#Vector).
 
 **Преобразование параметра  “Центр” конвертер "Linear" добавляет следующие подпараметры:**
 

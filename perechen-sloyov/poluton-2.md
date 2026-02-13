@@ -12,12 +12,12 @@
 
 | Имя                                                                                                                                                                                         | Значение              | Тип     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------- |
-| [![Type real icon.png](/assets/images/thumb/f/fd/Type_real_icon.png/16px-Type_real_icon.png)](/assets/images/Type_real_icon.png) Глубина Z                    | 0.000000              | real    |
-| [![Type real icon.png](/assets/images/thumb/f/fd/Type_real_icon.png/16px-Type_real_icon.png)](/assets/images/Type_real_icon.png) Непрозрачность               | 1.000000              | real    |
-| [![Type integer icon.png](/assets/images/thumb/c/ce/Type_integer_icon.png/16px-Type_integer_icon.png)](/assets/images/Type_integer_icon.png) Метод смешивания | Composite             | integer |
-| [![Type vector icon.png](/assets/images/thumb/b/bd/Type_vector_icon.png/16px-Type_vector_icon.png)](/assets/images/Type_vector_icon.png) начало маски         | 0.000000pt,0.000000pt | vector  |
-| [![Type angle icon.png](/assets/images/thumb/e/eb/Type_angle_icon.png/16px-Type_angle_icon.png)](/assets/images/Type_angle_icon.png) Угол маски               | 0.00°                 | angle   |
-| [![Type vector icon.png](/assets/images/thumb/b/bd/Type_vector_icon.png/16px-Type_vector_icon.png)](/assets/images/Type_vector_icon.png) Размер маски         | 59.99999pt,59.99999pt | vector  |
-| [![Type color icon.png](/assets/images/thumb/4/46/Type_color_icon.png/16px-Type_color_icon.png)](/assets/images/Type_color_icon.png) Цвет света               | hut1DfYwY3no          | color   |
-| [![Type color icon.png](/assets/images/thumb/4/46/Type_color_icon.png/16px-Type_color_icon.png)](/assets/images/Type_color_icon.png) Цвет тени                | GmpS55QTyIfs          | color   |
-| [![Type integer icon.png](/assets/images/thumb/c/ce/Type_integer_icon.png/16px-Type_integer_icon.png)](/assets/images/Type_integer_icon.png) тип              | Symmetric             | integer |
+| ![Type real icon.png](/assets/images/16px-Type_real_icon.png) Глубина Z                    | 0.000000              | real    |
+| ![Type real icon.png](/assets/images/16px-Type_real_icon.png) Непрозрачность               | 1.000000              | real    |
+| ![Type integer icon.png](/assets/images/16px-Type_integer_icon.png) Метод смешивания | Composite             | integer |
+| ![Type vector icon.png](/assets/images/16px-Type_vector_icon.png) начало маски         | 0.000000pt,0.000000pt | vector  |
+| ![Type angle icon.png](/assets/images/16px-Type_angle_icon.png) Угол маски               | 0.00°                 | angle   |
+| ![Type vector icon.png](/assets/images/16px-Type_vector_icon.png) Размер маски         | 59.99999pt,59.99999pt | vector  |
+| ![Type color icon.png](/assets/images/16px-Type_color_icon.png) Цвет света               | hut1DfYwY3no          | color   |
+| ![Type color icon.png](/assets/images/16px-Type_color_icon.png) Цвет тени                | GmpS55QTyIfs          | color   |
+| ![Type integer icon.png](/assets/images/16px-Type_integer_icon.png) тип              | Symmetric             | integer |
