@@ -1,6 +1,6 @@
 # Vector X
 
-**Преобразование** [**реальный**](https://wiki.synfig.org/Convert#Real) **Для "Vector X" добавляет подпараметр vector:**
+**Преобразование** [**реальный**](/docs/Convert#Real) **Для "Vector X" добавляет подпараметр vector:**
 
 * вектор "Vector"
 

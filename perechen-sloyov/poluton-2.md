@@ -12,12 +12,12 @@
 
 | Имя                                                                                                                                                                                         | Значение              | Тип     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------- |
-| [![Type real icon.png](https://wiki.synfig.org/images/thumb/f/fd/Type_real_icon.png/16px-Type_real_icon.png)](https://wiki.synfig.org/File:Type_real_icon.png) Глубина Z                    | 0.000000              | real    |
-| [![Type real icon.png](https://wiki.synfig.org/images/thumb/f/fd/Type_real_icon.png/16px-Type_real_icon.png)](https://wiki.synfig.org/File:Type_real_icon.png) Непрозрачность               | 1.000000              | real    |
-| [![Type integer icon.png](https://wiki.synfig.org/images/thumb/c/ce/Type_integer_icon.png/16px-Type_integer_icon.png)](https://wiki.synfig.org/File:Type_integer_icon.png) Метод смешивания | Composite             | integer |
-| [![Type vector icon.png](https://wiki.synfig.org/images/thumb/b/bd/Type_vector_icon.png/16px-Type_vector_icon.png)](https://wiki.synfig.org/File:Type_vector_icon.png) начало маски         | 0.000000pt,0.000000pt | vector  |
-| [![Type angle icon.png](https://wiki.synfig.org/images/thumb/e/eb/Type_angle_icon.png/16px-Type_angle_icon.png)](https://wiki.synfig.org/File:Type_angle_icon.png) Угол маски               | 0.00°                 | angle   |
-| [![Type vector icon.png](https://wiki.synfig.org/images/thumb/b/bd/Type_vector_icon.png/16px-Type_vector_icon.png)](https://wiki.synfig.org/File:Type_vector_icon.png) Размер маски         | 59.99999pt,59.99999pt | vector  |
-| [![Type color icon.png](https://wiki.synfig.org/images/thumb/4/46/Type_color_icon.png/16px-Type_color_icon.png)](https://wiki.synfig.org/File:Type_color_icon.png) Цвет света               | hut1DfYwY3no          | color   |
-| [![Type color icon.png](https://wiki.synfig.org/images/thumb/4/46/Type_color_icon.png/16px-Type_color_icon.png)](https://wiki.synfig.org/File:Type_color_icon.png) Цвет тени                | GmpS55QTyIfs          | color   |
-| [![Type integer icon.png](https://wiki.synfig.org/images/thumb/c/ce/Type_integer_icon.png/16px-Type_integer_icon.png)](https://wiki.synfig.org/File:Type_integer_icon.png) тип              | Symmetric             | integer |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type_real_icon.png) Глубина Z                    | 0.000000              | real    |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type_real_icon.png) Непрозрачность               | 1.000000              | real    |
+| ![Type integer icon.png](../.gitbook/assets/images/16px-Type_integer_icon.png) Метод смешивания | Composite             | integer |
+| ![Type vector icon.png](../.gitbook/assets/images/16px-Type_vector_icon.png) начало маски         | 0.000000pt,0.000000pt | vector  |
+| ![Type angle icon.png](../.gitbook/assets/images/16px-Type_angle_icon.png) Угол маски               | 0.00°                 | angle   |
+| ![Type vector icon.png](../.gitbook/assets/images/16px-Type_vector_icon.png) Размер маски         | 59.99999pt,59.99999pt | vector  |
+| ![Type color icon.png](../.gitbook/assets/images/16px-Type_color_icon.png) Цвет света               | hut1DfYwY3no          | color   |
+| ![Type color icon.png](../.gitbook/assets/images/16px-Type_color_icon.png) Цвет тени                | GmpS55QTyIfs          | color   |
+| ![Type integer icon.png](../.gitbook/assets/images/16px-Type_integer_icon.png) тип              | Symmetric             | integer |

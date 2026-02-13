@@ -16,7 +16,7 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/8Ixi9uJuJYW-VEyQy38MnN7zremZ3lkEN4Y6Ry9yheeggZPQxb5UueIiKXI9g6oA6K_xs0Rf8FtUQud_JRXsiUhZZKWWpTgmWD6gg78d6YWtVMxjKoW1uvtYdHW103ENY4mu2aj0v-lLKnyY6BYyDKE" alt=""><figcaption></figcaption></figure>
 
-"Random" можно использовать на параметры : [углы](https://wiki.synfig.org/Convert#Angle), [Цвет](https://wiki.synfig.org/Convert#Color), [целые числа](https://wiki.synfig.org/Convert#Integer), [действительные значения](https://wiki.synfig.org/Convert#Real), [времена](https://wiki.synfig.org/Convert#Time) и [векторы](https://wiki.synfig.org/Convert#Vector).
+"Random" можно использовать на параметры : [углы](/docs/Convert#Angle), [Цвет](/docs/Convert#Color), [целые числа](/docs/Convert#Integer), [действительные значения](/docs/Convert#Real), [времена](/docs/Convert#Time) и [векторы](/docs/Convert#Vector).
 
 **Преобразование параметра  “Центр” конвертер "Linear" добавляет следующие подпараметры:**
 

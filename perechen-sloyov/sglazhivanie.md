@@ -36,9 +36,9 @@
 
 Здесь показано увеличенное изображение контура с отключенным сглаживанием и без слоя **суперсэмплов**:
 
-[![Изображение: Суперсэмпловый слой-отсутствует.png](https://wiki.synfig.org/images/f/f8/Supersample-none.png)](https://wiki.synfig.org/File:Supersample-none.png)
+![Изображение: Суперсэмпловый слой-отсутствует.png](../.gitbook/assets/images/Supersample-none.png)
 
-Флажок «Использовать параметрический» позволяет использовать [Параметрический рендеринг](https://wiki.synfig.org/index.php?title=Parametric_renderer\&action=edit\&redlink=1) вместо стандартного [Ускоренный рендеринг](https://wiki.synfig.org/index.php?title=Accelerated_renderer\&action=edit\&redlink=1).
+Флажок «Использовать параметрический» позволяет использовать [Параметрический рендеринг](/docs/index.php?title=Parametric_renderer\&action=edit\&redlink=1) вместо стандартного [Ускоренный рендеринг](/docs/index.php?title=Accelerated_renderer\&action=edit\&redlink=1).
 
 Параметр **«Не затрагивать прозрачность»** определяет, учитывается ли альфа-канал при процессе усреднения пикселей.
 
@@ -84,11 +84,11 @@ R: 0.5, G: 0, B: 0.5, A: 0.5
 
 Это тот же контур, что и раньше, но поверх него нанесен слой **супер-сэмплов**. На этот раз включена функция «Не затрагивать прозрачность»:
 
-[![Изображение: Supersample-safe.png](https://wiki.synfig.org/images/0/06/Supersample-safe.png)](https://wiki.synfig.org/File:Supersample-safe.png)
+![Изображение: Supersample-safe.png](../.gitbook/assets/images/Supersample-safe.png)
 
 И на этом слое нет надписи «Be Alpha Safe». Фон ярко-синий, но с очень низкой альфа-частотой. Края намного синее, чем они были бы, если бы учитывалась альфа:
 
-[![Изображение: Суперсэмпловый слой-unsafe.png](https://wiki.synfig.org/images/5/50/Supersample-unsafe.png)](https://wiki.synfig.org/File:Supersample-unsafe.png)
+![Изображение: Суперсэмпловый слой-unsafe.png](../.gitbook/assets/images/Supersample-unsafe.png)
 
 Стоит отметить, что слой **супер-сэмплов** отключается, когда параметр «**Качество**» равен `10` или выше. Во время редактирования качество равно `10`.
 

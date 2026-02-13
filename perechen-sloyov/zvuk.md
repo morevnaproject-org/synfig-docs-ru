@@ -23,10 +23,10 @@
 
 | Имя                                                                                                                                                                              | Значение        | Тип    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------ |
-| [![Type real icon.png](https://wiki.synfig.org/images/thumb/f/fd/Type_real_icon.png/16px-Type_real_icon.png)](https://wiki.synfig.org/File:Type_real_icon.png) Глубина Z         | 0.000000u       | real   |
-| [![Type string icon.png](https://wiki.synfig.org/images/thumb/6/63/Type_string_icon.png/16px-Type_string_icon.png)](https://wiki.synfig.org/File:Type_string_icon.png) Имя файла | sound file path | string |
-| [![Type time icon.png](https://wiki.synfig.org/images/thumb/8/8a/Type_time_icon.png/16px-Type_time_icon.png)](https://wiki.synfig.org/File:Type_time_icon.png) Задержка          | 0.000000u       | time   |
-| [![Type real icon.png](https://wiki.synfig.org/images/thumb/f/fd/Type_real_icon.png/16px-Type_real_icon.png)](https://wiki.synfig.org/File:Type_real_icon.png) Громкость         | 1.000000        | real   |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type_real_icon.png) Глубина Z         | 0.000000u       | real   |
+| ![Type string icon.png](../.gitbook/assets/images/16px-Type_string_icon.png) Имя файла | sound file path | string |
+| ![Type time icon.png](../.gitbook/assets/images/16px-Type_time_icon.png) Задержка          | 0.000000u       | time   |
+| ![Type real icon.png](../.gitbook/assets/images/16px-Type_real_icon.png) Громкость         | 1.000000        | real   |
 
 Вы можете регулировать громкость с помощью параметра «**Громкость**»
 
