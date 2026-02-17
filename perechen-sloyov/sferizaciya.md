@@ -11,7 +11,7 @@
 
 | Параметры                                                                | Результат                                                                         |
 | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| Слой «Сферизация» выключен                                               | <p></p><p><img src="../.gitbook/assets/glaz.gif" alt="" data-size="original"></p> |
+| Слой «**Сферизация**» выключен                                           | <p></p><p><img src="../.gitbook/assets/glaz.gif" alt="" data-size="original"></p> |
 | <img src="../.gitbook/assets/sph.png" alt="" data-size="original">       | <img src="../.gitbook/assets/glaz2.gif" alt="" data-size="original">              |
 | <img src="../.gitbook/assets/spherever.png" alt="" data-size="original"> | <img src="../.gitbook/assets/glaz3.gif" alt="" data-size="original">              |
 | <img src="../.gitbook/assets/spherehor.png" alt="" data-size="original"> | <img src="../.gitbook/assets/glaz4.gif" alt="" data-size="original">              |

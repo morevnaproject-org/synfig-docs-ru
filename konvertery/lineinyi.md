@@ -2,7 +2,7 @@
 
 Преобразование в параметре «**Глубина**» добавляет два подпараметра:
 
-* **`Имя файла`**
+* `Имя файла`
 
 ![](https://lh7-us.googleusercontent.com/WQuBdQgCjPkb195QoC8hmdsfufNNgb0Rlb1RY9Wj4mqEwrj2ClHFsZl0c08VkBkQLpEOk_CFpmctxFQzfD6FGzDbnKtz8zf42P9P0bsLiZJVx2AII5Uy3K0no8xL4Rn1HSO6EpXFYmqr7ZhxEoCfg1w)
 

@@ -34,7 +34,7 @@
 
 * **Быстрое Гауссово размытие:** Обеспечивает баланс между качеством и скоростью.
 
-<figure><img src="../.gitbook/assets/fastgaus.gif" alt=""><figcaption><p><strong>Быстрое Гауссово размытие:</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/fastgaus.gif" alt=""><figcaption><p><strong>Быстрое Гауссово размытие</strong></p></figcaption></figure>
 
 * **Перекрестное размытие:** Создает размытие в виде пересекающихся линий.
 

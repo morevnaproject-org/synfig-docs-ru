@@ -27,13 +27,3 @@
 | <img src="https://lh7-us.googleusercontent.com/QfBXcizVrsX9auonFAfCQJslcANj2IpEizANGsSSMr15VJnjHuEh3xM9Gp3Ge9YJXhx5aJ3EnUu1xPoGSiQLn8AP7bCeuiT9JzKBnuNWkGT2p_p-hbYXHAT3xOczfwtSfvyvwai_L1XyRxarbGTp2wg" alt="Type_bool_icon.png" data-size="line">С альфа-каналом       |                                                                                                                                                                                                                  | bool        |
 | <img src="https://lh7-us.googleusercontent.com/QfBXcizVrsX9auonFAfCQJslcANj2IpEizANGsSSMr15VJnjHuEh3xM9Gp3Ge9YJXhx5aJ3EnUu1xPoGSiQLn8AP7bCeuiT9JzKBnuNWkGT2p_p-hbYXHAT3xOczfwtSfvyvwai_L1XyRxarbGTp2wg" alt="Type_bool_icon.png" data-size="line">Супер сглаживание     |                                                                                                                                                                                                                  | bool        |
 
-
-
-градиент Начальное значение 1299736373 целое число Размер 60.000000px, 60.000000px целое число Интерполяция Косинус целое число Детализация 4 целое число Скорость анимации 0.000000 реальный Турбулентность
-
-bool С альфа-каналом
-
-bool Супер сглаживание
-
-bool
-
