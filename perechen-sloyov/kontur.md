@@ -8,11 +8,11 @@
 
 Существует несколько способов создать **«Контур»**:
 
-* С помощью [инструментов создания объектов](../osnovnye-principy/instrumenty.md#instrumenty-sozdaniya-obektov), выбрав на панели параметров выбранного инструмента иконку с изображением контура.
+* С помощью [инструментов создания объектов](/broken/pages/QRolnCJX1Ao1IyMpLKmx#instrumenty-sozdaniya-obektov), выбрав на панели параметров выбранного инструмента иконку с изображением контура.
 
 <figure><img src="../.gitbook/assets/2024-05-17_17-19.png" alt=""><figcaption></figcaption></figure>
 
-* С помощью инструмента [«Кривые»](../osnovnye-principy/instrumenty.md#instrument-krivye).&#x20;
+* С помощью инструмента [«Кривые»](/broken/pages/QRolnCJX1Ao1IyMpLKmx#instrument-krivye).&#x20;
 
 {% hint style="info" %}
 При одновременном создании контура и области их вершины будут взаимосвязаны, приводя к синхронному перемещению при изменении положения вершин одного из слоев.

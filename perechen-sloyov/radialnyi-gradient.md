@@ -6,7 +6,7 @@
 
 Существует несколько способов создать «Радиальный градиент»:
 
-* С помощью [инструмента создания градиентов](../osnovnye-principy/instrumenty.md#instrument-gradient), выбрав на панели настройки инструмента «Радиальный градиент».
+* С помощью [инструмента создания градиентов](/broken/pages/QRolnCJX1Ao1IyMpLKmx#instrument-gradient), выбрав на панели настройки инструмента «Радиальный градиент».
 
 <figure><img src="../.gitbook/assets/2024-05-20_13-25.png" alt=""><figcaption></figcaption></figure>
 

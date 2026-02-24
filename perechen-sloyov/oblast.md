@@ -6,11 +6,11 @@
 
 Существует несколько способов создать **«Область»**:
 
-* С помощью [инструментов создания объектов](../osnovnye-principy/instrumenty.md#instrumenty-sozdaniya-obektov), выбрав на панели параметров выбранного инструмента иконку с изображением области.
+* С помощью [инструментов создания объектов](/broken/pages/QRolnCJX1Ao1IyMpLKmx#instrumenty-sozdaniya-obektov), выбрав на панели параметров выбранного инструмента иконку с изображением области.
 
 <figure><img src="../.gitbook/assets/2024-05-17_16-24.png" alt=""><figcaption></figcaption></figure>
 
-* С помощью инструмента [«Кривые»](../osnovnye-principy/instrumenty.md#instrument-krivye). При одновременном создании области и контура их вершины будут взаимосвязаны, приводя к синхронному перемещению при изменении положения вершин одного из слоев.
+* С помощью инструмента [«Кривые»](/broken/pages/QRolnCJX1Ao1IyMpLKmx#instrument-krivye). При одновременном создании области и контура их вершины будут взаимосвязаны, приводя к синхронному перемещению при изменении положения вершин одного из слоев.
 
 <figure><img src="../.gitbook/assets/region.gif" alt=""><figcaption></figcaption></figure>
 

@@ -22,7 +22,6 @@
 * [Режим анимации](osnovnye-principy/rezhim-animacii.md)
 * [Фиксаторы](osnovnye-principy/fiksatory.md)
 * [Ключевые кадры](osnovnye-principy/klyuchevye-kadry.md)
-* [Инструменты](osnovnye-principy/instrumenty.md)
 
 ## Работа с растровыми изображениями
 
@@ -31,11 +30,31 @@
 * [Импорт секвенций кадров](rabota-s-rastrovymi-izobrazheniyami/import-sekvencii-kadrov.md)
 * [Инструмент Ножницы](rabota-s-rastrovymi-izobrazheniyami/instrument-nozhnicy.md)
 
+## Инструменты
+
+* [Перечень инструментов](instrumenty/perechen-instrumentov.md)
+* [Трансформация](instrumenty/transformaciya.md)
+* [Деформация](instrumenty/deformaciya.md)
+* [Масштабирование](instrumenty/masshtabirovanie.md)
+* [Вращение](instrumenty/vrashenie.md)
+* [Отражение](instrumenty/otrazhenie.md)
+* [Вырезание](instrumenty/vyrezanie.md)
+* [Коррекция толщины](instrumenty/korrekciya-tolshiny.md)
+* [Окружность, прямоугольник, звезда, многоугольник](instrumenty/okruzhnost-pryamougolnik-zvezda-mnogougolnik.md)
+* [Текст](instrumenty/tekst.md)
+* [Кривые](instrumenty/krivye.md)
+* [Рисование](instrumenty/risovanie.md)
+* [Градиент](instrumenty/gradient.md)
+* [Сплошная заливка](instrumenty/sploshnaya-zalivka.md)
+* [Пипетка](instrumenty/pipetka.md)
+
 ## Работа с векторной графикой
 
-* [Создание фигур](rabota-s-vektornoi-grafikoi/sozdanie-figur.md)
+* [Создание простых фигур](rabota-s-vektornoi-grafikoi/sozdanie-prostykh-figur.md)
+* [Создание произвольных фигур](rabota-s-vektornoi-grafikoi/sozdanie-proizvolnykh-figur.md)
+* [Управление толщиной контура](rabota-s-vektornoi-grafikoi/upravlenie-tolshinoi-kontura.md)
 * [Импорт SVG](rabota-s-vektornoi-grafikoi/vektorizaciya-izobrazhenii.md)
-* [Векторизация изображения](rabota-s-vektornoi-grafikoi/import-svg.md)
+* [Автоматическая векторизация изображения](rabota-s-vektornoi-grafikoi/import-svg.md)
 
 ## Экспорт
 
@@ -44,10 +63,7 @@
 * [Экспорт изображений](eksport/eksport-izobrazhenii.md)
 * [Экспорт Gif-анимации](eksport/eksport-gif-animacii.md)
 * [Экспорт web-анимации (Lottie)](eksport/eksport-web-animacii-lottie.md)
-
-***
-
-* [Экспорт через командную строку](eksport-cherez-komandnuyu-stroku.md)
+* [Экспорт через командную строку](eksport/eksport-cherez-komandnuyu-stroku.md)
 
 ## Перечень слоёв
 
@@ -69,7 +85,7 @@
 * [Жюлиа](perechen-sloyov/zhyulia.md)
 * [Мандельброт](perechen-sloyov/mandelbrot.md)
 * [Сплошная заливка](perechen-sloyov/sploshnaya-zalivka.md)
-* [Расширенный контур](perechen-sloyov/rasshirennyi-kontur.md)
+* [Супер-контур](perechen-sloyov/rasshirennyi-kontur.md)
 * [Шахматная доска](perechen-sloyov/shakhmatnaya-doska.md)
 * [Окружность](perechen-sloyov/okruzhnost.md)
 * [Контур](perechen-sloyov/kontur.md)
@@ -119,6 +135,7 @@
 * [Связывание параметров](svyazyvanie-dannykh/svyazyvanie-parametrov.md)
 * [Вложенные холсты](svyazyvanie-dannykh/vlozhennye-kholsty.md)
 * [Связывание файлов](svyazyvanie-dannykh/svyazyvanie-failov.md)
+* [Связывание контура и заливки](svyazyvanie-dannykh/svyazyvanie-kontura-i-zalivki.md)
 
 ## Конвертеры
 

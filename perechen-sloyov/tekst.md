@@ -6,7 +6,7 @@
 
 Существует несколько способов создать «**Текст**»:
 
-* С помощью [инструмента создания Текста](../osnovnye-principy/instrumenty.md#tekst).
+* С помощью [инструмента создания Текста](/broken/pages/QRolnCJX1Ao1IyMpLKmx#tekst).
 
 <figure><img src="../.gitbook/assets/2024-05-27_15-18.png" alt=""><figcaption></figcaption></figure>
 

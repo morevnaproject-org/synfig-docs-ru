@@ -18,7 +18,7 @@
 
 ### Пошаговая инструкция
 
-Создаем произвольный объект. Для наглядности создадим стрелку с помощью инструмента [«кривые»](../osnovnye-principy/instrumenty.md#instrument-krivye), так мы будем видеть направление движения.
+Создаем произвольный объект. Для наглядности создадим стрелку с помощью инструмента [«кривые»](/broken/pages/QRolnCJX1Ao1IyMpLKmx#instrument-krivye), так мы будем видеть направление движения.
 
 <figure><img src="../.gitbook/assets/create.gif" alt=""><figcaption><p>Создание объекта</p></figcaption></figure>
 

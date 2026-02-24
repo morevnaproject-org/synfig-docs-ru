@@ -8,7 +8,7 @@
 
 Существует несколько способов создать «Звезда»:
 
-* С помощью [инструментов создания объектов](../osnovnye-principy/instrumenty.md#instrumenty-sozdaniya-obektov)
+* С помощью [инструментов создания объектов](/broken/pages/QRolnCJX1Ao1IyMpLKmx#instrumenty-sozdaniya-obektov)
 * На панели слоёв нажмите кнопку «Создать слой», в появившемся контекстном меню выберите «Геометрия» → «Звезда».
 
 #### Перемещение и редактирование слоя <a href="#docs-internal-guid-778dec26-7fff-b8b7-9a6f-b688e85acbbc" id="docs-internal-guid-778dec26-7fff-b8b7-9a6f-b688e85acbbc"></a>

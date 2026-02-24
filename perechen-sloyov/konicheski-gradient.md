@@ -6,7 +6,7 @@
 
 Существует несколько способов создать «Конический градиент»:
 
-* С помощью [инструмента создания градиентов](../osnovnye-principy/instrumenty.md#instrument-gradient), выбрав на панели настройки инструмента «Конический градиент».
+* С помощью [инструмента создания градиентов](/broken/pages/QRolnCJX1Ao1IyMpLKmx#instrument-gradient), выбрав на панели настройки инструмента «Конический градиент».
 
 <figure><img src="../.gitbook/assets/2024-05-20_11-47.png" alt=""><figcaption></figcaption></figure>
 
