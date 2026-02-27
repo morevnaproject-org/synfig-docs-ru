@@ -7,7 +7,7 @@
 * Выберите **Деформацию** на **Панели инструментов**
 * Или нажмите горячую клавишу `m`
 
-<figure><img src="../.gitbook/assets/изображение (4).png" alt="" width="32"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (4) (1).png" alt="" width="32"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/deforma.gif" alt=""><figcaption><p>Инструмент <strong>Деформация</strong></p></figcaption></figure>
 

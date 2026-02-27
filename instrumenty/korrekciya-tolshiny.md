@@ -2,7 +2,7 @@
 
 **Коррекция толщины** — инструмент для динамического изменения толщины контура (аналог нажима карандаша).
 
-<figure><img src="../.gitbook/assets/изображение (10).png" alt="" width="34"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (10) (1).png" alt="" width="34"><figcaption></figcaption></figure>
 
 **Порядок работы:**
 

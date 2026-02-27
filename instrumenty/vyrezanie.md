@@ -2,7 +2,7 @@
 
 **Вырезание** — позволяет вырезать произвольную область композиции, создав маску, делающую область вокруг объекта прозрачной.
 
-<figure><img src="../.gitbook/assets/изображение (8).png" alt="" width="32"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (8) (1).png" alt="" width="32"><figcaption></figcaption></figure>
 
 **Чтобы активировать инструмент:**
 

@@ -7,7 +7,7 @@
 * Выберите его на **Панели инструментов**;
 * Или нажмите горячую клавишу `p`.
 
-<figure><img src="../.gitbook/assets/изображение (13).png" alt="" width="32"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (13) (1).png" alt="" width="32"><figcaption></figcaption></figure>
 
 Он имеет схожие функции с инструментом **Кривые**, но отличается механизмом работы:
 

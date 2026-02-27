@@ -28,7 +28,7 @@
 * Удерживая клавишу **Command**, щёлкните по значку приложения.
 * В появившемся контекстном меню выберите **Открыть**
 
-<figure><img src="../.gitbook/assets/изображение (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Нажмите **Открыть**.&#x20;
 

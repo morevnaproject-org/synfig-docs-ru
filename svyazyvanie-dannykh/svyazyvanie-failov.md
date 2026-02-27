@@ -20,9 +20,9 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/lJRiiqSgoa--PcHL9nCvMLY4YqjVtGsjo6botJkqQppAlaC958QUT2ZpFliDbIPz57mUnlxiTOi1MlgqmCdVfF0DDgbkkrKmXyvVaLTQvJi0SR-KAMAips8Xt18Ynyu7PfE9XxyPFxyQ0XzalIgVhes" alt=""><figcaption></figcaption></figure>
 
-Главное не забывать, что при нажатии кнопки **«Сохранить»** будут сохранены изменения только в текущем файле, а родительский файл нужно сохранять отдельно. Именно поэтому на панели есть кнопка :
+Главное не забывать, что при нажатии кнопки **Сохранить** будут сохранены изменения только в текущем файле, а родительский файл нужно сохранять отдельно. Именно поэтому на панели есть кнопка :
 
-<img src="https://lh7-us.googleusercontent.com/p8hX1EWFwHcrBWENlwe0HhxDZmy5oLEWFN3j9iAljX6R4O7EDw9V_7sa1Xi33CMqPo2Hr1b-GFFFP1WtgSB_hQ_ZnXp1gwM6xZOCvEACdSNbhLrsUP7EiZLVKjj3f-axo6mSqJwYdLPJ_pwSxyxxjaI" alt="" data-size="line">«Сохранить все» — она сохраняет все открытые файлы.
+<img src="https://lh7-us.googleusercontent.com/p8hX1EWFwHcrBWENlwe0HhxDZmy5oLEWFN3j9iAljX6R4O7EDw9V_7sa1Xi33CMqPo2Hr1b-GFFFP1WtgSB_hQ_ZnXp1gwM6xZOCvEACdSNbhLrsUP7EiZLVKjj3f-axo6mSqJwYdLPJ_pwSxyxxjaI" alt="" data-size="line"> **Сохранить все** — она сохраняет все открытые файлы.
 
 **Связанные файлы (изображения)**
 
@@ -35,7 +35,7 @@
 {% hint style="warning" %}
 Если вы хотите переместить свой файл анимации на другой компьютер, то нужно вместе с ним переместит все файлы, на которые он ссылается.&#x20;
 
-Для слоёв изображений мы можем посмотреть путь к файлу в параметре «Имя файла».\
+Для слоёв изображений мы можем посмотреть путь к файлу в параметре **Имя файла**.\
 В этом же параметре вы можете внести изменения в путь к файлу, если это понадобится.
 {% endhint %}
 

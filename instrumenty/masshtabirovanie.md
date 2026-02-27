@@ -2,7 +2,7 @@
 
 **Масштабирование** — инструмент для изменения размера группы контрольных точек.
 
-<figure><img src="../.gitbook/assets/изображение (5).png" alt="" width="32"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (5) (1).png" alt="" width="32"><figcaption></figcaption></figure>
 
 Чтобы активировать инструмент:
 

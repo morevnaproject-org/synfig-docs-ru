@@ -2,7 +2,7 @@
 
 **Отражение** — инструмент для симметричного отображения контрольных точек относительно оси.
 
-<figure><img src="../.gitbook/assets/изображение (7).png" alt="" width="32"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (7) (1).png" alt="" width="32"><figcaption></figcaption></figure>
 
 **Чтобы активировать инструмент:**
 

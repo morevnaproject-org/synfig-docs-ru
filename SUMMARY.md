@@ -55,6 +55,7 @@
 * [Управление толщиной контура](rabota-s-vektornoi-grafikoi/upravlenie-tolshinoi-kontura.md)
 * [Импорт SVG](rabota-s-vektornoi-grafikoi/vektorizaciya-izobrazhenii.md)
 * [Автоматическая векторизация изображения](rabota-s-vektornoi-grafikoi/import-svg.md)
+* [Редактирование векторных кривых](rabota-s-vektornoi-grafikoi/redaktirovanie-vektornykh-krivykh.md)
 
 ## Экспорт
 

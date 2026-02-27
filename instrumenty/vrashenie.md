@@ -2,7 +2,7 @@
 
 **Вращение** — инструмент, который предназначен для вращения выделенных **контрольных точек**.&#x20;
 
-<figure><img src="../.gitbook/assets/изображение (6).png" alt="" width="32"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (6) (1).png" alt="" width="32"><figcaption></figcaption></figure>
 
 Чтобы активировать инструмент:
 

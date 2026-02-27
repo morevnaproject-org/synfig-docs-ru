@@ -6,12 +6,12 @@
 
 **Параметры слоев стробоскопа следующие:**
 
-| Имя                                                                                                                                                                                                      | Значение  | Тип      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- |
-| [<img src="https://synfig.readthedocs.io/en/latest/_images/Type_real_icon.png" alt="Type_real_icon.png" data-size="line">](https://synfig.readthedocs.io/en/latest/_images/Type_real_icon.png) Глубина Z | 0.000000u | реальный |
-| [<img src="https://synfig.readthedocs.io/en/latest/_images/Type_real_icon.png" alt="Type_real_icon.png" data-size="line">](https://synfig.readthedocs.io/en/latest/_images/Type_real_icon.png) Частота   | 2.000000u | реальный |
+| Имя                                                                                                                                                                                                      | Значение    | Тип      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------- |
+| [<img src="https://synfig.readthedocs.io/en/latest/_images/Type_real_icon.png" alt="Type_real_icon.png" data-size="line">](https://synfig.readthedocs.io/en/latest/_images/Type_real_icon.png) Глубина Z | `0.000000u` | реальный |
+| [<img src="https://synfig.readthedocs.io/en/latest/_images/Type_real_icon.png" alt="Type_real_icon.png" data-size="line">](https://synfig.readthedocs.io/en/latest/_images/Type_real_icon.png) Частота   | `2.000000u` | реальный |
 
-У слоя есть единственный параметр, называемый «Частота» (в разах в секунду), который определяет, как часто берутся кадры. **Частота**, равная частоте кадров в секунду в вашем проекте, не повлияет на вашу анимацию, в то время как меньшие частоты будут отображаться так, как если бы вы снизили **частоту** кадров до этой величины.
+У слоя есть единственный параметр, называемый **Частота** (в разах в секунду), который определяет, как часто берутся кадры. **Частота**, равная частоте кадров в секунду в вашем проекте, не повлияет на вашу анимацию, в то время как меньшие частоты будут отображаться так, как если бы вы снизили **частоту** кадров до этой величины.
 
 <figure><img src="../.gitbook/assets/Стробоскоп0001-0119.gif" alt="" width="360"><figcaption></figcaption></figure>
 

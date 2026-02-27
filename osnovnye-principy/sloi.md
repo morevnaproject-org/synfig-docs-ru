@@ -28,7 +28,7 @@
 
 Рядом  на этой же панели находятся другие кнопки управления слоями:&#x20;
 
-<img src="../.gitbook/assets/изображение (5) (1).png" alt="" data-size="line"> — **Создать копию слоя (дублировать)**
+<img src="../.gitbook/assets/изображение (5) (1) (1).png" alt="" data-size="line"> — **Создать копию слоя (дублировать)**
 
 <img src="../.gitbook/assets/group_icon.png" alt="" data-size="line"> — **Группировать слои**
 

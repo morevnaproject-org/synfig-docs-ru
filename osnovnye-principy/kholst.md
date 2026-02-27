@@ -7,7 +7,7 @@
 * В верхнем меню выберите **Холст** → **Свойства**.
 * Нажмите клавишу **F8**.
 
-<figure><img src="https://lh7-us.googleusercontent.com/mdJGNsrYig4xiQvu89LtJQuKZ7wSJ1LzUiIFRp34dmi0WV0MpRyQFkOqX55II0zvO2t8j9f6SuBC6JZznnAnWdjnifKwGIjJNQl19OCDfjcBt4hztN1EGLI9BgGhOF04gz7XuDz73XOe3j479VBU7Xw" alt=""><figcaption><p>Окно "Свойства холста"</p></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/mdJGNsrYig4xiQvu89LtJQuKZ7wSJ1LzUiIFRp34dmi0WV0MpRyQFkOqX55II0zvO2t8j9f6SuBC6JZznnAnWdjnifKwGIjJNQl19OCDfjcBt4hztN1EGLI9BgGhOF04gz7XuDz73XOe3j479VBU7Xw" alt=""><figcaption><p>Окно <strong>Свойства холста</strong></p></figcaption></figure>
 
 ## Вкладка Изображение
 

@@ -12,7 +12,7 @@
 1. Щелкните **ЛКМ** в любом месте на **Рабочей области**.
 2. В указанном месте будет создан новый **Текстовый слой**, и вы сможете ввести текст.
 
-<figure><img src="../.gitbook/assets/изображение (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/text (2).gif" alt=""><figcaption><p>Инструмент «<strong>Текст</strong>»</p></figcaption></figure>
 

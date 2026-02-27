@@ -11,6 +11,6 @@
 2. Наведите курсор на объект в **Рабочей области**.
 3. Щелкните **ЛКМ**, чтобы применить цвет к выбранному слою.
 
-<figure><img src="../.gitbook/assets/изображение (15).png" alt="" width="32"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (15) (1).png" alt="" width="32"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/fill.gif" alt=""><figcaption><p>Сплошная заливка</p></figcaption></figure>

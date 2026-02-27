@@ -20,7 +20,7 @@
 
 * **Детализация** — определяет качество и детальность накладываемого шума;
 
-<table><thead><tr><th width="158">Детализация</th><th>Отображение (смещение/размер 50px:50px, интерполяция - "Косинус")</th></tr></thead><tbody><tr><td>1</td><td><img src="../.gitbook/assets/d1.png" alt="" data-size="original"></td></tr><tr><td>2</td><td><img src="../.gitbook/assets/d2.png" alt="" data-size="original"></td></tr><tr><td>3</td><td><img src="../.gitbook/assets/d3.png" alt="" data-size="original"></td></tr><tr><td>4</td><td><img src="../.gitbook/assets/d4.png" alt="" data-size="original"></td></tr><tr><td>5</td><td><img src="../.gitbook/assets/d5.png" alt="" data-size="original"></td></tr></tbody></table>
+<table><thead><tr><th width="158">Детализация</th><th>Отображение (смещение/размер 50px:50px, интерполяция — Косинус)</th></tr></thead><tbody><tr><td>1</td><td><img src="../.gitbook/assets/d1.png" alt="" data-size="original"></td></tr><tr><td>2</td><td><img src="../.gitbook/assets/d2.png" alt="" data-size="original"></td></tr><tr><td>3</td><td><img src="../.gitbook/assets/d3.png" alt="" data-size="original"></td></tr><tr><td>4</td><td><img src="../.gitbook/assets/d4.png" alt="" data-size="original"></td></tr><tr><td>5</td><td><img src="../.gitbook/assets/d5.png" alt="" data-size="original"></td></tr></tbody></table>
 
 * **Скорость анимации** — задает случайную анимацию для шума. Введенное число отвечает за количество кадров цикла анимации;
 
