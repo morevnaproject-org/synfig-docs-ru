@@ -1,6 +1,8 @@
-# Группирование слоев
+# Группирование слоёв
 
-Группа — это специальный слой, который может содержать другие слои.
+Группа — это специальный слой, который может содержать в себе другие слои. С помощью этого слоя мы можем сгруппировать несколько слоёв и работать с ними как с одним объектом.
+
+Помимо объединения слоев, он также может применять преобразования к содержащимся слоям, такие как перемещение, вращение, масштабирование и даже влиять на время воспроизведения анимации внутренних слоёв.
 
 {% hint style="info" %}
 В Synfig Studio мы можем сгруппировать несколько слоёв и работать с ними как с одним объектов.
@@ -8,21 +10,9 @@
 
 Помимо группировки набора слоев, он также может применять преобразования к содержащимся слоям, такие как перевод, масштабирование и даже изменять их смещение по времени.
 
-## **Параметры Группового слоя**
-
-<figure><img src="https://lh7-us.googleusercontent.com/APWpGZVy5YFx0Bw5tKdEyFlk3SevGS5a85xxILS7O5qosMrIZSXkMFA5Yhdw7qEgUDPaQpSqapXJJj0xUv-0g9mc3iLGyrgoDgMTyckQjOXktxgb_QLX8tL849UPbJGqO30YG9Njngn0YLAdPaK-3EM" alt=""><figcaption></figcaption></figure>
-
-Параметр **Преобразование** является составным параметром, он содержит смещение, угол поворота, угол перекоса и значение масштаба для группы.
-
-**Преобразование** параметр уже [преобразуется](https://synfig.readthedocs.io/en/latest/converters/composite.html#converter-composite) при создании [группового слоя](https://synfig.readthedocs.io/en/latest/layers/group.html#layer-group) и, таким образом, напрямую предоставляет подпараметры параметров **смещения**, **поворота**, **перекоса** и **масштабирования**.
-
-Точно также как у слоя изображения, у группы есть точки за которые мы можем изменять её положение размер и прочее. Более подробно про контрольные точки можно посмотреть в разделе: **Параметры на рабочей области** → **Контрольные точки, их цвета и типы**.
-
 **Виды групп**
 
 <table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><img src="https://lh7-us.googleusercontent.com/Lok5w0eS9n4QrrC3jc6euMMW3rIC5TZNNdVYuF4yZ4WLatzx-1T85pJLWGIBojPeLKN7-kRqOalLLdgV1o_157X9THz7WmrgYXH4q0uk2Zjg88usWyByX1koKVKFH1heyr2uQqs1OclmLV9lCXiWV-Y" alt="" data-size="original"></p><p><strong>Группа</strong></p></td><td></td><td></td></tr><tr><td><p><img src="https://lh7-us.googleusercontent.com/tAnKI-OpVc2EDZSa3TexqbGJdTC0BA67PeiVid4xcTs6GNCClcIANPMzSp4cUlx7sw5hcH7n0hSWrr1iztxINLU0TB_jYzGWKxQghA_pmO8t9EDWtfO96T9wkEgqZcvoIoX5HZNJZAmbEvgJS8ZbK8Y" alt="" data-size="original"></p><p><strong>Группа переключатель</strong></p></td><td></td><td></td></tr><tr><td><p><img src="https://lh7-us.googleusercontent.com/PcUiIsRDtAeby024SjTZAqIFDrIxz3FlY96znpDh2Yvk0GZc0t5XA6TFsKjdFx6aXUtc4haZB-sbZdxelO1CBNVtqqOWNHjLV1_7nh3kNSCf--m8ZP8U6OothNbRurqDR1KXcZ4LPcwBX0rrgGhEnAA" alt="" data-size="original"></p><p><strong>Группа фильтров</strong></p></td><td></td><td></td></tr></tbody></table>
-
-Подробнее смотрите о **Группе-переключателе** в разделе **Слой-переключатель**. Подробнее о **Группе фильтров** смотрите в разделе **Группа фильтров**
 
 ## **Функции группы**
 
@@ -35,6 +25,18 @@
 **Трансформация групп**
 
 Трансформация групп происходит с помощью Контрольных точек слоя, при выделении слоя появляются контрольные точки с помощью которых мы можем редактировать объект на рабочей области, но у каждого слоя свои контрольные точки. Но сейчас нам нужны точки именно группы
+
+## **Параметры Группового слоя**
+
+<figure><img src="https://lh7-us.googleusercontent.com/APWpGZVy5YFx0Bw5tKdEyFlk3SevGS5a85xxILS7O5qosMrIZSXkMFA5Yhdw7qEgUDPaQpSqapXJJj0xUv-0g9mc3iLGyrgoDgMTyckQjOXktxgb_QLX8tL849UPbJGqO30YG9Njngn0YLAdPaK-3EM" alt=""><figcaption></figcaption></figure>
+
+Параметр **Преобразование** является составным параметром, он содержит смещение, угол поворота, угол перекоса и значение масштаба для группы.
+
+Групповой слой по умолчанию содержит параметр **Трансформация**. Это позволяет управлять **положением**, **вращением**, **перекосом** и **масштабом** всех входящих в группу объектов одновременно.
+
+Точно также как у слоя изображения, у группы есть точки за которые мы можем изменять её положение размер и прочее. Более подробно про контрольные точки можно посмотреть в разделе: **Параметры на рабочей области** → **Контрольные точки, их цвета и типы**.
+
+Подробнее смотрите о **Группе-переключателе** в разделе **Слой-переключатель**. Подробнее о **Группе фильтров** смотрите в разделе **Группа фильтров**
 
 ## Точки вершин группы и изображений
 

@@ -11,7 +11,11 @@
 
 После этого начнётся загрузка файла в формате `AppImage`.
 
-#### Назначение прав на выполнение (графическая среда MATE)
+## Назначение прав на выполнение
+
+После завершения загрузки необходимо сделать файл исполняемым. Есть два способа это сделать:
+
+### Через графическую среду MATE
 
 После завершения загрузки необходимо сделать файл исполняемым:
 
@@ -25,11 +29,9 @@
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfob2WT_rANW4gY0XX1PyE-4Y2m_FnALnMBH18hgEsBWcHBrhZC7rS59vZopL0kqqDKciv40IntJtemnjse9VBKNcCxXi19cBElaVlMSTy4345SmEUtNUVzRUxCaQ98_s_mDrBtqg?key=Qugbi_qs3K00HPoLAYA-7UrI" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-При первом запуске откроется окно о том, чтобы интегрировать приложение в систему. В таком случае у приложения появится иконка Synfig и оно будет добавлено в список приложений в вашей системе. Вы можете согласиться, а можете выбрать **Нет**, но приложение по-прежнему будет запускаться по двойному щелчку.
-{% endhint %}
-
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfsYrGQAZa-4iLNhQmhusUbMhOilOYeYHDYrMsnUGSrMFLYKeXNsJZuuBpx3BbLAwby_cDVtqhnrhX9yXPIvCseq1YamNnOtpOGcKMdgnSsecsm1n4PaJv9jRZ4e1cj724ImTIDuw?key=Qugbi_qs3K00HPoLAYA-7UrI" alt=""><figcaption></figcaption></figure>
+
+### Через терминал
 
 *   В терминале выполните следующие действия:
 
@@ -47,6 +49,10 @@
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe0ys0fa3Z7ePujWRZla4EfiR9JxSSx3LO-8eEquslS-1-TMKnkMtM7CjEHhFg5RGTeOaAGaS7BL1eDGC7P8zYESMBWB8XP1kUHKQKIy3EJBx-DxYLDkYoJo4O_Fix9fBtch8er?key=Qugbi_qs3K00HPoLAYA-7UrI" alt=""><figcaption></figcaption></figure>
 
 Дважды щёлкните на файл `AppImage`, чтобы запустить программу.
+
+{% hint style="info" %}
+При первом запуске откроется окно о том, чтобы интегрировать приложение в систему. В таком случае у приложения появится иконка Synfig и оно будет добавлено в список приложений в вашей системе. Вы можете согласиться, а можете выбрать **Нет**, но приложение по-прежнему будет запускаться по двойному щелчку.
+{% endhint %}
 
 ## Возможные проблемы и их решения:
 

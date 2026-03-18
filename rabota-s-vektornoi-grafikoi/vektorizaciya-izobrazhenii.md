@@ -8,7 +8,7 @@
 * Через перетаскивание из папки на рабочую область
 * С помощью программы **Inkscape**
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Начиная с **Inkscape 0.91**, расширение для экспорта в **Synfig Studio** поставляется вместе с официальной установкой **Inkscape**. Его можно найти через меню: **Файл → Сохранить как → Анимационный файл Synfig** (`.sif`).
 

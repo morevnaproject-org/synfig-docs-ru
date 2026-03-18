@@ -9,7 +9,7 @@
 После того как загрузка завершится, запустите скачанный `.exe`-файл.
 
 {% hint style="info" %}
-Система может распознать программу как неопознанное приложение. Не беспокойтесь: нажмите ссылку **Подробнее**, а затем – кнопку **Выполнить в любом случае**. Окно примет вид, представленный на скриншоте ниже. Программа находится в стадии получения сертификата, поэтому такая реакция системы при запуске инсталлятора ожидаема.
+При запуске установщика система может пометить приложение как неопознанное. Это стандартное поведение Windows для программ, находящихся в процессе обновления цифрового сертификата. Чтобы продолжить, нажмите **Подробнее**, а затем — **Выполнить в любом случае** (см. скриншот ниже).
 {% endhint %}
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfcn_DNWGUcecsIyo0uupPGFUIs-Uv1IgytL4bw6zR0gfdc3IWCchAddNeM-PJMNOJNtnCk1lxRq6PTY_lWWnBk6xbhPwWK3dtP9xILM37EBcflS-XTwaWmBBjpvQov2GbqeqIfkw?key=FoDxXNc_QigqWC4DcTMGjln5" alt=""><figcaption></figcaption></figure>
@@ -48,7 +48,5 @@
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeAp0rkva47AQDiFDbC-7Ofu29C1JeuO9pwFvqDmG5LuCcUf2sqzg_qF8ACgqq9CxvpOYPydMaz4OFp-lgSNTxnTIzFeOd5ltRvaa2c30UIuelSfIcVy5HoOLLKl9n7lixfM0d9FA?key=FoDxXNc_QigqWC4DcTMGjln5" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-На одном компьютере вы можете установить сразу несколько версий программы. Для этого установите каждую версию в отдельную папку.
-
-Важно учитывать, что ассоциации файлов будут обновлены
+Вы можете использовать несколько версий Synfig на одном устройстве, установив каждую в отдельную директорию. Учтите: ассоциации файлов (автоматическое открытие по клику) будут закреплены за последней установленной версией программы.
 {% endhint %}
