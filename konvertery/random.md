@@ -14,7 +14,7 @@
 
 <figure><img src="https://lh7-us.googleusercontent.com/8Ixi9uJuJYW-VEyQy38MnN7zremZ3lkEN4Y6Ry9yheeggZPQxb5UueIiKXI9g6oA6K_xs0Rf8FtUQud_JRXsiUhZZKWWpTgmWD6gg78d6YWtVMxjKoW1uvtYdHW103ENY4mu2aj0v-lLKnyY6BYyDKE" alt=""><figcaption></figcaption></figure>
 
-**Random** можно использовать на параметры : [Углы](../docs/Convert/#Angle), [Цвет](../docs/Convert/#Color), [Целые числа](../docs/Convert/#Integer), [Действительные значения](../docs/Convert/#Real), [Времена](../docs/Convert/#Time) и [Векторы](../docs/Convert/#Vector).
+**Random** можно использовать на параметры : **Углы**, **Цвет**, **Целые числа**, **Действительные значения**, **Времена** и **Векторы**.
 
 Преобразование параметра **Центр** с использованием конвертера **Linear** добавляет следующие подпараметры:
 
